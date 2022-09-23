@@ -1,0 +1,85 @@
+1. How many responses per day per user?
+- Readable Query
+SELECT user_id AS 'User ID', COUNT(*) AS 'Total Response', COUNT(DISTINCT(DATE(datetime))) AS 'Day of Use', FORMAT(COUNT(*)/COUNT(DISTINCT(DATE(datetime))), 2) AS 'Average Response Per Day' FROM dbznhqfpwbiage.responses WHERE response <> '/skip' GROUP BY user_id ORDER BY COUNT(*)/COUNT(DISTINCT(DATE(datetime))) DESC;
+- Compact Query
+SELECT user_id, COUNT(*), COUNT(DISTINCT(DATE(datetime))), FORMAT(COUNT(*)/COUNT(DISTINCT(DATE(datetime))), 2) FROM dbznhqfpwbiage.responses WHERE response <> '/skip' GROUP BY user_id;
+- Only User id and Response per Day per User
+SELECT user_id, FORMAT(COUNT(*)/COUNT(DISTINCT(DATE(datetime))), 2) FROM dbznhqfpwbiage.responses WHERE response <> '/skip' GROUP BY user_id;
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2. What percentage of each data type is skipped from total of its data type on Responses?
+- Readable Query
+SELECT data_id AS 'Data type', COUNT(IF(response = '/skip',1,NULL)) AS 'Total Skipped', Count(*) AS 'Total', FORMAT((COUNT(IF(response = '/skip',1,NULL))/ Count(*)) * 100, 2) AS 'Percentage' FROM dbznhqfpwbiage.responses GROUP BY data_id;
+- Compact Query
+SELECT data_id, COUNT(IF(response = '/skip',1,NULL)), Count(*), FORMAT((COUNT(IF(response = '/skip',1,NULL))/ Count(*)) * 100, 2) FROM dbznhqfpwbiage.responses GROUP BY data_id;
+- Only data type and Skipped Percentage
+SELECT data_id, FORMAT((COUNT(IF(response = '/skip',1,NULL))/ Count(*)) * 100, 2) FROM dbznhqfpwbiage.responses GROUP BY data_id;
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+3. Are certain prompt_ids skipped more?
+- Readable Query
+SELECT prompt_id AS 'Prompt ID', count(*) AS 'Total Skipped' FROM dbznhqfpwbiage.responses WHERE response = '/skip' GROUP BY prompt_id ORDER BY count(*) DESC LIMIT 10;
+- 10 Most Skipped prompt_id
+SELECT prompt_id, count(*) FROM dbznhqfpwbiage.responses WHERE response = '/skip' GROUP BY prompt_id ORDER BY count(*) DESC LIMIT 10;
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+4. Are certain response_id's skipped more?
+- Readable Query
+SELECT response_id AS 'Response ID', count(*) AS 'Total Skipped' FROM dbznhqfpwbiage.responses WHERE Confirmed = 'skip' GROUP BY response_id ORDER BY count(*) DESC LIMIT 10;
+- 10 Most Skipped response_id
+SELECT response_id, count(*) FROM dbznhqfpwbiage.responses WHERE Confirmed = 'skip' GROUP BY response_id ORDER BY count(*) DESC LIMIT 10;
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+How many users are doing the check data activity?
+SELECT COUNT(DISTINCT(user_id)) FROM dbznhqfpwbiage.responses WHERE check_id <> 0;
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5. How much data per day is each user checking?
+- Readable Query
+SELECT user_id AS 'User ID', count(*) AS 'Total Data Check', COUNT(DISTINCT(DATE(datetime))) AS 'Days of Check', FORMAT(COUNT(*)/COUNT(DISTINCT(DATE(datetime))), 2) AS 'Average Data Check Per Day' FROM dbznhqfpwbiage.responses WHERE check_id <> 0 GROUP BY user_id;
+- Compact Query
+SELECT user_id, count(*), COUNT(DISTINCT(DATE(datetime))), FORMAT(COUNT(*)/COUNT(DISTINCT(DATE(datetime))), 2) FROM dbznhqfpwbiage.responses WHERE check_id <> 0 GROUP BY user_id;
+- Only user_id and data per day user checking
+SELECT user_id, FORMAT(COUNT(*)/COUNT(DISTINCT(DATE(datetime))), 2) FROM dbznhqfpwbiage.responses WHERE check_id <> 0 GROUP BY user_id;
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+6. Percentage of user have most 'no' confirmed?
+10 user who had most 'no' confirmed percentage
+- Readable Query
+SELECT user_id AS 'USER ID', COUNT(IF(Confirmed='no',1,NULL)) AS 'Total Not Confirmed', COUNT(response) AS 'Total Response', FORMAT((COUNT(IF(Confirmed='no',1,NULL)))/ COUNT(response) * 100, 2) AS 'Not Confirmed Percentage' FROM dbznhqfpwbiage.responses GROUP BY user_id ORDER BY ((COUNT(IF(Confirmed='no',1,NULL)))/ COUNT(response) * 100) DESC LIMIT 10;
+- Compact Query
+SELECT user_id, COUNT(IF(Confirmed='no',1,NULL)), COUNT(response), FORMAT((COUNT(IF(Confirmed='no',1,NULL)))/ COUNT(response) * 100, 2) FROM dbznhqfpwbiage.responses GROUP BY user_id ORDER BY ((COUNT(IF(Confirmed='no',1,NULL)))/ COUNT(response) * 100) DESC LIMIT 10;
+- Only user_id and 'no' confirmed percentage
+SELECT user_id, FORMAT((COUNT(IF(Confirmed='no',1,NULL)))/ COUNT(response) * 100, 2) FROM dbznhqfpwbiage.responses GROUP BY user_id ORDER BY ((COUNT(IF(Confirmed='no',1,NULL)))/ COUNT(response) * 100) DESC LIMIT 10;
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+7. Where are users using the app from?
+SELECT latitude, longitude FROM dbznhqfpwbiage.responses WHERE latitude IS NOT NULL GROUP BY latitude, longitude;
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+8. Implemented on Update Version 8 MySQL or PostGreSQL
+
+Are they filling the survey out at one time or throughout the day?
+What times? How long is it taking? How much session the have on each screen time (We assume they off screen time if they had more than 10 minutes interval between response)
+- Showing user_id, date, and how long user take the survey on that day
+- Readable Query
+SELECT user_id AS 'User ID', DATE(datetime) AS 'Date', TIMEDIFF(MAX(datetime), MIN(datetime)) AS 'Time Consumed' FROM dbznhqfpwbiage.responses GROUP BY user_id, DATE(datetime);
+- Compact Query
+SELECT user_id, DATE(datetime), TIMEDIFF(MAX(datetime), MIN(datetime)) FROM dbznhqfpwbiage.responses GROUP BY user_id, DATE(datetime);
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+9. I want to be able to generate the list of responses which have not been confirmed after check data.
+- Readable Query
+SELECT  pr.prompt_id AS 'Prompt ID', pr.prompt AS 'Prompt', pr.hint AS 'Hint', rs.response_id as 'Response ID' , rs.response AS 'Response' FROM dbznhqfpwbiage.all_prompts AS pr, dbznhqfpwbiage.responses AS rs WHERE pr.prompt_id = rs.prompt_id AND rs.response_id IN (select check_id from dbznhqfpwbiage.responses WHERE check_id<>0 AND Confirmed='no') ORDER BY pr.prompt_id;
+- Compact Query
+SELECT  pr.prompt_id, pr.prompt, pr.hint, rs.response_id, rs.response FROM dbznhqfpwbiage.all_prompts AS pr, dbznhqfpwbiage.responses AS rs WHERE pr.prompt_id = rs.prompt_id AND rs.response_id IN (select check_id from dbznhqfpwbiage.responses WHERE check_id<>0 AND Confirmed='no') ORDER BY pr.prompt_id;
