@@ -1,0 +1,809 @@
+prompt_id;prompt;response_id;user;response;data_type;check_responseid;check_user;check_response;check_type
+1;segala sesuatu yang dapat kita lihat ;2949;209;alam semesta;1;3046;249;alam semesta;DAILY CHECK
+9;Kata yang digunakan untuk menyebut tempat atau wilayah di atas langit (di atas udara). ;2988;214;sugekh;1;3066;249;segar;DAILY CHECK
+10;Kata yang digunakan untuk menyebut tempat atau wilayah di atas langit (di atas udara). ;2997;214;luakh angkase;1;3030;249;luar angkasa;DAILY CHECK
+11;Kata yang menjelaskan sifat sesuatu yang ada di langit atau sesuatu yang terjadi di langit. ;2946;209;ni langit;1;3034;249;di langit;DAILY CHECK
+12;Kata yang menjelaskan sifat sesuatu yang ada di langit atau sesuatu yang terjadi di langit. ;2995;214;di ndatas langit;1;3050;249;di atas langit;DAILY CHECK
+13;Kata yang menjelaskan rupa langit, atau tampak seperti apa langit itu. ;2955;209;bikhu;1;3028;249;biru;DAILY CHECK
+14;Kata yang menjelaskan rupa langit, atau tampak seperti apa langit itu. ;3004;214;cekhah;1;3025;249;cerah;DAILY CHECK
+17;Kata yang digunakan untuk menyebut batas antara langit bagian bawah dengan permukaan bumi. ;2980;249;kiding langit;1;3098;209;kaki langit;DAILY CHECK
+18;Kata yang digunakan untuk menyebut batas antara langit bagian bawah dengan permukaan bumi. ;2993;214;batas pemandangen;1;3031;249;batas pamandangan;DAILY CHECK
+19;Kata yang digunakan untuk menyebut batas antara langit bagian bawah dengan permukaan bumi. ;2994;214;tepi langit;1;3039;249;tepi langit;DAILY CHECK
+22;Kata yang digunakan untuk menyebut cahaya yang kadang-kadang tampak di sebelah utara (atau selatan) langit. (CATATAN: Kemungkinan cahaya ini tidak terlihat di negara tropis seperti Indonesia.) ;3003;214;cahaye di timukh;1;3077;249;cahaya di timur;DAILY CHECK
+24;Kata yang digunakan untuk menjelaskan bahwa sesuatu ada di langit. ;3012;214;ni langit;1;3068;249;di langit;DAILY CHECK
+27;Kata yang digunakan untuk menjelaskan bahwa sesuatu ada di langit. ;2968;249;ni datas langit;1;3097;209;di atas langit;DAILY CHECK
+28;Kata yang digunakan untuk menyebut matahari. ;2973;249;matewakhi;1;3087;209;matahari;DAILY CHECK
+29;Kata yang digunakan untuk menyebut matahari. ;2978;249;sukhya;1;3085;209;surya;DAILY CHECK
+31; Kata yang digunakan untuk menyebut cara matahari bergerak. ;2983;249;metuk;1;3081;209;muncul;DAILY CHECK
+189; Kata yang menjelaskan sifat suatu benda yang dibiarkan terbuka terhadap cuaca untuk waktu yang lama. ;2989;214;khusak ni telen cuace;1;3048;249;rusak di makan cuaca;DAILY CHECK
+194; Apa saja alat yang digunakan untuk mempelajari tentang cuaca. ;2999;214;mbaling2 untum mempekikheken cuace;1;3041;249;baling² untum memperkirakan cuaca;DAILY CHECK
+337; Kata yang digunakan untuk menyebut proses berakhirnya banjir. ;2974;249;sukhut;1;3173;214;surut;DAILY CHECK
+342;Kata yang digunakan untuk menyebut saat sedikit turun hujan atau tidak hujan sama sekali. ;2984;249;malet hudan;1;3100;209;tidak hujan;DAILY CHECK
+344; Kata yang menjelaskan ciri tanah ketika tidak ada hujan.;3010;214;gersang nine;1;3036;249;tandus dia;DAILY CHECK
+353; Kata yang menjelaskan sifat sesuatu yang mempengaruhi seluruh dunia. ;2992;214;global dunie;1;3079;249;global dunia;DAILY CHECK
+408; Apa yang dihasilkan oleh gunung api. ;2961;249;lahakh;1;3096;209;lahar;DAILY CHECK
+409; Apa yang dihasilkan oleh gunung api. ;2966;249;abu;1;3088;209;debu;DAILY CHECK
+410; Kata yang menjelaskan keadaan apakah suatu gunung api itu akan meletus atau tidak. ;2954;209;aktif;1;3040;249;aktif;DAILY CHECK
+424;Apa saja jenis lembah. ;2987;214;ngarai be;1;3054;249;garai lu;DAILY CHECK
+485; Kata yang digunakan untuk menyebut tanah yang bercampur dengan air. ;660;171;mekubhang;1;1291;124;berlumpur;DAILY CHECK
+485; Kata yang digunakan untuk menyebut tanah yang bercampur dengan air. ;660;171;mekubhang;1;1293;204;berendam;DAILY CHECK
+492; Apa yang dilakukan oleh debu. ;641;171;nangkih;1;893;169;naik;DAILY CHECK
+494; Apa yang dilakukan oleh debu. ;640;171;ngkabhang;1;826;169;terbang;DAILY CHECK
+494; Apa yang dilakukan oleh debu. ;640;171;ngkabhang;1;1280;205;kabang;DAILY CHECK
+494; Apa yang dilakukan oleh debu. ;640;171;ngkabhang;1;1286;204;terbang;DAILY CHECK
+494; Apa yang dilakukan oleh debu. ;640;171;ngkabhang;1;1320;211;terbang;DAILY CHECK
+502; Kata yang digunakan untuk menyebut berbagai ukuran batu. ;654;171;bhatu kakhang;1;1287;205;batu karang ;DAILY CHECK
+502; Kata yang digunakan untuk menyebut berbagai ukuran batu. ;654;171;bhatu kakhang;1;1289;204;batu karang;DAILY CHECK
+503; Kata yang digunakan untuk menyebut berbagai ukuran batu. ;655;171;bhatu mbelin;1;1303;205;Batu besar;DAILY CHECK
+504; Kata yang digunakan untuk menyebut berbagai ukuran batu. ;723;171;bhatu kekhekel;1;1292;237;batu;DAILY CHECK
+505; Kata yang digunakan untuk menyebut berbagai ukuran batu. ;656;171;kosik;1;894;169;pasir;DAILY CHECK
+524; Kata yang digunakan untuk menyebut potongan besi yang menarik potongan besi lainnya.;727;171;bhesi bekhani;1;1283;204;besi berani;DAILY CHECK
+556; Kata yang digunakan untuk menyebut perubahan zat cair menjadi zat padat. ;728;171;kekhah, makhoh;1;1304;204;kering, tidak ada air;DAILY CHECK
+1474; Kata yang digunakan untuk menyebut pemimpin sekelompok binatang (mis. anjing, kuda). ;2951;209;pemimping binatang kane;1;3064;249;pemimpin hewan juga;DAILY CHECK
+1480;Kata yang digunakan untuk menyebut binatang jantan atau betina. ;2982;249;boguh;1;3091;209;laki;DAILY CHECK
+1481;Kata yang digunakan untuk menyebut binatang jantan atau betina. ;3000;214;betine;1;3047;249;bAtinnya;DAILY CHECK
+1484;Kata yang digunakan untuk menyebut dunia di sekitar kita. ;3009;214;dunie;1;3045;249;dunia;DAILY CHECK
+1490; Kata yang digunakan untuk menyebut pelestarian lingkungan. ;2967;249;pelestakhien;1;3086;209;pelestarian;DAILY CHECK
+1502; Kata yang digunakan untuk menyebut seseorang secara umum, bukan tentang orang tertentu. ;1425;216;kalak lain;1;1878;169;orang lain;DAILY CHECK
+1502; Kata yang digunakan untuk menyebut seseorang secara umum, bukan tentang orang tertentu. ;1436;201;jeme si lain ne;1;1994;249;orang lain nya;DAILY CHECK
+1503; Kata yang digunakan untuk menyebut lebih dari satu orang. ;1438;204;jeme khami;1;1963;249;orang ramai;DAILY CHECK
+1504; Kata yang digunakan untuk menyebut lebih dari satu orang. ;1798;238;jeme tekhem;1;1964;249;orang banyak;DAILY CHECK
+1505; Kata yang digunakan untuk menyebut lebih dari satu orang. ;1452;204;khakyat;1;2064;233;rakyat;DAILY CHECK
+1505; Kata yang digunakan untuk menyebut lebih dari satu orang. ;1452;204;khakyat;1;2270;169;rakyat;DAILY CHECK
+1507; Kata yang digunakan untuk menyebut seluruh umat manusia (sebagai satu kelompok). ;1446;211;manusie;1;1935;249;manusia;DAILY CHECK
+1507; Kata yang digunakan untuk menyebut seluruh umat manusia (sebagai satu kelompok). ;1577;201;insan ;1;2219;214;insan;DAILY CHECK
+1507; Kata yang digunakan untuk menyebut seluruh umat manusia (sebagai satu kelompok). ;1582;210;umat manusie;1;2041;209;umat jeme;DAILY CHECK
+1507; Kata yang digunakan untuk menyebut seluruh umat manusia (sebagai satu kelompok). ;1582;210;umat manusie;1;2265;169;manusia;DAILY CHECK
+1508; Kata yang digunakan untuk menyebut seluruh umat manusia (sebagai satu kelompok). ;1294;214;jeme;1;1995;249;manusia;DAILY CHECK
+1509; Kata yang digunakan untuk menyebut seluruh umat manusia (sebagai satu kelompok). ;1327;214;umat jeme;1;2029;209;umat manusia;DAILY CHECK
+1509; Kata yang digunakan untuk menyebut seluruh umat manusia (sebagai satu kelompok). ;1489;202;jeme kekhine (selukhuhne);1;3628;171;manusia semuanya;DAILY CHECK
+1509; Kata yang digunakan untuk menyebut seluruh umat manusia (sebagai satu kelompok). ;1612;201;umat manusie (kekhinne);1;2272;169;manusia;DAILY CHECK
+1509; Kata yang digunakan untuk menyebut seluruh umat manusia (sebagai satu kelompok). ;1728;215;mase;1;1946;249;masa;DAILY CHECK
+1511; Kata yang menjelaskan ciri yang terdapat pada semua manusia. ;1660;253;sifat dasakh manusie ;1;1881;209;sifat dasar manusia;DAILY CHECK
+1512; Kata yang menjelaskan ciri yang terdapat pada seorang manusia. ;1693;238;sendikhi;1;1984;249;sendiri;DAILY CHECK
+1512; Kata yang menjelaskan ciri yang terdapat pada seorang manusia. ;1693;238;sendikhi;1;2077;209;sendiri;DAILY CHECK
+1516;Kata yang digunakan untuk menyebut tubuh//badan. ;1281;214;awe,  babah,  mate,  igung,  dagu,  tagi,  alis,  cuping, buk, dade,  pakhe,  tangan, kiding,  betis, jantung, lidah,  ipen,  kuduk,  indung kiding,  jakhi indung,  jakhi telunjuk,  jakhi tengah,  jakhi manis,  jakhi kidil, ate;1;1907;209;muka, mulut, mata, hidung, isang, jidat, alis, kuping, rambut, dada, bahu, tangan, kaki, betis, jantung, lidah, gigi, punggung, induk kaki, jari induk, jari telunjuk, jari tengah, jari manis, anak jari, hati;DAILY CHECK
+1516;Kata yang digunakan untuk menyebut tubuh//badan. ;1281;214;awe,  babah,  mate,  igung,  dagu,  tagi,  alis,  cuping, buk, dade,  pakhe,  tangan, kiding,  betis, jantung, lidah,  ipen,  kuduk,  indung kiding,  jakhi indung,  jakhi telunjuk,  jakhi tengah,  jakhi manis,  jakhi kidil, ate;1;2232;214;wajah,  mulut,  mata,  hidung,  dagu,  jidat,  alis,  telinga,  rambut,  dada,  paha,  tagan,  kaki,  betis,  jantung,  lidah,  gigi,  punggung,  ibu kaki,  ibu jari,  jari telunjuk,  jari tengah,  jari manis,  jari kelingking, jati;DAILY CHECK
+1517; Kata yang digunakan untuk menyebut bentuk tubuh//badan manusia. ;1285;214;jantung,  ate, tukekh,  usus;1;1991;249;jantung,hati,perut,usus;DAILY CHECK
+1517; Kata yang digunakan untuk menyebut bentuk tubuh//badan manusia. ;1285;214;jantung,  ate, tukekh,  usus;1;2063;233;jantung, ate, perut, usus;DAILY CHECK
+1517; Kata yang digunakan untuk menyebut bentuk tubuh//badan manusia. ;1285;214;jantung,  ate, tukekh,  usus;1;2071;209;jantung, hati, perut, usus;DAILY CHECK
+1518; Kata yang digunakan untuk menyebut bentuk tubuh//badan manusia. ;1475;210;badan;1;2056;233;tundun;DAILY CHECK
+1518; Kata yang digunakan untuk menyebut bentuk tubuh//badan manusia. ;1723;215;khembage;1;2075;209;rembaga;DAILY CHECK
+1518; Kata yang digunakan untuk menyebut bentuk tubuh//badan manusia. ;1808;238;tubuh;1;1958;249;tubuh;DAILY CHECK
+1520; Kata umum yang digunakan untuk menyebut bagian tubuh//badan. ;1493;211;takal;1;1980;249;kepala;DAILY CHECK
+1521; Kata umum yang digunakan untuk menyebut bagian tubuh//badan. ;1497;211;tangan;1;1947;249;tangan;DAILY CHECK
+1524; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan tubuh manusia. ;1347;214;sehat;1;1966;249;sehat;DAILY CHECK
+1524; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan tubuh manusia. ;1347;214;sehat;1;3378;169;sehat;DAILY CHECK
+1524; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan tubuh manusia. ;1506;234;tubuh atau badan ;1;1908;209;tubuh atau badan;DAILY CHECK
+1524; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan tubuh manusia. ;1506;234;tubuh atau badan ;1;2224;214;tubuh atau badan;DAILY CHECK
+1525; Kata yang digunakan untuk menyebut sel tubuh. ;1741;215;sel;1;1879;209;sel;DAILY CHECK
+1526; Kata yang digunakan untuk menyebut sel tubuh. ;1809;238;khondap ;1;2746;202;rondap;DAILY CHECK
+1526; Kata yang digunakan untuk menyebut sel tubuh. ;1809;238;khondap ;1;3459;171;roundap;DAILY CHECK
+1527; Kata yang digunakan untuk menyebut sel tubuh. ;1487;211;protoplasma;1;2629;238;protop;DAILY CHECK
+1529; Apa saja bagian dari kepala. ;1706;209;cekhite ulang;1;1978;249;cerita ulang;DAILY CHECK
+1529; Apa saja bagian dari kepala. ;1706;209;cekhite ulang;1;2194;214;cerita ulang;DAILY CHECK
+1530; Apa saja bagian dari kepala. ;1503;215;kuling takal khut khambut;1;1876;169;kalit kepala dan rambut;DAILY CHECK
+1532; Apa saja bagian dari kepala. ;1373;204;tundun;1;2048;233;badan;DAILY CHECK
+1532; Apa saja bagian dari kepala. ;1480;217;Kuduk;1;1936;249;pundak;DAILY CHECK
+1534; Apa saja bagian dari kepala. ;1328;214;alis mate;1;2042;209;alis mata;DAILY CHECK
+1534; Apa saja bagian dari kepala. ;1533;216;gukhip;1;1870;169;alis;DAILY CHECK
+1534; Apa saja bagian dari kepala. ;1533;216;gukhip;1;2059;233;alis;DAILY CHECK
+1534; Apa saja bagian dari kepala. ;1533;216;gukhip;1;3436;171;alis;DAILY CHECK
+1534; Apa saja bagian dari kepala. ;1616;234;alis;1;1972;249;alis;DAILY CHECK
+1536; Apa saja bagian dari kepala. ;1821;245;utok ;1;1950;249;otak;DAILY CHECK
+1538; Apa saja bagian dari wajah manusia. ;1330;227;jidat me;1;1875;209;jidat mu;DAILY CHECK
+1539; Apa saja bagian dari wajah manusia. ;1501;204;pipi;1;1987;249;pipi;DAILY CHECK
+1540; Apa saja bagian dari wajah manusia. ;1505;204;dagu;1;2082;205;dagu;DAILY CHECK
+1542; Apa saja bagian dari wajah manusia. ;1743;206;pahat;1;1983;249;lesung pipit;DAILY CHECK
+1543; Apa saja bagian dari wajah manusia. ;1685;209;bagien tubuh awe;1;1941;249;bagian tubuh muka;DAILY CHECK
+1543; Apa saja bagian dari wajah manusia. ;1685;209;bagien tubuh awe;1;2148;209;bagian tubuh muka;DAILY CHECK
+1543; Apa saja bagian dari wajah manusia. ;1685;209;bagien tubuh awe;1;2212;214;bagian tubuh muka;DAILY CHECK
+1545; Apa saja bagian dari leher. ;1500;202;kuduk;1;2043;209;punggung;DAILY CHECK
+1545; Apa saja bagian dari leher. ;1749;206;kuduk;1;1956;249;punggung;DAILY CHECK
+1545; Apa saja bagian dari leher. ;1749;206;kuduk;1;2193;214;punggung;DAILY CHECK
+1547; Apa saja bagian dari leher. ;1514;211;tembolok;1;2040;209;tembolok;DAILY CHECK
+1549; Apa saja bagian dari leher. ;1544;211;kakhung;1;1887;169;leher;DAILY CHECK
+1549; Apa saja bagian dari leher. ;1670;206;Lipaten kuling ni kakhung;1;1965;249;lipatan kulit di leher;DAILY CHECK
+1552; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1551;211;tebal;1;2039;209;kapal;DAILY CHECK
+1552; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1559;201;kapal gukhip;1;1934;249;tebal alis;DAILY CHECK
+1553; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1366;227;buk mate;1;2034;209;bulu mata;DAILY CHECK
+1553; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1496;211;melentik;1;1938;249;melentik;DAILY CHECK
+1553; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1496;211;melentik;1;4412;169;lentik;DAILY CHECK
+1554; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1432;227;cut mate;1;2060;233;kecil mata;DAILY CHECK
+1554; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1564;210;cenek(mate);1;2089;205;kecil ;DAILY CHECK
+1554; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1753;215;cipit;1;1959;249;sipit;DAILY CHECK
+1555; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1504;211;igung;1;1976;249;hidup;DAILY CHECK
+1556; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1370;237;cinta;1;2086;205;cinte;DAILY CHECK
+1556; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1370;237;cinta;1;2187;214;cinta;DAILY CHECK
+1556; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1370;237;cinta;1;2268;169;cinta;DAILY CHECK
+1558; Kata yang menjelaskan bentuk bagian-bagian dari wajah manusia. ;1746;206;isang beke;1;1992;249;dagu belah;DAILY CHECK
+1560; Apa saja bagian dari mata dan sekitarnya. ;1632;225;gukhip;1;1982;249;alis;DAILY CHECK
+1561; Apa saja bagian dari mata dan sekitarnya. ;1921;209;buk mate;1;2092;249;rambut mata;DAILY CHECK
+1562; Apa saja bagian dari mata dan sekitarnya. ;1923;209;bulung mate;1;2137;249;daun mata;DAILY CHECK
+1563; Apa saja bagian dari mata dan sekitarnya. ;1999;249;lubang ni bagas ikhis si nilalui bekas cahaye;1;2204;214;lubang di dalam potongan di lewati berkas cahaya;DAILY CHECK
+1565; Apa saja bagian dari mata dan sekitarnya. ;2013;249;ikhis selaput bola mate yang letak ni belakang kornea mate;1;2222;214;iris selaput bola mate yang letak di belakang kone mata;DAILY CHECK
+1566; Apa saja bagian dari mata dan sekitarnya. ;2000;249;bagien biji mate si mewanekh mentakh ;1;2197;214;bagian biji mata warna putih;DAILY CHECK
+1567; Apa saja bagian dari mata dan sekitarnya. ;2002;249;biji mate;1;2147;209;biji mata;DAILY CHECK
+1567; Apa saja bagian dari mata dan sekitarnya. ;2002;249;biji mate;1;2188;214;biji mata;DAILY CHECK
+1567; Apa saja bagian dari mata dan sekitarnya. ;2002;249;biji mate;1;2267;169;bola mata;DAILY CHECK
+1567; Apa saja bagian dari mata dan sekitarnya. ;2026;209;bola mate;1;2108;249;bola mata;DAILY CHECK
+1568; Apa saja bagian dari mata dan sekitarnya. ;1829;245;samping mate;1;2115;249;samping mata;DAILY CHECK
+1569; Apa saja bagian dari mata dan sekitarnya. ;1830;245;tanggis ;1;2094;249;menangis;DAILY CHECK
+1570; Apa saja bagian dari mata dan sekitarnya. ;2015;249;lapisen;1;2225;214;lapisan;DAILY CHECK
+1570; Apa saja bagian dari mata dan sekitarnya. ;2015;249;lapisen;1;2383;249;lapisan;DAILY CHECK
+1571; Apa saja bagian dari mata dan sekitarnya. ;1845;245;melekuk mate;1;2104;249;melengkung mata;DAILY CHECK
+1572; Kata yang menjelaskan bentuk mata seseorang. ;1847;245;mate megakhe;1;2113;249;mata merah;DAILY CHECK
+1573; Kata yang menjelaskan bentuk mata seseorang. ;1848;245;mate kabukh ;1;2117;249;mata buram;DAILY CHECK
+1575; Kata yang menjelaskan bentuk mata seseorang. ;1856;245;ngukhip tebal;1;2130;249;alis tebal;DAILY CHECK
+1576; Kata yang menjelaskan bentuk mata seseorang. ;1841;245;mbuk mate mu meletik;1;2091;249;Rambut matamu melentik;DAILY CHECK
+1577; Kata yang menjelaskan bentuk mata seseorang. ;1834;245;mate ijo ;1;2128;249;mata hijau;DAILY CHECK
+1578; Kata yang menjelaskan bentuk mata seseorang. ;1831;245;mate kero;1;2123;249;mata melihat;DAILY CHECK
+1579; Apa yang dilakukan oleh mata. ;1857;245;ngato;1;2097;249;melihat;DAILY CHECK
+1579; Apa yang dilakukan oleh mata. ;2017;249;tekhidah;1;2146;209;terlihat;DAILY CHECK
+1580; Apa yang dilakukan oleh mata. ;1835;245;tanggis;1;2134;249;menangis;DAILY CHECK
+1581; Apa yang dilakukan oleh mata. ;1837;245;melawe;1;2133;249;ber air;DAILY CHECK
+1582; Kata yang digunakan untuk menyebut cara mata bergerak. ;2012;249;julingen;1;2215;214;juling;DAILY CHECK
+1583; Kata yang digunakan untuk menyebut cara mata bergerak. ;1843;245;meputokh;1;2103;249;berbutar;DAILY CHECK
+1584; Kata yang digunakan untuk menyebut cara mata bergerak. ;2018;249;cekidep;1;2210;214;berkedip;DAILY CHECK
+1586; Kata yang digunakan untuk menyebut cara kelopak mata bergerak. ;1846;245;cekidop ;1;2114;249;berkedip;DAILY CHECK
+1586; Kata yang digunakan untuk menyebut cara kelopak mata bergerak. ;1846;245;cekidop ;1;2214;214;berkedip;DAILY CHECK
+1586; Kata yang digunakan untuk menyebut cara kelopak mata bergerak. ;1846;245;cekidop ;1;2737;202;berkedip;DAILY CHECK
+1586; Kata yang digunakan untuk menyebut cara kelopak mata bergerak. ;1846;245;cekidop ;1;3418;171;berkedip;DAILY CHECK
+1587; Kata yang digunakan untuk menyebut cara kelopak mata bergerak. ;2020;249;kedip;1;2236;214;berkedip;DAILY CHECK
+1587; Kata yang digunakan untuk menyebut cara kelopak mata bergerak. ;2020;249;kedip;1;2425;249;berkedip;DAILY CHECK
+1588; Kata yang digunakan untuk menyebut cara kelopak mata bergerak. ;1948;209;tepedem;1;2186;214;tertidur;DAILY CHECK
+1588; Kata yang digunakan untuk menyebut cara kelopak mata bergerak. ;1948;209;tepedem;1;2269;169;tertidur;DAILY CHECK
+1588; Kata yang digunakan untuk menyebut cara kelopak mata bergerak. ;1948;209;tepedem;1;3442;171;tertidur;DAILY CHECK
+1592; Apa yang orang lakukan dengan matanya. ;1851;245;mengusuk;1;2129;249;menggosok;DAILY CHECK
+1594; Apa yang dihasilkan oleh mata. ;1853;245;lawe mate;1;2124;249;air mata;DAILY CHECK
+1595; Kata yang digunakan untuk menyebut sesuatu yang terkumpul di sudut mata selepas tidur. ;1855;245;icing mate;1;2111;249;tai mata;DAILY CHECK
+1596; Kata yang digunakan untuk menyebut sesuatu yang terkumpul di sudut mata selepas tidur. ;2003;249;bukhung mate;1;2145;209;buhung mata;DAILY CHECK
+1598; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan mata. ;2005;249;optik;1;2202;214;apotik;DAILY CHECK
+1599; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan mata. ;1858;245;ngato;1;2101;249;lihat;DAILY CHECK
+1600;Kata yang digunakan untuk menyebut telinga. ;1913;209;cuping;1;2138;249;telingga;DAILY CHECK
+1601; Apa saja bagian dari telinga. ;1916;209;telinga, cuping;1;2096;249;telinga,telinga;DAILY CHECK
+1604; Apa saja bagian dari telinga. ;1928;209;telinga, cuping;1;2135;249;telinga kuping;DAILY CHECK
+1607; Apa saja bagian dari telinga. ;2027;209;salukhen cuping;1;2127;249;saluran telinga;DAILY CHECK
+1611; Apa yang dilakukan oleh telinga. ;1906;169;dengkohi;1;2120;249;dengarkan;DAILY CHECK
+1611; Apa yang dilakukan oleh telinga. ;1906;169;dengkohi;1;2217;214;dengarkan;DAILY CHECK
+1613; Apa yang orang lakukan dengan telinganya. ;1930;209;garuk;1;2099;249;garuk;DAILY CHECK
+1613; Apa yang orang lakukan dengan telinganya. ;1930;209;garuk;1;2730;202;garuk;DAILY CHECK
+1615; Apa yang orang lakukan dengan telinganya. ;1951;209;bosihken;1;2116;249;bersihkan;DAILY CHECK
+1616; Apa yang orang lakukan dengan telinganya. ;2010;249;gampakh ken tanggan ni cuping  telinga untuk nempuhi pemege;1;2231;214;letakan tangan di telinga untuk membantu mendengar;DAILY CHECK
+1620; Apa yang orang lakukan dengan telinganya ketika tidak ingin mendengar sesuatu. ;2001;249;meyumbat khut kapas;1;2211;214;menyumbat dengan kapas;DAILY CHECK
+1625; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan telinga. ;2142;209;indra pemege;1;2339;214;indra pendengar;DAILY CHECK
+1625; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan telinga. ;2142;209;indra pemege;1;2401;249;indra pendengar;DAILY CHECK
+1626; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan telinga. ;2143;209;pemege;1;2337;214;mendengar;DAILY CHECK
+1627;Kata yang digunakan untuk menyebut hidung. ;2241;209;igung;1;2343;214;hidung;DAILY CHECK
+1628; Apa saja bagian dari hidung. ;2168;214;lubang igung;1;2427;249;lubang hidung;DAILY CHECK
+1629; Apa saja bagian dari hidung. ;2177;214;batang igung;1;2403;249;batang hidung;DAILY CHECK
+1631; Apa saja bagian dari hidung. ;2154;214;ingung;1;2432;249;hidung;DAILY CHECK
+1632; Apa saja bagian dari hidung. ;2163;214;selaput becek;1;2384;249;selaput licin;DAILY CHECK
+1633; Kata yang menjelaskan bentuk hidung seseorang. ;2239;209;mancung;1;2353;214;mancung;DAILY CHECK
+1634; Kata yang menjelaskan bentuk hidung seseorang. ;2172;214;pesek;1;2398;249;pesek;DAILY CHECK
+1636; Kata yang menjelaskan bentuk hidung seseorang. ;2160;214;lain khase;1;2423;249;lain rasa;DAILY CHECK
+1637; Kata yang menjelaskan bentuk hidung seseorang. ;2158;214;mbelang;1;2381;249;lebar;DAILY CHECK
+1638; Kata yang menjelaskan bentuk hidung seseorang. ;2171;214;gedang;1;2392;249;panjang;DAILY CHECK
+1639; Kata yang menjelaskan bentuk hidung seseorang. ;2144;209;igung metet;1;2347;214;hidung sumbat;DAILY CHECK
+1640; Kata yang menjelaskan bentuk hidung seseorang. ;2164;214;bengkok;1;2430;249;bengkok;DAILY CHECK
+1641; Apa yang dilakukan oleh hidung. ;2167;214;mensemoh;1;2418;249;mencium;DAILY CHECK
+1642; Apa yang dilakukan oleh hidung. ;2156;214;menapas;1;2399;249;bernapas;DAILY CHECK
+1643; Kata yang menjelaskan cara udara bergerak melalui hidung. ;2157;214;bersin;1;2424;249;bersin;DAILY CHECK
+1647; Kata yang menjelaskan cara udara bergerak melalui hidung. ;2180;214;hajar;1;2725;202;hajar;DAILY CHECK
+1647; Kata yang menjelaskan cara udara bergerak melalui hidung. ;2180;214;hajar;1;2795;209;hajar ;DAILY CHECK
+1648; Kata yang digunakan untuk menyebut cara hidung bergerak. ;2165;214;mengembang;1;2415;249;berkembang;DAILY CHECK
+1649; Kata yang digunakan untuk menyebut cara hidung bergerak. ;2166;214;mengepis;1;2408;249;menipis;DAILY CHECK
+1650; Apa yang orang lakukan dengan hidungnya. ;2253;209;gelem;1;2350;214;memegang;DAILY CHECK
+1652; Apa yang orang lakukan dengan hidungnya. ;2176;214;menekan;1;2395;249;menekan;DAILY CHECK
+1652; Apa yang orang lakukan dengan hidungnya. ;2176;214;menekan;1;2732;202;ditekan;DAILY CHECK
+1652; Apa yang orang lakukan dengan hidungnya. ;2176;214;menekan;1;2798;209;tekanan;DAILY CHECK
+1652; Apa yang orang lakukan dengan hidungnya. ;2176;214;menekan;1;2883;206;Tekan;DAILY CHECK
+1652; Apa yang orang lakukan dengan hidungnya. ;2176;214;menekan;1;3375;169;tekanen;DAILY CHECK
+1653; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan hidung. ;2178;214;nesal;1;2396;249;menyesal;DAILY CHECK
+1654; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan hidung. ;2257;209;pengenggoh;1;2341;214;pengkuat;DAILY CHECK
+1655;Kata yang digunakan untuk menyebut mulut. ;2179;214;babah;1;2419;249;mulut;DAILY CHECK
+1656; Apa saja bagian dari mulut. ;2256;209;bibekh;1;2361;214;bibir;DAILY CHECK
+1657; Apa saja bagian dari mulut. ;2161;214;lilah;1;2404;249;lidah;DAILY CHECK
+1658; Apa saja bagian dari mulut. ;2174;214;ipen;1;2382;249;gigi;DAILY CHECK
+1659; Apa saja bagian dari mulut. ;2175;214;gusi;1;2386;249;gusi;DAILY CHECK
+1661; Apa saja bagian dari mulut. ;2258;209;langit babah;1;2351;214;langit mulut;DAILY CHECK
+1662; Apa saja bagian dari mulut. ;2261;209;khongge babah;1;2338;214;ronga mulut;DAILY CHECK
+1663; Apa saja bagian dari mulut. ;2251;209;bagien langit si moh;1;2358;214;bagian langit yang lembut;DAILY CHECK
+1668; Kata yang menjelaskan bentuk mulut seseorang. ;2259;209;bibikh melekuk;1;2360;214;bibir lesung;DAILY CHECK
+1669; Apa yang orang lakukan dengan mulutnya. ;2238;209;menapas;1;2355;214;bernaas;DAILY CHECK
+1670; Apa yang orang lakukan dengan mulutnya. ;2248;209;mecerok;1;2362;214;berbicara;DAILY CHECK
+1671; Apa yang orang lakukan dengan mulutnya. ;2260;209;man;1;2356;214;makan;DAILY CHECK
+1674; Apa yang orang lakukan dengan mulutnya. ;2240;209;cilati;1;2342;214;jilati;DAILY CHECK
+1674; Apa yang orang lakukan dengan mulutnya. ;2240;209;cilati;1;2422;249;jilati;DAILY CHECK
+1676; Kata yang digunakan untuk menyebut cara mulut bergerak. ;2243;209;tutup;1;2345;214;tutup;DAILY CHECK
+1677; Kata yang digunakan untuk menyebut cara mulut bergerak. ;2246;209;cirem;1;2336;214;senyum;DAILY CHECK
+1679; Kata yang digunakan untuk menyebut menguap. ;2249;209;puhe;1;2349;214;menguap;DAILY CHECK
+1680; Kata yang digunakan untuk menyebut menguap. ;2262;209;kuat;1;2348;214;kuat;DAILY CHECK
+1685; Apa yang orang lakukan dengan lidahnya. ;2288;214;jilati;1;2387;249;jilati;DAILY CHECK
+1686; Apa yang orang lakukan dengan lidahnya. ;2290;214;menjilati bibekh;1;2406;249;menjilati bibir;DAILY CHECK
+1687; Apa yang orang lakukan dengan lidahnya. ;2292;214;menluakhen lilah;1;2377;249;mengeluarkan lidah;DAILY CHECK
+1688; Apa yang orang lakukan dengan lidahnya. ;2279;214;mengenmut lilah;1;2417;249;mengencap lidah;DAILY CHECK
+1689; Apa yang orang lakukan dengan lidahnya. ;2283;214;menggigit lilah;1;2416;249;menggigit lidah;DAILY CHECK
+1690; Apa yang orang lakukan terhadap mulutnya. ;2296;214;hapus;1;2428;249;hapaus;DAILY CHECK
+1690; Apa yang orang lakukan terhadap mulutnya. ;2296;214;hapus;1;2561;214;menghapus;DAILY CHECK
+1691; Apa yang orang lakukan terhadap mulutnya. ;2301;214;tutup;1;2405;249;tutup;DAILY CHECK
+1692; Apa yang orang lakukan terhadap mulutnya. ;2280;214;membekas;1;2421;249;berbekas;DAILY CHECK
+1692; Apa yang orang lakukan terhadap mulutnya. ;2280;214;membekas;1;2560;214;berbekas;DAILY CHECK
+1694; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan mulut. ;2284;214;secakhe lisan;1;2400;249;secara lisa;DAILY CHECK
+1695;Kata yang digunakan untuk menyebut gigi. ;2278;214;ipen;1;2378;249;gigi;DAILY CHECK
+1696;Kata yang digunakan untuk menyebut gigi. ;2281;214;ipen seri;1;2385;249;gigi seri;DAILY CHECK
+1697;Kata yang digunakan untuk menyebut gigi. ;2294;214;ipen tajam;1;2431;249;gigi tajam;DAILY CHECK
+1699;Kata yang digunakan untuk menyebut gigi. ;2282;214;ipen geraham bungsu;1;2402;249;gigi terhir ;DAILY CHECK
+1700;Kata yang digunakan untuk menyebut gigi. ;2287;214;ipen susu;1;2413;249;gigi susu;DAILY CHECK
+1701;Kata yang digunakan untuk menyebut gigi. ;2291;214;gige nak nak;1;2393;249;nakal anak anak;DAILY CHECK
+1702; Apa saja bagian dari gigi. ;2286;214;lapisen ipen;1;2409;249;lapisan gigi;DAILY CHECK
+1703; Apa saja bagian dari gigi. ;2285;214;akar ipen;1;2388;249;akar gigi;DAILY CHECK
+1706; Kata yang menjelaskan keadaan gigi seseorang. ;2295;214;khate;1;2410;249;rata;DAILY CHECK
+1707; Kata yang menjelaskan keadaan gigi seseorang. ;2289;214;bengkok;1;2429;249;bengkok;DAILY CHECK
+1709; Kata yang menjelaskan keadaan gigi seseorang. ;2300;214;mentakh;1;2391;249;putih;DAILY CHECK
+1710; Kata yang menjelaskan keadaan gigi seseorang. ;2293;214;kuning;1;2407;249;kuning;DAILY CHECK
+1711; Apa yang dilakukan oleh gigi. ;2305;209;kakhati;1;2344;214;mengigit;DAILY CHECK
+1712; Apa yang dilakukan oleh gigi. ;2298;214;mengkakhat;1;2414;249;menggigit;DAILY CHECK
+1712; Apa yang dilakukan oleh gigi. ;2298;214;mengkakhat;1;2516;214;menggigit;DAILY CHECK
+1712; Apa yang dilakukan oleh gigi. ;2298;214;mengkakhat;1;2794;209;menggigit;DAILY CHECK
+1712; Apa yang dilakukan oleh gigi. ;2298;214;mengkakhat;1;3435;171;menggigit;DAILY CHECK
+1714; Kata yang digunakan untuk menyebut perbuatan menggeserkan gigi dengan gigi lainnya sehingga menimbulkan bunyi. ;2297;214;mengigit;1;2397;249;menggigit;DAILY CHECK
+1716; Apa yang orang lakukan dengan giginya. ;2299;214;bantunken;1;2802;209;cabutkan;DAILY CHECK
+1716; Apa yang orang lakukan dengan giginya. ;2299;214;bantunken;1;3641;171;cabutkan ;DAILY CHECK
+1716; Apa yang orang lakukan dengan giginya. ;2299;214;bantunken;1;3755;169;cabutkan;DAILY CHECK
+1723; Apa saja bagian dari badan. ;2303;209;dade;1;2340;214;dada;DAILY CHECK
+1724; Apa saja bagian dari badan. ;2304;209;buah dade;1;2363;214;buah dada;DAILY CHECK
+1728; Apa saja bagian dari badan. ;2302;209;tuke;1;2357;214;perut;DAILY CHECK
+1741; Apa saja bagian dari badan. ;2318;214;lubang icing;1;2603;249;lubang tai;DAILY CHECK
+1741; Apa saja bagian dari badan. ;2318;214;lubang icing;1;2726;202;lobang taik;DAILY CHECK
+1741; Apa saja bagian dari badan. ;2318;214;lubang icing;1;2790;209;lubang anus;DAILY CHECK
+1742; Apa saja bagian dari badan. ;2325;214;daging si lot ni awak;1;2587;249;dagingnya ada di penggang;DAILY CHECK
+1743; Apa saja bagian dari badan. ;2332;214;sekat rongga badan;1;2609;249;sikat rongga badan;DAILY CHECK
+1745;Kata yang digunakan untuk menyebut anggota badan. ;2441;249;kiding;1;2543;214;kaki;DAILY CHECK
+1746;Kata yang digunakan untuk menyebut tangan. ;2445;249;tangan;1;2549;214;tangan;DAILY CHECK
+1747; Apa saja bagian dari tangan. ;2447;249;bakhe;1;2741;202;baru;DAILY CHECK
+1748; Apa saja bagian dari tangan. ;2314;214;kikik;1;2583;249;ketiak;DAILY CHECK
+1749; Apa saja bagian dari tangan. ;2443;249;tengan datas;1;2522;214;tangan atas;DAILY CHECK
+1750; Apa saja bagian dari tangan. ;2321;214;siku;1;2617;249;sikj;DAILY CHECK
+1752; Apa saja bagian dari tangan. ;2316;214;lengan tekhuh;1;2607;249;lengan bawah;DAILY CHECK
+1753; Apa saja bagian dari tangan. ;2328;214;pergelangen tangan;1;2585;249;pergelangan tangan;DAILY CHECK
+1754; Kata yang digunakan untuk menyebut tangan. ;2320;214;tangan;1;2616;249;tangan;DAILY CHECK
+1755; Kata yang digunakan untuk menyebut tangan. ;2308;214;tangan kemukhun;1;2602;249;tangan kanan;DAILY CHECK
+1756; Kata yang digunakan untuk menyebut tangan. ;2369;209;tangan kikhi;1;2554;214;tangan kiri;DAILY CHECK
+1757; Kata yang digunakan untuk menyebut tangan. ;2312;214;pangkat telapak tangan;1;2601;249;pangkat telapak tangan;DAILY CHECK
+1758; Kata yang digunakan untuk menyebut tangan. ;2315;214;tangan;1;2581;249;tangan;DAILY CHECK
+1759; Kata yang digunakan untuk menyebut tangan. ;2323;214;khuduk tangan;1;2584;249;hunduk tangan;DAILY CHECK
+1759; Kata yang digunakan untuk menyebut tangan. ;2323;214;khuduk tangan;1;2793;209;tangan;DAILY CHECK
+1760; Kata yang digunakan untuk menyebut bagian tangan dalam posisi tertentu. ;2335;214;bengkok;1;2611;249;bengkok;DAILY CHECK
+1761; Kata yang digunakan untuk menyebut bagian tangan dalam posisi tertentu. ;2317;214;tinju;1;2582;249;tinju;DAILY CHECK
+1762;Kata umum yang digunakan untuk menyebut seluruh bagian kaki. ;2327;214;kiding;1;2618;249;kaki;DAILY CHECK
+1763; Apa saja bagian dari kaki. ;2319;214;kiding atas;1;2606;249;kaki atas;DAILY CHECK
+1766; Apa saja bagian dari kaki. ;2330;214;lutut;1;2610;249;lutut;DAILY CHECK
+1768; Apa saja bagian dari kaki. ;2324;214;kiding sebelah tekhuh;1;2612;249;kaki sebelah bawah;DAILY CHECK
+1769; Apa saja bagian dari kaki. ;2334;214;bauh betis;1;2588;249;buah betis;DAILY CHECK
+1770; Apa saja bagian dari kaki. ;2326;214;kiding sebelah depan dakhu lutut ke pergelangen (tulang kekhah) ;1;2613;249;kaki sebelah depan dari lutut ke pergelangan(tulang kering);DAILY CHECK
+1771; Apa saja bagian dari kaki. ;2365;209;pekhgelangen kiding;1;2532;214;pergelangan jari;DAILY CHECK
+1772; Apa saja bagian dari kaki. ;2329;214;pangkal pakhe;1;2608;249;pangkal bahu;DAILY CHECK
+1773; Apa saja bagian dari kaki. ;2442;249;kiding sembeke tekhuh;1;2540;214;kaki sebelah bawah;DAILY CHECK
+1774; Apa saja bagian dari kaki. ;2371;209;tumit;1;2558;214;tumit;DAILY CHECK
+1775; Apa saja bagian dari kaki. ;2331;214;tapak kiding;1;2586;249;telapak kaki;DAILY CHECK
+1776; Apa saja bagian dari kaki. ;2446;249;bagien bulet ni jampal kiding ni sebelah tekhuh jakhi kiding;1;2539;214;bagian bulat di jempol kaki di sebelah bawah jari kelingking;DAILY CHECK
+1777; Apa saja bagian dari kaki. ;2333;214;bagien luakh kiding;1;2614;249;bagian luar kaki;DAILY CHECK
+1778; Apa saja bagian dari kaki. ;2448;249;tikul kiding,/tikul kiding;1;2785;209;kaki;DAILY CHECK
+1779; Apa saja bagian dari kaki. ;2451;249;melekuk ni jampal kiding;1;2786;209;di  telapak kaki;DAILY CHECK
+1780; Kata yang digunakan untuk menyebut bagian kaki dalam posisi tertentu. ;2438;249;pangkuen;1;2534;214;pengakuan;DAILY CHECK
+1781; Kata yang menjelaskan bentuk kaki seseorang. ;2453;249;(jakhi)kiding ni pekoken menghadep ke bagas;1;2548;214;jari di bengkokan menghadap ke atas;DAILY CHECK
+1782; Kata yang menjelaskan bentuk kaki seseorang. ;2456;249;pengkakh be luakh (mebentuk ex;1;2800;209;keluar;DAILY CHECK
+1783; Kata yang menjelaskan bentuk kaki seseorang. ;2458;249;pengakar ni bagas,mebentuk o;1;2556;214;pengakar di alam membentuk;DAILY CHECK
+1784; Kata yang menjelaskan bentuk kaki seseorang. ;2461;249;tapak kiding si khate;1;2544;214;telapak kaki yang rata;DAILY CHECK
+1786;Kata umum yang digunakan untuk menyebut jari tangan dan jari kaki. ;2452;249;jakhi kiding;1;2559;214;jari kaki;DAILY CHECK
+1787; Apa nama untuk setiap jari tangan. ;2434;249;ibu jari;1;2514;214;ibu jari;DAILY CHECK
+1788; Apa nama untuk setiap jari tangan. ;2366;209;jakhi telunjuk;1;2525;214;jari telunjuk;DAILY CHECK
+1789; Apa nama untuk setiap jari tangan. ;2449;249;jakhi hantu/tengah;1;2555;214;jari tengah;DAILY CHECK
+1791; Apa nama untuk setiap jari tangan. ;2457;249;jakhi kidil;1;2533;214;jari kelingking;DAILY CHECK
+1792; Apa nama untuk setiap jari kaki. ;2374;209;jempol kiding;1;2529;214;jempol kaki;DAILY CHECK
+1793; Apa nama untuk setiap jari kaki. ;2444;249;jakhi kiding ke due;1;2551;214;jari kaki kedua;DAILY CHECK
+1794; Apa nama untuk setiap jari kaki. ;2454;249;jakhi kiding tengah;1;2538;214;jari kaki tengah;DAILY CHECK
+1798; Kata yang digunakan untuk menyebut bagian-bagian dari jari tangan atau jari kaki. ;2450;249;ujung jakhi;1;2524;214;ujung jari;DAILY CHECK
+1799; Kata yang digunakan untuk menyebut bagian-bagian dari jari tangan atau jari kaki. ;2459;249;silip jakhi;1;2530;214;silip jari;DAILY CHECK
+1805;Kata umum yang digunakan untuk menyebut kulit. ;2487;214;kulit;1;2673;249;kulit;DAILY CHECK
+1806;Kata umum yang digunakan untuk menyebut kulit. ;2492;214;kulit jengat;1;2706;249;kulit jangat;DAILY CHECK
+1807;Kata umum yang digunakan untuk menyebut kulit. ;2497;214;kuling ari;1;2689;249;kulit ari;DAILY CHECK
+1808;Kata umum yang digunakan untuk menyebut kulit. ;2502;214;pokhi-pokhi;1;2678;249;pori pori;DAILY CHECK
+1809; Kata yang digunakan untuk menyebut kulit yang tebal. ;2507;214;risa;1;2681;249;risa;DAILY CHECK
+1810; Kata yang digunakan untuk menyebut kulit yang tebal. ;2512;214;belulang;1;2685;249;berlubang;DAILY CHECK
+1811; Kata yang digunakan untuk menyebut kulit yang tebal. ;2626;249;kulit tebal;1;2748;202;kulit tebat;DAILY CHECK
+1812; Kata yang digunakan untuk menyebut garis yang terdapat pada kulit. ;2484;214;gakhis;1;2665;249;garis;DAILY CHECK
+1814; Kata yang digunakan untuk menyebut garis yang terdapat pada kulit. ;2488;214;lipaten;1;2707;249;lipatan;DAILY CHECK
+1815; Kata yang digunakan untuk menyebut garis yang terdapat pada kulit. ;2590;169;melipat;1;2674;249;terlipat;DAILY CHECK
+1815; Kata yang digunakan untuk menyebut garis yang terdapat pada kulit. ;2590;169;melipat;1;2718;202;terlipat;DAILY CHECK
+1815; Kata yang digunakan untuk menyebut garis yang terdapat pada kulit. ;2590;169;melipat;1;2791;209;berlipat;DAILY CHECK
+1816; Kata yang digunakan untuk menyebut bintik atau noda yang terdapat pada kulit manusia. ;2493;214;endeng;1;2708;249;endang;DAILY CHECK
+1816; Kata yang digunakan untuk menyebut bintik atau noda yang terdapat pada kulit manusia. ;2493;214;endeng;1;2797;209;endang;DAILY CHECK
+1817; Kata yang digunakan untuk menyebut bintik atau noda yang terdapat pada kulit manusia. ;2486;214;bintik coklat;1;2666;249;bintik coklat;DAILY CHECK
+1819; Kata yang digunakan untuk menyebut bintik atau noda yang terdapat pada kulit manusia. ;2498;214;kutilen;1;2680;249;kudilan;DAILY CHECK
+1820; Kata yang digunakan untuk menyebut bintik atau noda yang terdapat pada kulit manusia. ;2490;214;sayuran hutan;1;2694;249;sayuran hutan;DAILY CHECK
+1820; Kata yang digunakan untuk menyebut bintik atau noda yang terdapat pada kulit manusia. ;2490;214;sayuran hutan;1;2787;209;sayuran hutan;DAILY CHECK
+1821; Kata yang digunakan untuk menyebut bintik atau noda yang terdapat pada kulit manusia. ;2499;214;takhi naleng;1;2699;249;taring lalat;DAILY CHECK
+1822; Kata yang digunakan untuk menyebut bintik atau noda yang terdapat pada kulit manusia. ;2592;169;cemakh bekhong;1;2701;249;cemar hitam;DAILY CHECK
+1823; Kata yang digunakan untuk menyebut bintik atau noda yang terdapat pada kulit manusia. ;2496;214;bisul;1;2693;249;bisul;DAILY CHECK
+1824; Kata yang digunakan untuk menyebut bintik atau noda yang terdapat pada kulit manusia. ;2503;214;bekas ugah;1;2700;249;bekas luka;DAILY CHECK
+1825; Kata yang digunakan untuk menyebut luka kecil di kulit. ;2504;214;jekhawat batu;1;2690;249;jerawat batu;DAILY CHECK
+1826; Kata yang digunakan untuk menyebut luka kecil di kulit. ;2593;169;jekhawat;1;2697;249;jerawat;DAILY CHECK
+1827; Kata yang digunakan untuk menyebut luka kecil di kulit. ;2500;214;bintil;1;2688;249;bintik;DAILY CHECK
+1828; Kata yang digunakan untuk menyebut warna kulit manusia. ;2501;214;wane kulit;1;2692;249;warna kulit;DAILY CHECK
+1829; Kata yang digunakan untuk menyebut warna kulit manusia. ;2508;214;wane;1;2667;249;warna;DAILY CHECK
+1830; Kata yang digunakan untuk menyebut warna kulit manusia. ;2509;214;cokhak kulit;1;2670;249;warna kulit;DAILY CHECK
+1832; Kata yang menjelaskan warna kulit seseorang (warna tetap ataupun warna sementara). ;2505;214;wane jukut;1;2703;249;warna daging;DAILY CHECK
+1833; Kata yang menjelaskan warna kulit seseorang (warna tetap ataupun warna sementara). ;2506;214;mentakh;1;2668;249;putih;DAILY CHECK
+1835; Kata yang menjelaskan warna kulit seseorang (warna tetap ataupun warna sementara). ;2595;169;cekelat;1;2669;249;coklat;DAILY CHECK
+1836; Kata yang menjelaskan warna kulit seseorang (warna tetap ataupun warna sementara). ;2600;169;megakhe;1;2684;249;merah;DAILY CHECK
+1837; Kata yang menjelaskan warna kulit seseorang (warna tetap ataupun warna sementara). ;2510;214;ngosing langsat;1;2662;249;kuning langsat;DAILY CHECK
+1838; Kata yang menjelaskan warna kulit seseorang (warna tetap ataupun warna sementara). ;2511;214;gelap;1;2682;249;gelap;DAILY CHECK
+1844; Kata yang menjelaskan warna kulit seseorang ketika sakit ataupun takut. ;2564;169;kukhang dakhoh;1;2704;249;kurang darah;DAILY CHECK
+1845; Kata yang menjelaskan warna kulit seseorang ketika sakit ataupun takut. ;2565;169;habu-habu;1;2702;249;abu abu;DAILY CHECK
+1846; Kata yang menjelaskan warna kulit seseorang ketika sakit ataupun takut. ;2574;169;pucat awe;1;2691;249;mucat muka;DAILY CHECK
+1848; Kata yang menjelaskan warna kulit seseorang ketika sakit ataupun takut. ;2579;169;megakhe;1;2686;249;merah;DAILY CHECK
+1849; Kata yang menjelaskan warna kulit seseorang ketika sakit ataupun takut. ;2580;169;sekhem kheme;1;2801;209;seram bulu roma;DAILY CHECK
+1850; Kata yang menjelaskan warna kulit seseorang ketika sakit ataupun takut. ;2566;169;sekham;1;2695;249;seram;DAILY CHECK
+1851; Kata yang menjelaskan keadaan kulit seseorang. ;2567;169;keadaen kuling;1;2675;249;kaeadaan kulit;DAILY CHECK
+1852; Kata yang menjelaskan keadaan kulit seseorang. ;2589;169;bosih;1;2679;249;bersih;DAILY CHECK
+1853; Kata yang menjelaskan keadaan kulit seseorang. ;2563;169;meminyak;1;2683;249;bermiayak;DAILY CHECK
+1858; Kata yang menjelaskan keadaan kulit seseorang. ;2598;169;kasakh;1;2698;249;kasar;DAILY CHECK
+1865; Kata yang menjelaskan keadaan kulit seseorang setelah berjemur di bawah sinar matahari. ;2634;249;melepuh;1;2904;214;melepuh;DAILY CHECK
+1869; Kata yang digunakan untuk menyebut satu rambut atau bulu saja. ;2641;249;helai;1;2816;209;helai;DAILY CHECK
+1870; Apa saja bagian dari rambut atau bulu. ;2644;249;pelikat buk;1;2822;209;ikat rambut;DAILY CHECK
+1870; Apa saja bagian dari rambut atau bulu. ;2644;249;pelikat buk;1;3621;171;pengikat rambut;DAILY CHECK
+1871; Apa saja bagian dari rambut atau bulu. ;2632;249;ukhat buk;1;2821;209;urat rambut;DAILY CHECK
+1872; Apa saja bagian dari rambut atau bulu. ;2647;249;ujung buk;1;2814;209;ujug rambut;DAILY CHECK
+1873; Apa saja bagian dari rambut atau bulu. ;2648;249;ujung buk si mecabang;1;2823;209;ujung rambut bercabang;DAILY CHECK
+1874; Kata yang digunakan untuk menyebut rambut atau bulu yang terdapat di bagian badan manusia yang berbeda. ;2651;249;buk takal;1;2825;209;rambut kepala;DAILY CHECK
+1875; Kata yang digunakan untuk menyebut rambut atau bulu yang terdapat di bagian badan manusia yang berbeda. ;2654;249;jabukh;1;2905;214;jambu;DAILY CHECK
+1876; Kata yang digunakan untuk menyebut rambut atau bulu yang terdapat di bagian badan manusia yang berbeda. ;2645;249;buk badan;1;2827;209;rambut badan;DAILY CHECK
+1877; Kata yang digunakan untuk menyebut rambut atau bulu yang terdapat di bagian badan manusia yang berbeda. ;2640;249;buk kemaluan;1;2830;209;rambut kemaluan;DAILY CHECK
+1878; Kata yang digunakan untuk menyebut bulu di muka. ;2636;249;janggut;1;2813;209;jenggot;DAILY CHECK
+1879; Kata yang digunakan untuk menyebut bulu di muka. ;2657;249;gumis;1;2826;209;kumis;DAILY CHECK
+1880; Kata yang digunakan untuk menyebut bulu di muka. ;2643;249;cabang,bau;1;2819;209;cabang bauk;DAILY CHECK
+1881; Kata yang digunakan untuk menyebut bulu di muka. ;2660;249;janggut kambing;1;2831;209;jenggot kambing;DAILY CHECK
+1882; Kata yang digunakan untuk menyebut bulu di muka. ;2649;249;buk awe;1;2810;209;rambut wajah;DAILY CHECK
+1883; Kata yang menjelaskan sifat jenis-jenis rambut atau bulu. ;2646;249;mekhikhip;1;2829;209;kusut;DAILY CHECK
+1885; Kata yang menjelaskan sifat jenis-jenis rambut atau bulu. ;2652;249;ikal;1;2828;209;ikal;DAILY CHECK
+1887; Kata yang menjelaskan sifat jenis-jenis rambut atau bulu. ;2650;249;halus;1;2808;209;halus;DAILY CHECK
+1888; Kata yang menjelaskan sifat jenis-jenis rambut atau bulu. ;2655;249;tebal;1;2812;209;tebal;DAILY CHECK
+1890; Kata yang menjelaskan sifat jenis-jenis rambut atau bulu. ;2653;249;halus mesagan;1;2809;209;halus kemerahan;DAILY CHECK
+1891; Kata yang menjelaskan warna rambut. ;2658;249;pirang;1;2817;209;pirang;DAILY CHECK
+1892; Kata yang menjelaskan warna rambut. ;2757;209;megakhe;1;2870;249;merah;DAILY CHECK
+1893; Kata yang menjelaskan warna rambut. ;2656;249;bekhong;1;2815;209;hitam;DAILY CHECK
+1894; Kata yang menjelaskan warna rambut. ;2661;249;mekhuban;1;2824;209;ber uban;DAILY CHECK
+1896; Kata yang menjelaskan seseorang yang memiliki warna rambut tertentu. ;2659;249;si buk coklat;1;2820;209;si rambut coklat;DAILY CHECK
+1898; Kata yang menjelaskan seseorang yang memiliki warna rambut tertentu. ;2761;209;buk ubanen;1;2871;249;uban rambut;DAILY CHECK
+1906; Kata yang menjelaskan keadaan kepala seorang pria yang rambutnya banyak yang gugur. ;2804;209;buk khontok;1;2869;249;rambut rontok;DAILY CHECK
+1910; Kata yang digunakan untuk menyebut seluruh rangkaian tulang. ;2766;209;tulan khangke;1;2866;249;tulang rangka;DAILY CHECK
+1928; Apa saja bagian dari persendian. ;2832;209;caikhen sendi;1;3075;249;cairkan sendi;DAILY CHECK
+1929; Apa saja bagian dari persendian. ;2929;214;persendien ;1;3063;249;persendian;DAILY CHECK
+1931; Kata yang digunakan untuk menyebut bunyi yang dibuat dengan melipat-lipat jari tangan. ;2886;206;ngelipat lipatken buah jakhi;1;3059;249;melipaf lipatan buah jari;DAILY CHECK
+1932; Kata yang digunakan untuk menyebut bunyi yang dibuat dengan melipat-lipat jari tangan. ;2836;209;mutok-mutoken jari;1;3049;249;matah matahkan jari;DAILY CHECK
+1933;Kata umum yang digunakan untuk menyebut jaringan halus dalam tubuh manusia. ;2835;209;daging;1;3032;249;daging;DAILY CHECK
+1934;Kata umum yang digunakan untuk menyebut jaringan halus dalam tubuh manusia. ;2833;209;jaringen;1;3067;249;jaringan;DAILY CHECK
+1935;Kata umum yang digunakan untuk menyebut jaringan halus dalam tubuh manusia. ;2918;214;jakhingen halus;1;3080;249;jaringan halus;DAILY CHECK
+1936; Apa saja jenis jaringan halus tersebut. ;2838;209;jaringen penghubung;1;3024;249;jaringan penghubung;DAILY CHECK
+1937; Apa saja jenis jaringan halus tersebut. ;2834;209;jakhingen menghubungken tekak khut lambung;1;3074;249;jaringa  menghubungkan tekak dan lambung;DAILY CHECK
+1938; Apa saja jenis jaringan halus tersebut. ;2845;209;kekhongkong;1;3071;249;kerongkongan;DAILY CHECK
+1939; Apa saja jenis jaringan halus tersebut. ;2837;209;lemak;1;3055;249;lemak;DAILY CHECK
+1940; Apa saja jenis jaringan halus tersebut. ;2843;209;tulan rawan alat si leketi sendi bagas tubuh;1;3043;249;tulang rawan alat yang melekat sendi dalam tubuh;DAILY CHECK
+1941; Apa saja jenis jaringan halus tersebut. ;2851;209;kelenjakh;1;3027;249;kelenjer;DAILY CHECK
+1942; Apa saja jenis jaringan halus tersebut. ;2852;209;kelenjakh limfa;1;3026;249;kelenjer limpa;DAILY CHECK
+1943; Kata yang digunakan untuk menyebut otot-otot. ;2854;209;otot;1;3033;249;otot;DAILY CHECK
+1944; Kata yang digunakan untuk menyebut otot-otot. ;2855;209;jukut;1;3023;249;daging;DAILY CHECK
+1945; Kata yang digunakan untuk menyebut otot-otot. ;2858;209;berotot kekakh;1;3044;249;berortot kekal;DAILY CHECK
+1948; Kata yang menjelaskan bentuk daging atau otot seseorang. ;2875;245;bukhu;1;3051;249;buru;DAILY CHECK
+1948; Kata yang menjelaskan bentuk daging atau otot seseorang. ;2875;245;bukhu;1;3165;214;bahu;DAILY CHECK
+1949; Kata yang menjelaskan bentuk daging atau otot seseorang. ;2889;206;kendukh;1;3069;249;kendor;DAILY CHECK
+1951; Kata yang digunakan untuk menyebut urat yang menghubungkan otot dan tulang. ;2935;214;pesendien edi;1;3037;249;persendian itu;DAILY CHECK
+1954;Kata umum yang digunakan untuk menyebut anggota tubuh bagian dalam. ;2892;206;jantung ;1;3029;249;jantung;DAILY CHECK
+1954;Kata umum yang digunakan untuk menyebut anggota tubuh bagian dalam. ;2892;206;jantung ;1;3093;209;jantung;DAILY CHECK
+1957;Kata umum yang digunakan untuk menyebut anggota tubuh bagian dalam. ;2906;214;kelenjar;1;3022;249;kelenjer;DAILY CHECK
+1958; Apa nama-nama setiap anggota tubuh bagian dalam. ;2887;206;Ate;1;3076;249;hati;DAILY CHECK
+1959; Apa nama-nama setiap anggota tubuh bagian dalam. ;2919;214;umbai usus gayene;1;3070;249;umbai usus gaya nya;DAILY CHECK
+1960; Apa nama-nama setiap anggota tubuh bagian dalam. ;2920;214;kantong empedu bagas tubuh kite;1;3073;249;kantonh empedu dalan tubub kita;DAILY CHECK
+1961; Apa nama-nama setiap anggota tubuh bagian dalam. ;2927;214;kelenjar me gayene;1;3056;249;kelenjer ke gayanya;DAILY CHECK
+1964; Apa saja bagian dari paru-paru dan sistem peredaran napasnya. ;2901;206;pakhu-pakhu;1;3072;249;paru paru;DAILY CHECK
+1965; Apa saja bagian dari paru-paru dan sistem peredaran napasnya. ;2910;214;sistem peredaren napas;1;3035;249;sistem peredaran napas;DAILY CHECK
+1971; Apa saja bagian dari usus//tali perut. ;2900;206;salukhen thuke;1;3060;249;saluran perut;DAILY CHECK
+1972; Apa saja bagian dari usus//tali perut. ;2934;214;isi tukekh;1;3078;249;isi perut;DAILY CHECK
+1975; Apa saja bagian dari usus//tali perut. ;2912;214;ususbelin;1;3065;249;usus besar;DAILY CHECK
+1977; Apa saja bagian dari buah pinggang (ginjal) dan kandung kemih. ;2933;214;ginjal;1;3058;249;ginjal;DAILY CHECK
+1985; Apa saja bagian dari tenggorokan. ;2936;249;tenggorok en;1;3083;209;tenggorokan;DAILY CHECK
+1990; Apa saja bagian dari sistem syaraf. ;2937;249;tulan belakang,ukhat sakhap tulan belakang;1;3095;209;tulang belakang, urat saraf tulang belakang;DAILY CHECK
+1991; Apa saja bagian dari sistem syaraf. ;2938;249;pusat sakhap;1;3082;209;pusat saraf;DAILY CHECK
+2001; Apa saja bagian dari pembuluh darah. ;2939;214;ukhat nadi;1;3042;249;urat nadi;DAILY CHECK
+2045; Kata yang digunakan untuk menyebut alat kelamin laki-laki. ;3109;209;buah pelir;1;3172;214;buah pir;DAILY CHECK
+2046; Kata yang digunakan untuk menyebut alat kelamin laki-laki. ;3119;209;testis;1;3253;249;testis;DAILY CHECK
+2046; Kata yang digunakan untuk menyebut alat kelamin laki-laki. ;3119;209;testis;1;5942;171;testis;DAILY CHECK
+2048; Apa yang terjadi pada alat kelamin laki-laki. ;3019;209;kembang;1;3171;214;kembang;DAILY CHECK
+2048; Apa yang terjadi pada alat kelamin laki-laki. ;3019;209;kembang;1;3248;249;kembang;DAILY CHECK
+2049; Apa yang terjadi pada alat kelamin laki-laki. ;3102;209;mebelin;1;3163;214;besar;DAILY CHECK
+2051; Kata yang digunakan untuk menyebut cairan yang dihasilkan oleh alat kelamin laki-laki. ;3017;209;lawe mani;1;3178;214;air mani;DAILY CHECK
+2052; Kata yang digunakan untuk menyebut cairan yang dihasilkan oleh alat kelamin laki-laki. ;3014;209;sperma;1;3180;214;sperma;DAILY CHECK
+2053; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan alat kelamin laki-laki. ;3112;209;kheproduktif;1;3177;214;produksi;DAILY CHECK
+2056;Kata yang digunakan untuk menyebut alat kelamin perempuan. ;3105;209;buah dade;1;3161;214;buah dada;DAILY CHECK
+2057;Kata yang digunakan untuk menyebut alat kelamin perempuan. ;3108;209;puting susu;1;3174;214;puting susu;DAILY CHECK
+2059;Kata yang digunakan untuk menyebut alat kelamin perempuan. ;3117;209;kelenit;1;3175;214;kelelit;DAILY CHECK
+2063; Kata yang digunakan untuk menyebut siklus haid bulanan pada wanita. ;3110;209;cakhe haid;1;3167;214;cara haid;DAILY CHECK
+2063; Kata yang digunakan untuk menyebut siklus haid bulanan pada wanita. ;3110;209;cakhe haid;1;3258;249;cara haid;DAILY CHECK
+2065; Kata yang digunakan untuk menyebut masa pendarahan. ;3127;249;mentruasi;1;3130;209;halangen;DAILY CHECK
+2069; Kata yang digunakan untuk menyebut darah yang keluar dari rahim wanita. ;3120;209;halangen;1;3176;214;halangan;DAILY CHECK
+2069; Kata yang digunakan untuk menyebut darah yang keluar dari rahim wanita. ;3120;209;halangen;1;3222;249;halangan;DAILY CHECK
+2071; Kata yang digunakan untuk menyebut darah yang keluar dari rahim wanita. ;3124;249;dakho;1;3129;209;daro;DAILY CHECK
+2104; Kata yang digunakan untuk menyebut bernapas dengan cepat. ;3151;214;termengep-mengep;1;3256;249;termengap mengap;DAILY CHECK
+2105; Kata yang digunakan untuk menyebut bernapas dengan cepat. ;3131;214;termegep-megep;1;3252;249;termegep megap;DAILY CHECK
+2106; Kata yang digunakan untuk menyebut bernapas dengan cepat atau sulit setelah berlari atau bekerja keras. ;3140;214;tengah2;1;3244;249;tengah tengah;DAILY CHECK
+2108; Kata yang digunakan untuk menyebut bernapas dengan sulit. ;3156;214;sesak napas;1;3255;249;sesak napas;DAILY CHECK
+2109; Kata yang digunakan untuk menyebut bernapas dengan sulit. ;3152;214;tersengol-sengol;1;3232;249;tersenggol senggol;DAILY CHECK
+2110; Kata yang digunakan untuk menyebut kembali bernapas dengan normal setelah berlari atau bekerja keras. ;3155;214;nakhik napad;1;3243;249;tarik napas;DAILY CHECK
+2111; Kata yang digunakan untuk menyebut menahan napas. ;3141;214;manahan napas ;1;3251;249;menahan napas;DAILY CHECK
+2112; Kata yang digunakan untuk menyebut keadaan tidak bisa bernapas. ;3132;214;malot nemu menapas;1;3221;249;tidak bisa  bernapas;DAILY CHECK
+2113; Kata yang digunakan untuk menyebut keadaan tidak bisa bernapas. ;3134;214;tercekek;1;3257;249;tersempit;DAILY CHECK
+2114; Kata yang digunakan untuk menyebut keadaan tidak bisa bernapas. ;3139;214;lemes;1;3237;249;lemas;DAILY CHECK
+2116; Kata yang digunakan untuk menyebut berhenti bernapas. ;3148;214;malet menapaz;1;3259;209;malet  menapas;DAILY CHECK
+2117; Kata yang digunakan untuk menyebut membunuh seseorang dengan cara menahan napasnya. ;3144;214;mepecok;1;3250;249;mepecak;DAILY CHECK
+2118; Kata yang digunakan untuk menyebut membunuh seseorang dengan cara menahan napasnya. ;3142;214;membekep;1;3239;249;membakep;DAILY CHECK
+2122; Kata yang digunakan untuk menyebut bersin. ;3149;214;bersin;1;3220;249;bersin;DAILY CHECK
+2164; Kata yang digunakan untuk menyebut darah. ;3191;249;darah;1;3337;214;darah;DAILY CHECK
+2165; Kata yang digunakan untuk menyebut darah. ;3205;249;tetesen dakhoh;1;3331;214;tetesan darah;DAILY CHECK
+2167; Kata yang digunakan untuk menyebut darah yang mengering. ;3186;169;dakhoh beku;1;3276;249;darah beku;DAILY CHECK
+2169; Kata yang menjelaskan sifat sesuatu yang mengandung darah. ;3184;169;medakhoh;1;3286;249;berdarah;DAILY CHECK
+2170; Kata yang menjelaskan sifat sesuatu yang mengandung darah. ;3200;249;melumukhen dakhoh;1;3326;214;berlumuran darah;DAILY CHECK
+2172; Kata yang digunakan untuk menyebut banyak darah. ;3207;249;genangen dakhoh;1;3332;214;genangan darah;DAILY CHECK
+2174; Kata yang digunakan untuk menyebut perbuatan memberikan darah kepada orang lain. ;3203;249;memindahken dakhoh;1;3328;214;memindahkan darah;DAILY CHECK
+2175; Kata yang digunakan untuk menyebut perbuatan memberikan darah kepada orang lain. ;3206;249;tranfuksi dakhoh;1;3637;171;tranfusi darah;DAILY CHECK
+2176; Kata yang digunakan untuk menyebut golongan darah yang orang miliki. ;3185;169;golongan dakhoh;1;3278;249;golongan darah;DAILY CHECK
+2178;Kata yang digunakan untuk menyebut berkeringat. ;3210;249;mepuluh;1;3341;214;berpuluh;DAILY CHECK
+2180; Kata yang digunakan untuk menyebut keringat. ;3224;209;kekhingat;1;3277;249;berkeringat;DAILY CHECK
+2184; Apa yang terjadi pada keringat. ;3190;249;kering;1;3329;214;kering;DAILY CHECK
+2185; Apa yang orang lakukan terhadap keringatnya. ;3195;249;khidi;1;3333;214;mandi;DAILY CHECK
+2186; Apa yang orang lakukan terhadap keringatnya. ;3226;209;pakek farpum;1;3279;249;pakai parpum;DAILY CHECK
+2189; Kata yang menjelaskan keadaan seseorang yang sedang berkeringat. ;3240;209;mukupen;1;3283;249;keringatan;DAILY CHECK
+2190; Kata yang menjelaskan keadaan seseorang yang sedang berkeringat. ;3267;209;mepeluh;1;3274;249;berpuluh;DAILY CHECK
+2191; Kata yang menjelaskan keadaan seseorang yang sedang berkeringat. ;3204;249;bosok khug mukup pelukh;1;3338;214;basah dan gerah ;DAILY CHECK
+2192; Kata yang menjelaskan sifat bau keringat. ;3235;209;mbau peluh;1;3281;249;bahu peluh;DAILY CHECK
+2193; Kata yang menjelaskan sifat bau keringat. ;3272;209;mbau;1;3285;249;bau;DAILY CHECK
+2193; Kata yang menjelaskan sifat bau keringat. ;3272;209;mbau;1;3339;214;bau;DAILY CHECK
+2193; Kata yang menjelaskan sifat bau keringat. ;3272;209;mbau;1;3429;171;bau;DAILY CHECK
+2194; Kata yang menjelaskan sifat bau keringat. ;3242;209;mbau macik;1;3284;249;bau bangkai;DAILY CHECK
+2195; Kata yang menjelaskan sifat bau keringat. ;3249;209;mbau badan;1;3291;249;bau badan;DAILY CHECK
+2197; Kata yang menjelaskan sifat bau keringat. ;3216;249;mbau jeme tue;1;3327;214;bau orang tua;DAILY CHECK
+2198; Kata yang menjelaskan sifat bau keringat. ;3231;209;mbau kalak si malet penah khidi;1;3275;249;bau orang yang tidam pernag mandi;DAILY CHECK
+2201;Kata yang digunakan untuk menyebut membuang air kecil. ;3228;209;lawe cut;1;3290;249;air kecil;DAILY CHECK
+2204; Kata yang digunakan untuk menyebut air kencing. ;3225;209;lawe yoh;1;3292;249;air kencing;DAILY CHECK
+2209; Di mana tempat orang biasanya membuang air kecil. ;3271;209;lawe bau;1;3289;249;air bau;DAILY CHECK
+2209; Di mana tempat orang biasanya membuang air kecil. ;3271;209;lawe bau;1;3334;214;air bau;DAILY CHECK
+2209; Di mana tempat orang biasanya membuang air kecil. ;3271;209;lawe bau;1;3463;171;air berbau;DAILY CHECK
+2211; Di mana tempat orang biasanya membuang air kecil. ;3268;209;kamar mandi;1;3280;249;kamar mandi;DAILY CHECK
+2213; Apa yang dilakukan oleh ginjal dan kandung kemih. ;3264;209;simpan lawe nyoh;1;3288;249;simpan air kencing;DAILY CHECK
+2213; Apa yang dilakukan oleh ginjal dan kandung kemih. ;3264;209;simpan lawe nyoh;1;3325;214;simpan air kencing;DAILY CHECK
+2213; Apa yang dilakukan oleh ginjal dan kandung kemih. ;3264;209;simpan lawe nyoh;1;3431;171;simpan air mencing;DAILY CHECK
+2214; Kata yang digunakan untuk menyebut batu ginjal. ;3273;209;batu ginjal;1;3282;249;batu ginjal;DAILY CHECK
+2221;Kata yang digunakan untuk menyebut membuang air besar. ;3306;249;capaken cemak;1;3533;214;membuang kotoran;DAILY CHECK
+2223; Kata yang digunakan untuk menyebut tinja//tahi. ;3295;249;pupuk tai tai binatang pelakhe;1;3527;214;pupuk kotoran kotoran hewan peliharaan;DAILY CHECK
+2224; Kata yang digunakan untuk menyebut tinja//tahi. ;3320;249;ekresasi;1;3522;214;ekresi;DAILY CHECK
+2225; Kata yang digunakan untuk menyebut tinja//tahi. ;3299;249;najis;1;3557;214;najis;DAILY CHECK
+2226; Kata yang digunakan untuk menyebut tinja//tahi. ;3321;249;cemak;1;3544;214;kontor;DAILY CHECK
+2228; Kata yang digunakan untuk menyebut tinja//tahi yang cair. ;3293;249;cerewet;1;3521;214;cekhewet;DAILY CHECK
+2228; Kata yang digunakan untuk menyebut tinja//tahi yang cair. ;3293;249;cerewet;1;3630;171;cerewet;DAILY CHECK
+2229; Kata yang digunakan untuk menyebut keadaan sulit membuang air besar. ;3315;249;sungkar buang lawe belin;1;3529;214;sungkan buang air  besar;DAILY CHECK
+2233; Apa yang orang gunakan untuk membersihkan diri setelah buang air besar. ;3402;171;kotas, tisu;1;3546;214;kertas,  tisu;DAILY CHECK
+2236; Di mana tempat orang biasanya membuang air besar. ;3294;249;kamakh khidi;1;3540;214;kamar mandi;DAILY CHECK
+2238; Di mana tempat orang biasanya membuang air besar. ;3312;249;kukhus;1;3526;214;kurus;DAILY CHECK
+2239; Kata yang digunakan untuk menyebut bau tinja//tahi. ;3343;214;mbau macik;1;3478;169;bau busuk;DAILY CHECK
+2241; Kata yang digunakan untuk menyatakan kentut. ;3319;249;mentut;1;3542;214;kentut;DAILY CHECK
+2242; Kata yang digunakan untuk menyatakan kentut. ;3348;214;mentut;1;3635;171;buang angin/kentut;DAILY CHECK
+2243;Kata yang digunakan untuk menyebut merasa sesuatu dengan menggunakan salah satu pancaindra. ;3361;214;mekhase;1;3626;171;merasa;DAILY CHECK
+2244;Kata yang digunakan untuk menyebut merasa sesuatu dengan menggunakan salah satu pancaindra. ;3317;249;cekhabe;1;3537;214;mencari;DAILY CHECK
+2245;Kata yang digunakan untuk menyebut merasa sesuatu dengan menggunakan salah satu pancaindra. ;3370;214;ngato;1;3640;171;melihat;DAILY CHECK
+2246;Kata yang digunakan untuk menyebut merasa sesuatu dengan menggunakan salah satu pancaindra. ;3388;171;mempekhatiken ;1;3541;214;memperhatikan;DAILY CHECK
+2247;Kata yang digunakan untuk menyebut merasa sesuatu dengan menggunakan salah satu pancaindra. ;3359;214;menbedeken;1;3481;169;membedakan;DAILY CHECK
+2248; Kata yang digunakan untuk menyebut kemampuan untuk merasa sesuatu. ;3358;214;pekhase;1;3645;171;perasa;DAILY CHECK
+2251; Kata yang digunakan untuk menyebut sesuatu yang dapat dirasakan. ;3409;171;pekhasaen ;1;3538;214;perasaan;DAILY CHECK
+2252; Kata yang digunakan untuk menyebut sesuatu yang dapat dirasakan. ;3368;214;pengidah;1;3469;209;penglihat;DAILY CHECK
+2253; Kata yang menjelaskan sifat sesuatu yang dapat diketahui melalui pancaindra. ;3367;214;nemu ni gelem;1;3632;171;bisa dipegang ;DAILY CHECK
+2255; Kata yang menjelaskan sifat sesuatu yang dapat diketahui melalui pancaindra. ;3393;171;mu nikhase;1;3523;214;bisa di rasa;DAILY CHECK
+2256; Kata yang menjelaskan sifat sesuatu yang dapat diketahui melalui pancaindra. ;3355;214;nemu ni bedeken;1;3620;171;bisa dibedakan ;DAILY CHECK
+2257; Kata yang menjelaskan sifat sesuatu yang tidak dapat diketahui melalui pancaindra. ;3356;214;malot nemu ni idah;1;3634;171;tidak bisa dilihat;DAILY CHECK
+2258; Kata yang menjelaskan sifat sesuatu yang tidak dapat diketahui melalui pancaindra. ;3410;171;malet mu nikhase;1;3470;209;tidak bisa di rasa;DAILY CHECK
+2261; Kata yang menjelaskan sifat seseorang yang dapat merasakan hal-hal yang tidak dapat diketahui melalui pancaindra, yang tidak dapat dilakukan oleh orang pada umumnya. ;3397;216;sanggup mekhase;1;3534;214;sangup merasa;DAILY CHECK
+2262; Kata yang menjelaskan sifat seseorang yang dapat merasakan hal-hal yang tidak dapat diketahui melalui pancaindra, yang tidak dapat dilakukan oleh orang pada umumnya. ;3389;171;let bhane indra si tajem;1;3548;214;mempunyai indra yang tajam;DAILY CHECK
+2263;Kata yang digunakan untuk menyebut melihat sesuatu. ;3369;214;ngato;1;3642;171;melihat;DAILY CHECK
+2264;Kata yang digunakan untuk menyebut melihat sesuatu. ;3398;171;nelengi;1;3479;169;melirik;DAILY CHECK
+2267;Kata yang digunakan untuk menyebut melihat sesuatu. ;3406;171;mempekhhatiken;1;3532;214;memperhatikan;DAILY CHECK
+2270; Kata yang digunakan untuk menyebut melihat sesuatu sebentar saja. ;3413;171;idhah sekelimbas ;1;3559;214;melihat sebentar;DAILY CHECK
+2277; Kata yang digunakan untuk menyebut kemampuan untuk melihat. ;3403;171;pengidhahen ;1;3550;214;pengelihatan;DAILY CHECK
+2281; Kata yang digunakan untuk menyebut seseorang yang melihat sesuatu. ;3465;171;saksi;1;3477;169;saksi;DAILY CHECK
+2290; Kata yang menjelaskan seberapa jelas seseorang dapat melihat. ;3467;171;pitung ;1;3539;214;pintu;DAILY CHECK
+2295; Kata yang menjelaskan seberapa jelas seseorang dapat melihat. ;3464;171;mate khabun ;1;3471;209;mata rabun;DAILY CHECK
+2341;Kata yang digunakan untuk menyebut memperhatikan sesuatu. ;3484;209;nonton;1;3536;214;nonton;DAILY CHECK
+2342; Kata yang digunakan untuk menyebut memperhatikan sesuatu secara terus-menerus. ;3490;209;malet meluahken pandangen  kalak akhi;1;3558;214;tidak melepaskan pandangan dari orang;DAILY CHECK
+2352; Kata yang digunakan untuk menyebut seseorang yang memperhatikan sesuatu. ;3474;209;ahli;1;3554;214;ahli;DAILY CHECK
+2352; Kata yang digunakan untuk menyebut seseorang yang memperhatikan sesuatu. ;3474;209;ahli;1;3691;169;ahli;DAILY CHECK
+2353; Kata yang digunakan untuk menyebut seseorang yang memperhatikan sesuatu. ;3486;209;pemege;1;3553;214;pendengar;DAILY CHECK
+2356; Kata yang digunakan untuk menyebut selalu memperhatikan situasi untuk mengetahui apakah akan terjadi sesuatu yang buruk. ;3485;209;hati-hati;1;3551;214;hati-hati;DAILY CHECK
+2356; Kata yang digunakan untuk menyebut selalu memperhatikan situasi untuk mengetahui apakah akan terjadi sesuatu yang buruk. ;3485;209;hati-hati;1;3644;171;hati-hati;DAILY CHECK
+2358; Kata yang digunakan untuk menyebut selalu memperhatikan situasi untuk mengetahui apakah akan terjadi sesuatu yang buruk. ;3489;209;jage-jage;1;3531;214;jaga jaga;DAILY CHECK
+2361;Kata yang digunakan untuk menyebut meneliti sesuatu. ;3488;209;memekhikse;1;3524;214;memeriksa;DAILY CHECK
+2461; Kata yang menjelaskan sifat sesuatu yang dapat memantulkan cahaya. ;3494;171;bombal;1;3692;214;megembal;DAILY CHECK
+2463;Kata yang digunakan untuk menyebut tampak//wujud sesuatu. ;3492;171;khupe;1;3696;214;rupa;DAILY CHECK
+2464;Kata yang digunakan untuk menyebut tampak//wujud sesuatu. ;3509;171;tekhidhah;1;3718;214;terlihat;DAILY CHECK
+2465;Kata yang digunakan untuk menyebut tampak//wujud sesuatu. ;3512;171;khupe;1;3695;214;rupa;DAILY CHECK
+2468; Kata yang digunakan untuk menyebut tampak//wujud seseorang. ;3517;171;kesan;1;3699;214;kesan;DAILY CHECK
+2469; Kata yang digunakan untuk menyebut tampak//wujud seseorang. ;3493;171;Awe;1;3685;169;muka;DAILY CHECK
+2472; Kata yang menunjukkan bahwa sesuatu mirip dengan benda lainnya. ;3491;171;mikhip;1;3715;214;mirip;DAILY CHECK
+2474; Kata yang menunjukkan bahwa sesuatu mirip dengan benda lainnya. ;3497;171;tekhidhah bage;1;3693;214;telihat seperti;DAILY CHECK
+2475; Kata yang menunjukkan bahwa sesuatu mirip dengan benda lainnya. ;3504;171;mikhip;1;3702;214;mirip;DAILY CHECK
+2476; Kata yang menunjukkan bahwa sesuatu terlihat seperti suatu keadaan tertentu. ;3495;171;tekhidhah ;1;3704;214;terlihay;DAILY CHECK
+2476; Kata yang menunjukkan bahwa sesuatu terlihat seperti suatu keadaan tertentu. ;3495;171;tekhidhah ;1;3705;214;terlihat;DAILY CHECK
+2477; Kata yang menunjukkan bahwa sesuatu terlihat seperti suatu keadaan tertentu. ;3507;171;tekhidhah ( metue/mudhe);1;3719;214;terlihat (tua/muda);DAILY CHECK
+2479; Kata yang menunjukkan bahwa sepotong pakaian tampak bagus jika dikenakan oleh seseorang. ;3563;214;cocok;1;4367;171;cocok;DAILY CHECK
+2480; Kata yang menunjukkan bahwa sepotong pakaian tampak bagus jika dikenakan oleh seseorang. ;3515;171;sesue;1;3700;214;sesuai;DAILY CHECK
+2481; Kata yang menunjukkan bahwa sepotong pakaian tampak bagus jika dikenakan oleh seseorang. ;3508;171;pas, cocok;1;3713;214;cocok;DAILY CHECK
+2482; Kata yang menunjukkan bahwa sepotong pakaian tampak bagus jika dikenakan oleh seseorang. ;3519;171;tekhidhah mende;1;3708;214;terlihat cantik;DAILY CHECK
+2489;Kata yang menjelaskan ciri seorang wanita yang cantik. ;3562;214;mejile;1;3756;169;cantik;DAILY CHECK
+2491;Kata yang menjelaskan ciri seorang wanita yang cantik. ;3566;214;jelite;1;5968;171;jelita;DAILY CHECK
+2493;Kata yang menjelaskan ciri seorang wanita yang cantik. ;3560;214;menakhik;1;3758;169;menarik;DAILY CHECK
+2494; Kata yang menjelaskan ciri seorang pria yang tampan. ;3569;214;ganteng;1;4421;169;ganteng;DAILY CHECK
+2495; Kata yang menjelaskan ciri seorang pria yang tampan. ;3580;214;gantengme;1;3751;169;ganteng;DAILY CHECK
+2498; Kata yang menjelaskan ciri seorang pria yang tampan. ;3578;214;megegokh;1;5950;171;bertenaga;DAILY CHECK
+2501; Kata yang menjelaskan ciri seorang anak yang cantik. ;3572;214;imutne;1;3759;169;imut;DAILY CHECK
+2503; Kata yang menjelaskan ciri sesuatu yang cantik. ;3570;214;menakhik;1;5935;171;menarik;DAILY CHECK
+2505; Kata yang menjelaskan ciri sesuatu yang cantik. ;3577;214;anggun ninr;1;4638;169;mengayun anak;DAILY CHECK
+2521; Kata yang digunakan untuk menyebut mempercantik sesuatu. ;3590;171;medandan;1;3753;169;berias;DAILY CHECK
+2522; Kata yang menjelaskan ciri sesuatu atau seseorang yang tidak cantik ataupun jelek. ;3591;171;bhiase;1;3717;214;biasa;DAILY CHECK
+2524; Kata yang menjelaskan ciri sesuatu atau seseorang yang tidak cantik ataupun jelek. ;3604;171;bhiase-bhiase pelin ;1;3694;214;biasa-biasa saja;DAILY CHECK
+2525;Kata yang menjelaskan ciri seseorang yang tidak terlihat bagus. ;3605;171;tekhidhah macik;1;3697;214;terlihat jelek;DAILY CHECK
+2529;Kata yang menjelaskan ciri seseorang yang tidak terlihat bagus. ;3617;171;malot mende;1;3698;214;tidak bagus;DAILY CHECK
+2532; Kata yang menjelaskan ciri seseorang yang sangat jelek. ;3593;171;ngekhi ;1;3701;214;ngeri;DAILY CHECK
+2533; Kata yang menjelaskan ciri seseorang yang sangat jelek. ;3601;171;menjijikken;1;3706;214;menjijikan;DAILY CHECK
+2535; Kata yang menjelaskan ciri sesuatu yang jelek. ;3655;214;monol;1;4420;169;jelek;DAILY CHECK
+2536; Kata yang menjelaskan ciri sesuatu yang jelek. ;3599;171;sekhem ;1;3711;214;seram;DAILY CHECK
+2537; Kata yang menjelaskan ciri sesuatu yang jelek. ;3608;171;ngekhi kalihen ;1;3707;214;ngeri sekali;DAILY CHECK
+2538; Kata yang menjelaskan ciri sesuatu yang jelek. ;3602;171;malet get ate;1;3710;214;tidak senang hati;DAILY CHECK
+2540; Kata yang digunakan untuk menyebut sesuatu yang jelek. ;3613;171;sebhuah keanehen ;1;3720;214;sebuah keanehan;DAILY CHECK
+2541; Kata yang menunjukkan bahwa sesuatu dilakukan dengan cara yang jelek. ;3606;171;secakhe kejam/kasakh;1;3714;214;secara kejam / kasar;DAILY CHECK
+2543; Kata yang menunjukkan bahwa sesuatu dilakukan dengan cara yang jelek. ;3612;171;malet pakhas;1;3703;214;tidak cocok;DAILY CHECK
+2547; Kata yang digunakan untuk menyebut memperjelek sesuatu. ;3661;214;mekhusak;1;3684;169;merusak;DAILY CHECK
+2549; Kata yang menjelaskan ciri wajah seseorang yang jelek. ;3675;214;monol;1;4634;169;jelek sekali;DAILY CHECK
+2555;Kata yang digunakan untuk menyebut benda yang orang gunakan untuk membantu mereka melihat dengan lebih baik. ;3656;214;tekhopong;1;5966;171;teropong;DAILY CHECK
+2556; Kata yang digunakan untuk menyebut kacamata. ;3680;214;kacemate;1;3754;169;kacamata;DAILY CHECK
+2557; Kata yang digunakan untuk menyebut kacamata. ;3669;214;lense kontak;1;5679;186;kontak lensa;DAILY CHECK
+2569; Apa yang dilakukan oleh benda-benda yang orang gunakan untuk melihat. ;3681;214;memantulken;1;5984;171;memantulkan;DAILY CHECK
+2584; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan pendengaran. ;3729;214;pemegeen;1;4399;171;pendengaran ;DAILY CHECK
+2585; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan pendengaran. ;3738;214;aurane;1;4444;169;auranya;DAILY CHECK
+2590;Kata yang digunakan untuk menyebut mendengarkan sesuatu. ;3723;214;mempehatiken;1;4394;171;memperhatikan ;DAILY CHECK
+2596; Kata yang digunakan untuk menyebut seseorang yang mendengarkan. ;3750;214;pemege;1;4374;169;pendengaran;DAILY CHECK
+2602; Kata yang menunjukkan bahwa sesuatu terdengar seperti bunyi lain atau terdengar seperti bunyi tertentu. ;3733;214;tebege bage;1;4396;171;terdengar seperti;DAILY CHECK
+2609; Kata yang digunakan untuk menyebut proses di mana seseorang atau sesuatu membuat suatu bunyi. ;3748;214;megeken;1;4358;171;mendengarkan ;DAILY CHECK
+2641; Kata yang digunakan untuk menyebut bunyi yang terjadi tiba-tiba. ;3760;214;mbetuk;1;4424;169;meledak;DAILY CHECK
+2646; Kata yang digunakan untuk menyebut nada suatu bunyi. ;3770;214;tangge nade;1;5967;171;tangga nada;DAILY CHECK
+2651; Kata yang digunakan untuk menyebut bunyi yang bernada tinggi. ;3787;214;menjekhit;1;4362;171;menjerit;DAILY CHECK
+2656; Kata yang digunakan untuk menyebut bunyi yang dihasilkan oleh sesuatu yang dibanting atau tertubruk barang lain. ;3767;214;medetum;1;5906;171;berdentum;DAILY CHECK
+2659; Kata yang digunakan untuk menyebut bunyi ketika sesuatu pecah atau patah. ;3764;214;gampakh;1;4397;171;tergeletak;DAILY CHECK
+2661; Kata yang digunakan untuk menyebut bunyi ketika sesuatu pecah atau patah. ;3789;214;medekhak;1;4428;169;berderak;DAILY CHECK
+2663; Kata yang digunakan untuk menyebut bunyi ketika dua benda saling menggesek satu sama lain. ;3772;214;dekhik;1;4439;169;derik;DAILY CHECK
+2670; Kata yang digunakan untuk menyebut bunyi ketika logam atau kaca menabrak sesuatu. ;3783;214;dekhing;1;4366;171;berdering;DAILY CHECK
+2678; Kata yang digunakan untuk menyebut bunyi angin atau udara. ;3788;214;bergemukhukh;1;3884;169;bergemuruh;DAILY CHECK
+2701; Apa bunyi yang dibuat oleh bayi. ;3825;214;dempik;1;4356;171;teriak;DAILY CHECK
+2702; Apa bunyi yang dibuat oleh bayi. ;3834;214;pepekhak;1;5757;169;nangis;DAILY CHECK
+2712; Kata yang digunakan untuk menyebut bunyi mesin. ;3792;171;medengung;1;4070;214;medengung;DAILY CHECK
+2717; Kata yang digunakan untuk menyebut bunyi bel. ;3798;171;medekhing;1;4076;214;berdering;DAILY CHECK
+2719;Kata yang menjelaskan sifat bunyi yang keras. ;3844;214;kekhas;1;5986;171;deras;DAILY CHECK
+2728; Kata yang menjelaskan sifat bunyi yang terlalu keras sehingga orang tidak dapat mendengar apa-apa. ;3808;171;tungkik ni bhahan-bhahan ;1;4066;214;tuli di buat buat;DAILY CHECK
+2730; Kata yang menjelaskan sifat bunyi yang keras dan tinggi. ;3811;171;ngakhuk cuping;1;4065;214;mengaruk kuping;DAILY CHECK
+2735; Kata yang digunakan untuk menyebut bunyi yang keras. ;3835;214;khibut;1;5926;171;ribut;DAILY CHECK
+2738; Kata yang digunakan untuk menyebut banyak bunyi pada saat bersamaan. ;3828;214;kekhsukhen;1;4635;169;kesurupan;DAILY CHECK
+2764; Kata yang digunakan untuk menyebut membuat bunyi yang tenang. ;3867;171;mekusik;1;4072;214;berbisik;DAILY CHECK
+2771; Kata yang digunakan untuk menyebut membuat sesuatu atau seseorang menjadi lebih tenang. ;3855;171;nadhiken, sipken ;1;4073;214;mendiamkan diamkan;DAILY CHECK
+2773; Apa yang orang katakan ketika dia ingin seseorang menjadi tenang. ;3857;171;tolong siip;1;4075;214;tolong diam;DAILY CHECK
+2774; Apa yang orang katakan ketika dia ingin seseorang menjadi tenang. ;3856;171;tolong cutken sakhene;1;4067;214;tolong kecilkan suara;DAILY CHECK
+2779; Kata yang digunakan untuk menyebut keadaan tidak ada suara apa pun. ;3858;171;jakhum ndhabhuh pe tebhege;1;4074;214;jarum jatuh saja terdengar;DAILY CHECK
+2780; Kata yang menunjukkan bahwa kita melakukan sesuatu tanpa menimbulkan bunyi apa pun. ;3863;171;malot mesakhe;1;4079;214;tidak bersuara;DAILY CHECK
+2782; Kata yang menunjukkan bahwa kita melakukan sesuatu tanpa menimbulkan bunyi apa pun. ;3865;171;malot mesakhe;1;4063;214;tidak bersuara;DAILY CHECK
+2786; Kata yang digunakan untuk menyebut mencoba merasa sesuatu dengan sengaja. ;3872;171;mekhase;1;3889;169;merasa;DAILY CHECK
+2822; Kata yang menjelaskan sifat sesuatu yang manis. ;3894;214;manis;1;5914;171;manis;DAILY CHECK
+2823; Kata yang menjelaskan sifat sesuatu yang manis. ;3912;214;megule;1;4430;169;bergula;DAILY CHECK
+2824; Kata yang menjelaskan sifat sesuatu yang manis. ;3895;214;manis kane;1;5930;171;manis juga;DAILY CHECK
+2825; Kata yang menjelaskan sifat sesuatu yang tidak manis. ;3918;214;malot mis;1;4353;171;tidak manis;DAILY CHECK
+2826; Kata yang menjelaskan sifat sesuatu yang tidak manis. ;3906;214;Tawakh;1;4413;169;menawar;DAILY CHECK
+2829; Kata yang menjelaskan sifat sesuatu yang pahit. ;3927;214;pagit;1;5897;171;pahit;DAILY CHECK
+2831; Kata yang menjelaskan sifat sesuatu yang asin. ;3891;214;masin;1;5899;171;asin;DAILY CHECK
+2836; Kata yang digunakan untuk menyebut mencoba membaui sesuatu dengan sengaja. ;3898;214;mengkhikhup;1;4418;169;menhg;DAILY CHECK
+2843; Kata yang digunakan untuk menyebut bau sesuatu. ;3913;214;mekhium;1;5934;171;wangi;DAILY CHECK
+2846; Kata yang digunakan untuk menyebut bau sesuatu. ;3919;214;mbau mekhium;1;4441;169;harum;DAILY CHECK
+2850; Kata yang menunjukkan bahwa bau sesuatu mirip dengan sesuatu lainnya atau berbau seperti bau tertentu. ;3978;214;mbaune (mekhium//macik) ;1;4395;171;baunya ;DAILY CHECK
+2851; Kata yang digunakan untuk menyebut berbau harum. ;3923;214;mbau mekhium;1;4419;169;harum;DAILY CHECK
+2855; Kata yang menjelaskan sifat sesuatu yang baunya harum. ;3984;214;mekhium;1;4360;171;wangi;DAILY CHECK
+2857; Kata yang menjelaskan sifat sesuatu yang baunya harum. ;3939;214;segar;1;4410;169;segar;DAILY CHECK
+2859; Kata yang menjelaskan sifat sesuatu yang baunya busuk. ;3940;214;mbau malot taboh;1;5922;171;bau tidak enak;DAILY CHECK
+2862; Kata yang menjelaskan sifat sesuatu yang baunya busuk. ;3933;214;apak;1;4432;169;Bapak;DAILY CHECK
+2866; Kata yang digunakan untuk menyebut bau harum. ;4002;214;mekhium;1;5921;171;harum;DAILY CHECK
+2867; Kata yang digunakan untuk menyebut bau harum. ;3949;214;taboh;1;5918;171;enak;DAILY CHECK
+2868; Kata yang digunakan untuk menyebut bau busuk. ;3952;214;mbau;1;4416;169;bau;DAILY CHECK
+2871; Kata yang digunakan untuk menyebut bau busuk. ;3957;214;mbu babah;1;4377;169;mulut;DAILY CHECK
+2878; Kata yang menjelaskan sifat sesuatu yang mudah tercium. ;4003;214;bau kalikhem;1;4401;171;sangat bau;DAILY CHECK
+2883; Kata yang digunakan untuk menyebut proses sesuatu mulai membau. ;4160;214;mulai mbau;1;4408;171;mulai bau;DAILY CHECK
+2890; Kata yang digunakan untuk menyebut membuang bau busuk. ;4258;214;menutup khut khahu;1;5772;169;menutup dengan nira;DAILY CHECK
+2897; Kata yang digunakan untuk menyebut mencoba merasa sesuatu dengan sengaja. ;4295;214;mekhase;1;4433;169;merasa;DAILY CHECK
+2900; Kata yang digunakan untuk menyebut merasa sesuatu dengan menggunakan seluruh tubuh kita. ;4162;214;mekhase;1;5979;171;merasa;DAILY CHECK
+2902; Kata yang digunakan untuk menyebut kemampuan untuk merasa. ;4166;214;pekhasaen;1;4427;169;perasaan;DAILY CHECK
+2904; Kata yang digunakan untuk menyebut kemampuan untuk merasa. ;4301;214;indra pekhase;1;4402;171;indra perasa;DAILY CHECK
+2906; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan perasaan. ;4171;214;pekhasaen;1;4498;245;perasaan;DAILY CHECK
+2907; Kata yang digunakan untuk menyebut rasa tertentu pada sesuatu. ;4168;214;pekhasaen;1;4637;169;perasaan;DAILY CHECK
+2908; Kata yang menunjukkan bahwa sesuatu rasanya mirip dengan sesuatu lainnya atau terasa seperti keadaan tertentu. ;4175;214;khasene mirip khut;1;4415;169;rasanya seperti;DAILY CHECK
+2910; Kata yang digunakan untuk menyebut merasa enak. ;4180;214;nyaman;1;4378;169;nyaman;DAILY CHECK
+2911; Kata yang digunakan untuk menyebut merasa tidak enak. ;4307;214;malot nyaman;1;4442;169;tidak nyaman;DAILY CHECK
+2917; Kata yang menjelaskan sifat sesuatu yang rasanya buruk. ;4187;214;gatel;1;4407;171;gatal;DAILY CHECK
+2918; Kata yang menjelaskan sifat sesuatu yang rasanya buruk. ;4193;214;mengamengken;1;4379;169;mengiyakan;DAILY CHECK
+2921; Kata yang digunakan untuk menyebut perasaan yang buruk. ;4200;214;sakit;1;4499;245;sakit;DAILY CHECK
+2922; Kata yang digunakan untuk menyebut perasaan yang buruk. ;4197;214;gatel;1;4422;169;gatal;DAILY CHECK
+2927; Kata yang menjelaskan sifat sesuatu yang dapat dirasa. ;4202;214;nemu ni gelem;1;5777;169;bisa di pegang;DAILY CHECK
+2931; Kata yang menjelaskan sifat sesuatu yang tidak dapat dirasa. ;4317;214;nalot nemu ni deges;1;5996;171;tidak disentuh;DAILY CHECK
+2932; Kata yang digunakan untuk menyebut bisa merasakan hal-hal yang umumnya tidak dapat dirasakan oleh orang lain. ;4219;214;tesentuh;1;5972;171;tersentuh;DAILY CHECK
+2935; Kata yang digunakan untuk menyebut tidak bisa merasakan apa-apa. ;4237;214;mati khase;1;4425;169;mati rasa;DAILY CHECK
+2938; Kata yang digunakan untuk menyebut tindakan membuat seseorang tidak bisa merasakan apa-apa. ;4247;214;membius;1;5944;171;membius;DAILY CHECK
+3361; Kata yang digunakan untuk menyebut keadaan terluka. ;4479;171;mekhugah;1;4534;214;terluka;DAILY CHECK
+3362; Kata yang digunakan untuk menyebut keadaan terluka. ;4471;171;medhakhoh;1;4539;214;berdarah;DAILY CHECK
+3363; Kata yang digunakan untuk menyebut keadaan terluka. ;4484;171;sakit mekhugah;1;4551;214;sakit terluka;DAILY CHECK
+3363; Kata yang digunakan untuk menyebut keadaan terluka. ;4484;171;sakit mekhugah;1;4633;169;sekit parah;DAILY CHECK
+3364; Kata yang digunakan untuk menyebut seseorang yang terluka. ;4480;171;jeme si mekhugah;1;4548;214;orang yang terluka;DAILY CHECK
+3365; Kata yang digunakan untuk menyebut seseorang yang terluka. ;4486;171;jeme si mesui ate;1;4532;214;manusia yang sakit hati;DAILY CHECK
+3366; Kata yang digunakan untuk menyebut seseorang yang terluka. ;4491;171;kokhban kecelakaan / bencane alam;1;4530;214;korban kecelakaan/bencana alam;DAILY CHECK
+3367; Kata yang digunakan untuk menyebut seseorang yang terluka dalam perang. ;4476;171;kokhban pekhang;1;4550;214;korban perang;DAILY CHECK
+3368; Kata yang menjelaskan keadaan seseorang yang terluka. ;4470;171;mekhugah;1;4546;214;terluka;DAILY CHECK
+3370; Kata yang menjelaskan keadaan salah satu anggota tubuh yang terluka. ;4473;171;mekhugah;1;4541;214;terluka;DAILY CHECK
+3372; Kata yang menjelaskan keadaan salah satu anggota tubuh yang terluka. ;4493;171;khusak;1;4531;214;rusak;DAILY CHECK
+3378; Kata yang digunakan untuk menyebut luka. ;4490;171;tesayat;1;4547;214;tersayat;DAILY CHECK
+3379; Kata yang digunakan untuk menyebut luka. ;4485;171;ni tikam;1;4542;214;di tusuk;DAILY CHECK
+3380; Kata yang digunakan untuk menyebut luka. ;4496;171;ni tikam;1;4537;214;di tusuk;DAILY CHECK
+3384; Kata yang digunakan untuk menyebut luka. ;4492;171;meseng sinakh mate walhi;1;4549;214;hangus dinat mata hari;DAILY CHECK
+3387; Kata yang digunakan untuk menyebut luka. ;4497;171;putok tulan;1;4540;214;patah tulang;DAILY CHECK
+3389; Kata yang digunakan untuk menyebut luka. ;4489;171;mate ni cungkit, ni tikam, nipitungken ;1;4543;214;mati di congkil,  di tusuk dibutakan;DAILY CHECK
+3390; Kata yang digunakan untuk menyebut luka. ;4495;171;igung medhakhoh;1;4535;214;hidung berdarah;DAILY CHECK
+3724; Apa gejala yang terjadi ketika seseorang mulai kehilangan kesadarannya. ;4500;214;bene daye keseimbangen;1;5983;171;hilang daya keseimbangan ;DAILY CHECK
+3726; Apa gejala orang yang tidak sadarkan diri. ;4505;214;malot lot daye jeli;1;4631;260;gak ada jual jeli;DAILY CHECK
+3734;Kata yang digunakan untuk menyebut keadaan linglung atau bingung. ;4509;214;pudal;1;5908;171;tumpul;DAILY CHECK
+3736; Kata yang digunakan untuk menyebut keadaan yang sedikit membingungkan. ;4504;214;citok kelikhu;1;4639;169;salah sedikit;DAILY CHECK
+3737; Kata yang digunakan untuk menyebut keadaan yang sedikit membingungkan. ;4521;214;mekhase kukhang tentekham;1;5912;171;merasa kurang tentram ;DAILY CHECK
+3739; Kata yang digunakan untuk menyebut keadaan yang sangat membingungkan. ;4508;214;pikekhrn benakh-benakh malot menentu;1;6804;171;pikiran benar-benar tidak menentu;DAILY CHECK
+3741; Kata yang menjelaskan keadaan pikiran seseorang yang dapat berfungsi dengan baik. ;4510;214;nemu mepikekh khut sehat;1;5920;171;bisa berpikir dan sehat;DAILY CHECK
+3743; Kata yang menjelaskan keadaan pikiran seseorang yang dapat berfungsi dengan baik. ;4513;214;tajem pikekhene;1;5931;171;tajam pikirannya;DAILY CHECK
+3788; Kata yang digunakan untuk menyebut operasi atau pembedahan. ;4556;214;membedah//mengoperasi;1;5913;171;membedah;DAILY CHECK
+3789; Kata yang digunakan untuk menyebut operasi atau pembedahan. ;4560;214;membelah;1;5925;171;membelah;DAILY CHECK
+3791; Kata yang digunakan untuk menyebut operasi atau pembedahan. ;4563;214;menjahit luke su dibedah;1;5924;171;menjahit luka yang dibedah;DAILY CHECK
+3966; Kata yang digunakan untuk menyebut sesuatu yang menyebabkan seseorang sakit jiwa. ;4656;214;trauma jiwe;1;5994;171;jiwa trauma;DAILY CHECK
+3968; Kata yang digunakan untuk menyebut keadaan agak cacat mental atau sangat cacat mental. ;4661;214;keterbelakangen mental pakhah;1;6803;171;sangat keterbelakangan mental ;DAILY CHECK
+3969; Kata yang digunakan untuk menyebut orang yang sakit jiwa. ;4655;214;khalak gile;1;5949;171;orang gila;DAILY CHECK
+3976; Kata yang digunakan untuk menyebut rumah sakit untuk orang yang sakit jiwa. ;4664;214;khumah sakit jiwe;1;5751;169;Rumah Sakit jiwa;DAILY CHECK
+4024; Kata yang digunakan untuk menyebut orang yang sudah menikah. ;4668;214;pasangen geluh;1;5941;171;pasangan hidup;DAILY CHECK
+4026; Kata yang digunakan untuk menyatakan hubungan antara suami dan istri. ;4672;214;menjage pasangen geluh;1;5985;171;menjaga pasangan hidup;DAILY CHECK
+4027; Kata yang digunakan untuk menyatakan hubungan antara suami dan istri. ;4677;214;khamah;1;6777;169;pacar;DAILY CHECK
+4029; Kata yang digunakan untuk menyebut menikah lagi setelah menjanda atau bercerai. ;4681;214;kawin tule;1;5962;171;menikah lagi;DAILY CHECK
+4030; Kata yang digunakan untuk menyebut menikah lagi setelah menjanda atau bercerai. ;4679;214;kawin tule;1;5969;171;menikah lagi;DAILY CHECK
+4040; Kata yang digunakan untuk menyebut hidup bersama dengan seseorang tanpa ikatan pernikahan. ;4680;214;geluh khut;1;5916;171;hidup bersama;DAILY CHECK
+4046; Kata yang menjelaskan sifat sesuatu yang berkaitan dengan pernikahan. ;4687;214;penikahen;1;5952;171;pernikahan;DAILY CHECK
+4082; Apa saja bagian dari suatu upacara pernikahan. ;4699;214;perose pekawinken;1;5954;171;proses perkawinan;DAILY CHECK
+4089; Kata yang digunakan untuk menyebut orang yang sedang menjalani upacara pernikahan. ;4715;214;pengantin naklaki;1;5976;171;pengantin laki-laki;DAILY CHECK
+4092; Siapa lagi orang yang terlibat dalam suatu upacara pernikahan. ;4722;214;pengantin nak khu;1;5910;171;pengantin perempuan ;DAILY CHECK
+4213; Kata yang digunakan untuk menyebut sifat seseorang yang membuat orang lain tertarik untuk mengadakan hubungan seksual dengannya. ;4733;264;seksi;1;4796;214;seksi;DAILY CHECK
+4263; Kata yang digunakan untuk menyebut menggoda//membujuk seseorang untuk melakukan hubungan seks di luar pernikahan. ;4800;214;memikat;1;5948;171;memikat;DAILY CHECK
+4265; Kata yang digunakan untuk menyebut menggoda//membujuk seseorang untuk melakukan hubungan seks di luar pernikahan. ;4783;214;mekhangsang;1;5992;171;meransang;DAILY CHECK
+4287; Kata yang digunakan untuk menyebut memaksa seorang wanita untuk melakukan hubungan seks. ;4812;214;mepekosa;1;5911;171;memperkosa;DAILY CHECK
+4323;Kata yang digunakan untuk menyebut proses pada saat seorang pria menyebabkan seorang wanita menjadi hamil. ;4815;214;menghamili;1;5943;171;menghamili;DAILY CHECK
+4327; Kata yang digunakan untuk menyebut proses seorang wanita menjadi hamil. ;4818;214;mengandung;1;5963;171;mengandung;DAILY CHECK
+4340; Kata yang digunakan untuk menyebut bagian dari ayah dan bagian dari ibu yang akan menghasilkan seorang bayi. ;4842;214;sel telukh;1;5933;171;sel telur;DAILY CHECK
+4351; Kata yang digunakan untuk menyebut bagian-bagian di sekitar janin yang menghubungkannya dengan rahim ibunya. ;4832;214;lawe ketuban;1;5750;169;air ketuban;DAILY CHECK
+4352;Kata yang digunakan untuk menyebut mencegah kehamilan. ;4839;214;pengendali;1;5898;171;pengendali;DAILY CHECK
+4376;Kata yang digunakan untuk menyebut membantu seorang wanita yang sedang bersalin. ;4823;214;nempukhi melakheken;1;5756;169;menolong persalinan;DAILY CHECK
+4443; Kata yang digunakan untuk menyebut usaha menenangkan bayi yang sedang menangis. ;5632;214;menenangken;1;5988;171;menenangkan ;DAILY CHECK
+4446; Kata yang digunakan untuk menyebut menggendong bayi. ;5630;214;mengendong;1;5959;171;menggendong;DAILY CHECK
+4449; Apa benda yang digunakan untuk membawa bayi. ;5635;214;honda anak;1;5955;171;kereta si anak;DAILY CHECK
+4450; Di mana tempat meletakkan bayi. ;5634;214;kas medem bayi;1;5977;171;tempat tidur bayi;DAILY CHECK
+4514; Kata yang menjelaskan ciri seseorang yang belum dewasa. ;5658;186;dang masak;1;5738;214;sedang masak;DAILY CHECK
+4514; Kata yang menjelaskan ciri seseorang yang belum dewasa. ;5658;186;dang masak;1;5940;171;sedang memasak;DAILY CHECK
+4563; Apa masalah yang dihadapi oleh orang-orang yang lanjut usia. ;5717;171;linglung;1;5730;214;bingung;DAILY CHECK
+4564; Apa masalah yang dihadapi oleh orang-orang yang lanjut usia. ;5724;171;lemes badan ;1;5733;214;lemas badan;DAILY CHECK
+4566; Kata yang digunakan untuk menyebut menjaga orang yang sudah lanjut usia. ;5720;171;pekhawaten te bhe khangtue;1;5739;214;perawatan;DAILY CHECK
+4568; Kata yang digunakan untuk menyebut menjaga orang yang sudah lanjut usia. ;5725;171;panti;1;5741;214;panti;DAILY CHECK
+4575; Kata yang digunakan untuk menyebut bertumbuh dengan cepat atau baik. ;5716;171;nggeluh mejile;1;5735;214;hidup bagus;DAILY CHECK
+4578; Kata yang menjelaskan sifat sesuatu yang tidak bisa bertumbuh lagi. ;5723;171;akekh balekh;1;5737;214;akil balikh;DAILY CHECK
+4580; Kata yang menjelaskan sifat sesuatu yang masih terus bertumbuh. ;5728;171;mange tasak;1;5740;214;belum matang;DAILY CHECK
+286368;;1513;204;ni;1;1968;249;ni;DAILY CHECK
+286368;;1513;204;ni;1;3446;171;di;DAILY CHECK
+286372;;1371;237;bunga;1;1989;249;bunga;DAILY CHECK
+286372;;1371;237;bunga;1;2044;209;bunga;DAILY CHECK
+286372;;1371;237;bunga;1;2083;205;bunge;DAILY CHECK
+286375;;1394;202;let;1;2038;209;ada;DAILY CHECK
+286375;;1545;204;kandu;1;2055;233;anda;DAILY CHECK
+286375;;1659;231;kao;1;1979;249;kamu;DAILY CHECK
+286376;;1405;202;atope;1;1993;249;atau pun;DAILY CHECK
+286379;;1444;210;dakhi;1;2218;214;jemput;DAILY CHECK
+286379;;1444;210;dakhi;1;2630;238;jemput ;DAILY CHECK
+286379;;1444;210;dakhi;1;2734;202;temput;DAILY CHECK
+286379;;1686;209;kakhene;1;1880;169;karena;DAILY CHECK
+286379;;1686;209;kakhene;1;3451;171;karena;DAILY CHECK
+286379;;1755;215;oleh;1;1932;249;oleh;DAILY CHECK
+286381;;1669;234;sadek;1;1988;249;satu;DAILY CHECK
+286382;;1379;237;saya;1;1990;249;saya;DAILY CHECK
+286385;;1364;227;untuk;1;1975;249;untuk;DAILY CHECK
+286385;;1708;209;gune;1;2065;233;guna;DAILY CHECK
+286385;;1708;209;gune;1;2213;214;guna;DAILY CHECK
+286386;;1701;238;let me;1;1977;249;ada itu;DAILY CHECK
+286386;;1769;205;Let lah;1;1871;169;ada sesuatu;DAILY CHECK
+286387;;1624;205;dengan;1;1885;209;bersama;DAILY CHECK
+286389;;1399;202;jadhi;1;1967;249;jadi;DAILY CHECK
+286389;;1399;202;jadhi;1;2036;209;jadi;DAILY CHECK
+286394;;1898;169;khut;1;2090;249;ikut;DAILY CHECK
+286394;;1898;169;khut;1;2233;214;ikut;DAILY CHECK
+286396;;1952;209;sikel;1;2095;249;mau;DAILY CHECK
+286397;;1917;209;mejile;1;2132;249;cantik;DAILY CHECK
+286398;;1901;169;nemu;1;2122;249;bisa;DAILY CHECK
+286399;;1904;169;sengkikhene;1;2136;249;dikarenakan;DAILY CHECK
+286401;;1926;209;kami;1;2139;249;kami;DAILY CHECK
+286402;;1905;169;telu;1;2110;249;tiga;DAILY CHECK
+286403;;1944;209;si;1;3452;171;yang;DAILY CHECK
+286404;;1939;209;nangat;1;3686;169;ingin;DAILY CHECK
+286405;;1940;209;cut;1;2100;249;kecil;DAILY CHECK
+286406;;1954;209;malet;1;2125;249;tidak;DAILY CHECK
+286407;;1919;209;udakhe;1;2105;249;udahan;DAILY CHECK
+286408;;1955;209;waktu;1;2121;249;waktu;DAILY CHECK
+286409;;2014;249;sade;1;2237;214;sendiri;DAILY CHECK
+286409;;2014;249;sade;1;2426;249;sendiri;DAILY CHECK
+286409;;2014;249;sade;1;2729;202;sendiri;DAILY CHECK
+286409;;2014;249;sade;1;2799;209;sendirian;DAILY CHECK
+286410;;1953;209;bermain;1;2131;249;bermain;DAILY CHECK
+286411;;1914;215;laeine;1;2119;249;lainya;DAILY CHECK
+286412;;1929;209;kumpulen;1;2093;249;kumpulan;DAILY CHECK
+286413;;1920;209;kune;1;2098;249;bagaimana;DAILY CHECK
+286414;;1996;249;melakuken;1;2209;214;malakukan;DAILY CHECK
+286415;;1931;209;kabari;1;2112;249;kabari;DAILY CHECK
+286415;;1931;209;kabari;1;2234;214;kabari;DAILY CHECK
+286416;;1924;209;sade-sade;1;2109;249;sendirian;DAILY CHECK
+286418;;2254;209;bace;1;2354;214;baca;DAILY CHECK
+286420;;2255;209;belin;1;2359;214;besar;DAILY CHECK
+286476;;2455;249;gelakh;1;2537;214;nama;DAILY CHECK
+286481;;2460;249;khendah;1;2792;209;rendah;DAILY CHECK
+286483;;2462;249;bekhati;1;2535;214;berarti;DAILY CHECK
+286498;;2591;169;lhet;1;2671;249;lihat;DAILY CHECK
+286499;;2578;169;due;1;2663;249;dua;DAILY CHECK
+286501;;2622;249;cakhe;1;2739;202;cara;DAILY CHECK
+286502;;2599;169;wakhi;1;2687;249;hari;DAILY CHECK
+286503;;2627;249;jadi;1;2749;202;jadi ;DAILY CHECK
+286504;;2596;169;nangkih;1;2709;249;naik;DAILY CHECK
+286518;;2772;209;metoh;1;2864;249;tahu;DAILY CHECK
+286519;;2803;209;kalak;1;2867;249;orang;DAILY CHECK
+286540;;2930;214;dauh;1;3062;249;jauh;DAILY CHECK
+286541;;2921;214;kikhi;1;3052;249;kiri;DAILY CHECK
+286873;;4012;214;nade;1;5970;171;nada;DAILY CHECK
+286877;;4017;214;dakhoh;1;5981;171;darah;DAILY CHECK
+286878;;3977;214;babah;1;4636;169;mulut;DAILY CHECK
+286879;;4035;214;tepat;1;5946;171;tepat;DAILY CHECK
+286881;;3997;214;kantokh;1;4351;171;kantor;DAILY CHECK
+286884;;4037;214;persen;1;4359;171;pekhsen;DAILY CHECK
+286885;;4001;214;deges;1;5964;171;sentuh;DAILY CHECK
+286886;;4030;214;simbol;1;4365;171;tanda;DAILY CHECK
+286894;;4044;214;pedalanen;1;4369;171;perjalanan ;DAILY CHECK
+286897;;4019;214;imbang;1;4357;171;kawan;DAILY CHECK
+286901;;4049;214;saat;1;5974;171;saat;DAILY CHECK
+286905;;4056;214;kasus;1;5773;169;kasus;DAILY CHECK
+286909;;4252;214;putra;1;4426;169;putra;DAILY CHECK
+286912;;4257;214;mbene;1;4400;171;hilang;DAILY CHECK
+286916;;4265;214;kontkhol;1;5936;171;kontrol;DAILY CHECK
+286919;;4269;214;membunuh;1;5932;171;membunuh;DAILY CHECK
+286921;;4272;214;mecampukh;1;5776;169;bercampur;DAILY CHECK
+286923;;4274;214;mengumpulkan;1;5900;171;mengumpulkan;DAILY CHECK
+286925;;4327;214;susu;1;4391;171;susu;DAILY CHECK
+286926;;4286;214;usie;1;4411;169;usia;DAILY CHECK
+286928;;4276;214;kamus;1;4392;171;kamus;DAILY CHECK
+286930;;4328;214;lukhus;1;5905;171;lurus;DAILY CHECK
+286937;;4314;214;miskin;1;4404;171;miskin;DAILY CHECK
+286938;;4339;214;tenang;1;4373;169;tenang;DAILY CHECK
+286941;;4318;214;membayar;1;4445;169;membayar;DAILY CHECK
+287260;memiliki keengganan yang kuat untuk: merasa sangat tidak menyenangkan;4834;214;membenci;1;5945;171;membenci;DAILY CHECK
+2497; Kata yang menjelaskan ciri seorang pria yang tampan. ;3565;214;imute;1;6888;169;manis;NOT YET CHECKED
