@@ -115,6 +115,7 @@ Prompt ID;Prompt;Hint;Response ID;Response
 2860; Kata yang menjelaskan sifat sesuatu yang baunya busuk. ;busuk;3936;macik
 2863; Kata yang menjelaskan sifat sesuatu yang baunya busuk. ;anyir;3937;anyikh
 2877; Kata yang menjelaskan sifat sesuatu yang mudah tercium. ;berbau kuat;4020;mebau kuat
+2880; Kata yang menjelaskan sifat sesuatu yang tidak mudah tercium. ;baunya samar-samar;4008;mbaune samar2
 2888; Kata yang digunakan untuk menyebut membuang bau busuk. ;mengeluarkan udara busuk dari ruangan;4218;uweken plin kane
 2894; Apa benda yang orang gunakan untuk membuang atau menutup bau busuk. ;wangi-wangian;4281;mekhium
 2896;Kata yang digunakan untuk menyebut merasa sesuatu. ;merasa;4154;mekhase
@@ -186,14 +187,20 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286891;;bergabung;4040;khut-khut
 286898;;adil;4024;adil
 286904;;danau;6901;paye
+286904;;danau;4033;danau
 286907;;pecah;4027;pecakh
 286908;;pilih;4325;pilih
 286913;;tengah;4326;tengah
+286934;;bottom;4337;bottom
+287185;;truk;7068;motokh mbelin
 287226;untuk mengamati sebagai penonton;menonton;7197;menonton
 287305;untuk memisahkan biji dari sekam dan jerami dengan cara dipukul;mengirik;7280;mengikhik
 287532;Dalam detail sebanyak mungkin, tolong ceritakan tentang seseorang yang memiliki dampak signifikan pada hidup Anda?;;7292;bagas detail sebuwe mungkin, tulung cekhiteken tentang sekalak si empung pengakhuh mejile tebe geluh kenin
+287536;Dalam detail sebanyak mungkin, jelaskan momen yang tak terlupakan atau bermakna dari masa kecil Anda.;;7339;sedang cut mase khami melelo khut imbang
+287540;Dalam detail sebanyak mungkin, jelaskan pengalaman yang berkesan atau bermakna yang Anda miliki saat berinteraksi dengan seseorang dari budaya atau latar belakang yang berbeda.;;7396;canggung khut kagum sekhte bersemangat untuk ingin tau
 287544;Dalam detail sebanyak mungkin, tolong ceritakan kisah rakyat setempat.;;6981;cerita alas
 287548;Dapatkah Anda menggambarkan iklim budaya, sosial, atau politik dari periode waktu atau tempat tertentu dalam sejarah?;;7062;iklim tropis
 287557;Bisakah Anda menjelaskan bagaimana Indonesia mendapatkan kebebasan?;;7095;berjuang keras demi mendapatkan kemerdekaan walaupun nyawa taruhannya
 287560;Bisakah Anda menggambarkan bagaimana kelompok orang Anda tinggal di wilayah ini?;;7123;kami dakhi suku alas mebue ragam suku dan budaye
+287605;Bisakah Anda memberikan instruksi langkah demi langkah untuk menanam dan memanen kacang kelapa sawit?;;7229;kelapa sawit tanaman jangka panjang yang berusia puluhan tahun
 287608;Bisakah Anda memberikan instruksi langkah demi langkah untuk bagaimana mendapatkan dari kota terdekat ke wilayah Anda?;;7242;jarak antakhe khumahku me kota, malet nae kune su ndauhne
