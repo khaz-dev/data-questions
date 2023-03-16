@@ -185,7 +185,6 @@ Prompt ID;Prompt;Hint;Response ID;Response
 285933;Jika memungkinkan, bagaimana caramumu berkeliling dunia?;;6774;dengan memiliki uanggg yang banyak dan bisa naik pesawat jadi bisa keliling dunia
 285933;Jika memungkinkan, bagaimana caramumu berkeliling dunia?;;3836;khajin belajar,  khajin nabung kane bue sen kane got te khalak kane kite jadi khalak bayak nemu kite tukokh gat pesawat soh sekhatus bahkan nemu gat kite tukokh soh sekhibu del bue pesawat kite me taboh kite gat keliling duniepe
 285937;Bagaimana pendapat kamu tentang kondisi keuangan tempat kamu bekerja?;;1324;parakh kidah
-285937;Bagaimana pendapat kamu tentang kondisi keuangan tempat kamu bekerja?;;7617;kondisi keuangenku,ni Kaskus menahan stabil
 285937;Bagaimana pendapat kamu tentang kondisi keuangan tempat kamu bekerja?;;4477;te pendapetku tentang keuangen ni kas ku mebahan mejile kalihen kakhene honor kemi medhalan mejile malet kendala ne
 285939;Apa saja rasa frustasi yang kamu alami selama kamu hidup?;;12704;frustasi si ndak aku ingin ken, atau v ndak nae ingin gidah se
 285941;Ceritakan keadaan kamu dalam beberapa tahun ke depan?;;3672;suksek bagie malot kaepe si kukhang tel me misalne keadaenku di pige tahun kendatas
@@ -224,14 +223,12 @@ Prompt ID;Prompt;Hint;Response ID;Response
 285963;Apa saja hal yang membuat kamu merasa dicintai?;;2155;nis sayang, ni perhatiken,  nimasihi
 285965;Jika boneka bisa berbicara, hal apa saja yang akan mereka sampaikan?;;7662;aku boneka si kenin get ate bende kenin ase ku leloken
 285965;Jika boneka bisa berbicara, hal apa saja yang akan mereka sampaikan?;;1704;kenalken diri, 
-285966;Hal apa saja yang kamu suka berikan kepada orang lain?;;1710;kae mampu, kae let bangku
 285968;Mengapa seseorang dapat menangis bahagia?;;7665;kakhne tekhakhu senang su ate ne lenih senang ne
 285968;Mengapa seseorang dapat menangis bahagia?;;3736;buesene kadang kadangpe gat uwas atene putus cinte ataupe dang galau munking kene musibah edi mahanse iye luakhen lawe mate
 285969;Mengapa seseorang dapat menangis sedih?;;1780;kae jeme dapet tangis sedih ne
 285969;Mengapa seseorang dapat menangis sedih?;;7668;kaekhne sedih su akap ne lebih sedih ne gedi ku khase aku pe
 285987;Hal apa saja yang membuat kamu senang mempelajari bahasa lain?;;12758;kane nemu ku toh bahasa lain di daerah luakh v kane nemu lajang ndak tersesat pagi
 285987;Hal apa saja yang membuat kamu senang mempelajari bahasa lain?;;1817;kae pe mu kau bahani asal kau senang mbelajakhi bahase lain 
-285995;Seperti apa bentuk mapan secara finansial menurut pandanganmu?;;12775;sukses secakhe finansial khajin baik sukses
 285996;Seperti apa bentuk kedewasaan menurut pandanganmu?;;5660;dang hu boto nggo mena molo songoni molo ho songon dia
 285996;Seperti apa bentuk kedewasaan menurut pandanganmu?;;2310;pola pikir mencerminken kedewasaen
 285997;Bagaimana cara kamu mencapai tujuanmu?;;2944;usaha dan sabar
@@ -239,11 +236,14 @@ Prompt ID;Prompt;Hint;Response ID;Response
 285999;Apakah keluarga penting untukmu? mengapa seperti itu?;;15124;sangat penting keluarga khut aku ?
 286000;Bagaimana cara kamu menenangkan diri?;;1838;kae mahan kau senangken dikhi?
 286000;Bagaimana cara kamu menenangkan diri?;;7731;sante sesade minum kopi Gat takhik khokok
+286002;Apa saja hal yang paling kamu syukuri?;;3922;tong nemu ibadah tong sekhat malot kaepe si kukhang 
 286004;Apa kenangan favoritmu tentang hubungan dengan pasanganmu?;;1613;maso sibuk
 286004;Apa kenangan favoritmu tentang hubungan dengan pasanganmu?;;7737;lajang kami dang aku kuliah Medan kale pakek sen gaji pertama mebahanku ni medan
+286012;Apa kamu ingin menjadi terkenal? Dalam hal apa? Mengapa seperti itu?;;15174;ni bages pendidikan?
 286015;Adakah hal yang ingin sekali kamu lakukan tapi belum terwujud? Mengapa?;;2491;nanggat laus umbroh tapi mangge lot khejeki
 286015;Adakah hal yang ingin sekali kamu lakukan tapi belum terwujud? Mengapa?;;7815;melakhee itik
 286015;Adakah hal yang ingin sekali kamu lakukan tapi belum terwujud? Mengapa?;;4731;I don't know. yes, I don't know. what? yeah, I don't know lho kok gitu kali sih
+286020;Seberapa dekat kamu dengan keluargamu? Apa masa kecilmu lebih baik dari kebanyakan orang?;;3991;donohme me khakhus donoh khit jabu jabu belin ataupe cut
 286021;Apa kamu dekat dengan ibumu? Seperti apa hubungan antara kamu dan ibumu?;;12942;donoh lah ape tule anak terakhir de taboh yah
 286027;Misalnya kamu meninggal tiba-tiba malam ini. Apa kamu akan menyesal karena belum sempat menyampaikan hal pada seseorang? Lalu mengapa kamu masih menyimpannya?;;4732;what do you know? what do you know? Please leave the package by the door. Thanks! Wait a minute, I'll be right back.
 286027;Misalnya kamu meninggal tiba-tiba malam ini. Apa kamu akan menyesal karena belum sempat menyampaikan hal pada seseorang? Lalu mengapa kamu masih menyimpannya?;;7833;te NGO takdekh Kate maha kuasa malet te kae Ken pe
@@ -268,6 +268,7 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286054;Apa saja kenangan yang membuatmu bahagia?;;8030;kae plin kenangen si mahan dikhimu bahagie
 286056;Apa saja hal yang membuatmu merasa berani?;;13106;yang bahan aku bekhani kakhene aku nangat khang tue ku bangge
 286056;Apa saja hal yang membuatmu merasa berani?;;1784;malet mesalah
+286057;Apa saja hal yang membuatmu merasa dicintai?;;16573;lot perhatien lot khase lot kheee taboh
 286063;Apa saja hal yang membuatmu merasa berenergi?;;4096;pul magan taboh gat lot kidah energiku luakh belin gat energiku si kuluakhken
 286063;Apa saja hal yang membuatmu merasa berenergi?;;2633;kae pelin hal si bahanse kau mekhase berenergi
 286068;Jika kamu memiliki teman di seluruh dunia, bagaimana caramu mengobrol dengan mereka?;;4102;khut media plin cekhite ataupe gat saling medoken tel misalne bahan gat konser jumpe job mingu
@@ -290,7 +291,9 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286079;Apa sajakah ketakutan terbesar kamu dalam hubungan?;;9136;hubungen si malot berdasakhken agame dan lot campukh tangan kalak lain si ndak megune untuk kebaiken
 286079;Apa sajakah ketakutan terbesar kamu dalam hubungan?;;9120;paling biyakh sikhang , kakhene ngo lot anak
 286080;Mengapa kamu memilih untuk menggunakan pilihanmu daripada produk lain?;;9160;karene aku pecaye khut pilihan ku e,edime khahus yakin khut diri sendiri e
+286080;Mengapa kamu memilih untuk menggunakan pilihanmu daripada produk lain?;;9157;kakhene Edi sekhasi bangku,kae si sekhasi bangku Edi me si ku tuko dan ku pakek
 286081;Apa saja bagian terbaik dari perjalanan liburanmu?;;3879;hal si paling mende khak pedhalanen libukhenku, nemu lajang ngato-ngato bhe luakh daekhah, sekalien mangan-mangan penangan khas suku lain 
+286081;Apa saja bagian terbaik dari perjalanan liburanmu?;;9142;ke bukittinggi the nangat aku tule bedih
 286082;Apa saja bagian terburuk dari perjalanan liburanmu?;;9279;Ende ku cekhite Ken pengalamen ku si bakhu- bakhu tejadi nde sempat  due Minggu si lewat aku laus me lajang  atau v hiburen me be me kas si tenang ate tekhem kami khut imbng khut keluakhge tekhem me pokok ne nie hadih si ku tekejud ti ekhan me aku ngidah hewan hewan si ni adih ekhan aku let Kin kidah mengkale tupe manuk deleng , si ku Mahan tekejud aku khut imbng kami idah me khimo abeyy Mahan kami tekhoma
 286082;Apa saja bagian terburuk dari perjalanan liburanmu?;;9208;cepekhuk ni pakhik mlt cukup sen laus imbang v mlt taboh
 286082;Apa saja bagian terburuk dari perjalanan liburanmu?;;9221;dabuh dakhi honda akhi bantui khalak babe khalak khumah sakit
@@ -300,6 +303,7 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286083;Apa saja rencana kamu untuk liburan?;;9209;khencane babe manuk
 286083;Apa saja rencana kamu untuk liburan?;;9199;masak telu manuk panggang khut imbang sambilan megitakh
 286084;Mengapa kamu memutuskan untuk pergi berlibur ke tempat itu?;;2779;kane ndak bosan
+286084;Mengapa kamu memutuskan untuk pergi berlibur ke tempat itu?;;9215;khane kas ne ndi sedang viral ne nenge v Mende pemandangen ne
 286085;Siapa penulis favorit kamu? mengapa?;;9244;kakhenne tulisen ne agak monol sitok
 286085;Siapa penulis favorit kamu? mengapa?;;9285;kaheneee iye si paling mejile karye ne
 286085;Siapa penulis favorit kamu? mengapa?;;9237;hamzah hamin kakhene penulisen ne ilmu ne cukup bermanfaat untuk keseharian te
@@ -338,14 +342,17 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286096;Apa saja kekurangan berbelanja di pasar?;;9482;kekhukhangen ne hangat cemak  bau khut lecah
 286096;Apa saja kekurangan berbelanja di pasar?;;9456;buesu jeme, lecah tule, malet diskon, emak emak ngkhibot, bising tule
 286096;Apa saja kekurangan berbelanja di pasar?;;9443;kae pelin kekukhangen ketike belanje ke pajak
+286096;Apa saja kekurangan berbelanja di pasar?;;9448;mlt let bage penakhan kue kue,khut monumen si cocok ne,bage indomaret ee
 286097;Bagaimana pertengkaran biasanya dimulai?;;9539;ketekhe pekhubaten biasene ni mulai sepekhi pekhubaten anak anak mude
 286097;Bagaimana pertengkaran biasanya dimulai?;;9493;let biase ne klk Jalu SE,main sedes EN cekhok ye,pul Edi mece Pupuh gat
+286097;Bagaimana pertengkaran biasanya dimulai?;;9517;Lebe imbang pe bage tutuh leye iye Hamin mu turuti de kite malet ingin ne di Kase de jeme gedi malet pot su aku menimbang khut Kalak gedi manek i
 286098;Bagaimana kamu bertemu pasanganmu?;;3659;jumpa ataupe khoh khumahne begedime cakhene jumpe khut pasangen kite
 286098;Bagaimana kamu bertemu pasanganmu?;;9508;kami jumpe ni kampus pul edi gat saling get ate kami mekhamah kami pe
 286099;Apa saja kenangan terindah masa kecilmu?;;9548;melelo khut ayah khut mamak jep wakhi ni tempi ayah khut semohi ayah
 286099;Apa saja kenangan terindah masa kecilmu?;;9592;dapet bermain bersama sama dengan  teman sebaya
 286099;Apa saja kenangan terindah masa kecilmu?;;9547;letun letun khudan wakhi nakpuh nampkuh lawe kisam
 286099;Apa saja kenangan terindah masa kecilmu?;;9532;nyohi suakh khidi telanjang ni Lawe kisam khut ni pakhik
+286101;Bagaimana kamu berkontribusi kepada tugas/pekerjaanmu?;;16166;kune cakhe me bahani tugas/ bahanen mu
 286103;Bagaimana pandanganmu terhadap kematian?;;9576;perbue lah ibadah sebelum menghadepi se kase let bakal akhirat te
 286103;Bagaimana pandanganmu terhadap kematian?;;9598;selukhuh kalak geluh kekhine go pahe mate
 286103;Bagaimana pandanganmu terhadap kematian?;;9644;kematien e adalah pelajakhen untuk selukhuh umat Kase lebih hati hati Bagas ngeluh
@@ -362,9 +369,11 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286107;Bagaimana pendapatmu tentang tanggung jawab seorang istri?;;9678;istekhi malet akhus nyesah atau masuh pikhing biasene Nemu nak laki pe Mak akhus istekhi
 286107;Bagaimana pendapatmu tentang tanggung jawab seorang istri?;;9641;bekhu hakhus menukhuti kate kate nak laki
 286107;Bagaimana pendapatmu tentang tanggung jawab seorang istri?;;9625;hal si wajib, Kase laki betah me bekhu ndak pepelin cekhe
+286109;Bagaimana penddapatmu tentang hak seorang istri?;;16169;kune pendapet mu tentang hak bekhu
 286112;Ceritakan bagaimana kamu bertemu sahabatmu?;;9626;jumpe ni gotak silayakh gat mecekhite panjang lebar
 286112;Ceritakan bagaimana kamu bertemu sahabatmu?;;9642;petame ato be iye mahan kite, te iye baik mbante atau pe iye timbal mbalik mbante bakhu edi sahabat
 286112;Ceritakan bagaimana kamu bertemu sahabatmu?;;9695;malet me sahabat cukup imbang pelin kakhene bali kane edi
+286112;Ceritakan bagaimana kamu bertemu sahabatmu?;;9636;ni kampus kami jumpe de adi kami khut khut kuliah
 286113;Bagaimana cara membesarkan anak-anak?;;3819;cakhe belinken anak-anak tentune kite cukupken kebutuhen ne khut pelakhe khut kasih sayang, pekhhatiken khut didik iye semampu kite
 286114;Bagaimana cara merawat hewan peliharaan?;;9659;mejile pelakhe, ulang pepelin pok-pok i
 286115;Bagaimana cara merawat anak-anak?;;9790;petame kite khe iye mangan trus tempi iye ayun iye
@@ -373,12 +382,16 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286117;Apa buah kesukaanmu? Mengapa?;;9737;galuh  kakhene sedapp pelin, mantap pelin, enak pelin
 286117;Apa buah kesukaanmu? Mengapa?;;9724;Khutung,kane ye taboh langka tule setahun sekali amin mebuah pe
 286117;Apa buah kesukaanmu? Mengapa?;;2768;uso.. mis
+286117;Apa buah kesukaanmu? Mengapa?;;9719;kae buah si kau sukai, kae gat mu kau sukai
+286117;Apa buah kesukaanmu? Mengapa?;;9732;MANGGE , KAKHENE BUAH NE MIS NI TAMBAH TULE TE PAKEK KECAP KHUT SIKHE
 286118;Kenapa seseorang mengatakan hal yang menyakiti?;;13290;hdjmsgub shsjksvusk
+286118;Kenapa seseorang mengatakan hal yang menyakiti?;;4789;mungkin dang sakit atene edi mahanse iye mengateken si sakit
 286119;Kenapa seseorang mengatakan hal yang menyenangkan?;;9783;kane iye nangat  me kite
 286119;Kenapa seseorang mengatakan hal yang menyenangkan?;;9739;biase ne kalak gedi dang senanh ate te makanne cekhiteken be bante
 286119;Kenapa seseorang mengatakan hal yang menyenangkan?;;9746;Kane get ate ne senang kap ne edi kase p gat senang iye
 286119;Kenapa seseorang mengatakan hal yang menyenangkan?;;2962;kenepe jeme mecekhok hal si senang
 286119;Kenapa seseorang mengatakan hal yang menyenangkan?;;9770;kene kae seorang kate ken tentang menyenangken
+286119;Kenapa seseorang mengatakan hal yang menyenangkan?;;9728;kakhene kite Tawe, senang ate te mege se
 286120;Kenapa seseorang melakukan protes?;;9769;malet get ate ne malet pas ni ate ne makane ye pekhotes
 286120;Kenapa seseorang melakukan protes?;;9758;mungkin kakhene lot salah ato pe kae si dak get ate kalak
 286120;Kenapa seseorang melakukan protes?;;9823;menukhut ku kalak pekhotes e  kakhene kukhang tepat menukhut ne, edikase ye pekhotes kae si sebut imbang pecekhok ne
@@ -390,6 +403,7 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286122;Bagaimana kamu dapat membuat dirimu berkembang?;;9846;belajakh khak pengalaman si nggo ni lalui untuk memperbaiki dikhi kedepanne
 286122;Bagaimana kamu dapat membuat dirimu berkembang?;;9802;BELAJAKH TEKHUS MENEKHUS TANPA HAKHUS PAKEK TADI
 286122;Bagaimana kamu dapat membuat dirimu berkembang?;;9791;cakhene hakhus kuat mental Kase berkembang bagas hal kae pe
+286122;Bagaimana kamu dapat membuat dirimu berkembang?;;4143;dengan cakhe tekhus belajar ulang males bahani kae si lot bahani
 286123;Bagaimana kamu membuat tempat kerjamu berkembang?;;9842;mendisplin, khajinn, taat pekhatukhen, patuh khut bos
 286123;Bagaimana kamu membuat tempat kerjamu berkembang?;;9845;khapi mende ato pe mejile pake pewangi tule bahan kase mekhinum kasepot kala bende
 286124;Bagaimana cara tercepat untuk sampai ke pantai?;;9889;petame tame ku pakek honda
@@ -405,6 +419,7 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286126;Hal apa saja yang kamu lakukan ketika sampai di sekolah/tempat kerja?;;9887;kae pelin si Kao bahani ketike ndes ni sekolah ato pe kas mebahan?
 286126;Hal apa saja yang kamu lakukan ketika sampai di sekolah/tempat kerja?;;9992;De bagas sekolah  bue ilmu si polu  kite belakha di bagas geluh  kite die
 286126;Hal apa saja yang kamu lakukan ketika sampai di sekolah/tempat kerja?;;9908;HANGATKEN MESIN HONDA PUL EDI BEREKHES2 PAKAIAN UNTUK SIAP KEN MENTAL DIKHI
+286126;Hal apa saja yang kamu lakukan ketika sampai di sekolah/tempat kerja?;;9890;de ni sekolah aku mecekhite khut imbang imbang ku pul Edi balik be khumah
 286127;Seperti apa rasanya tinggal di tempatmu saat ini?;;9907;malet taboh
 286127;Seperti apa rasanya tinggal di tempatmu saat ini?;;9913;biase plin khayak kalak iri khayak kalak penangko
 286127;Seperti apa rasanya tinggal di tempatmu saat ini?;;9921;khasene nyaman, tentekham karna rumah e adalah istana si paling ni rinduken
@@ -420,7 +435,6 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286130;Apa yang kamu rasakan hari ini?;;9982;aku senang, bahagie, payah, bersyukur untuk wakhi nde
 286130;Apa yang kamu rasakan hari ini?;;4136;biase plin kidah malot si lot istimewa ku khaseken
 286130;Apa yang kamu rasakan hari ini?;;9987;bahagie te nemu lua khut imbang nemu jumpe khamah
-286131;Ceritakan pengalamanmu hari ini?;;10000;wakhi nde aku khut pelatihen khut imbang kuliahku
 286131;Ceritakan pengalamanmu hari ini?;;10009;bahagie kakhene lot kesempaten pengalamen untuk ni hande tandok
 286131;Ceritakan pengalamanmu hari ini?;;4506;payah kidah gakhami bahanepe mayang kidah payahne edime pengalamenku wakhi nde
 286132;Mengapa kamu memilih/melepaskan pekerjaanmu?;;10031;kakhne aku butuh bahanen, kakhne aku payah, kuluahi bahanenku kakhne malet sanggup
@@ -438,13 +452,16 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286134;Apa yang salah dengan dunia ini?;;10096;terkhlalu bue dose manusie kakhene mengikuti hawe nafsu ne
 286135;Mengapa perang bisa terjadi?;;10095;kahene malet sesui di bagas ate edi kane let pehang sabi sabi iye
 286135;Mengapa perang bisa terjadi?;;3193;ketekhe pekhang nemu tejadi
+286135;Mengapa perang bisa terjadi?;;10124;kakhene lot khibut ni antakhe jeme jeme i dunie
 286136;Hal-hal apa yang membuat kamu tertawa?;;10087;selengi imbang bahan tawanen pasti tawe bahan ne di
 286136;Hal-hal apa yang membuat kamu tertawa?;;10092;kerecehen humor, ngidah imbang lucu atope khami
+286136;Hal-hal apa yang membuat kamu tertawa?;;10113;mencekhiteken tentang kalak random ni kampus kami nde
 286137;Ceritakan makan malam terindahmu?;;10115;khut khamah aku malem minggu e khoh iye ni khumah ku gat lua kami magan
 286137;Ceritakan makan malam terindahmu?;;10114;tandok khut khut imbang ku tawe tawe khut khut
 286137;Ceritakan makan malam terindahmu?;;10111;khut khut keluarga tekhem tekhem dan sambil megukho
 286138;Ceritakan pengalaman terindahmu?;;2857;jumpe mantan go kawin
 286138;Ceritakan pengalaman terindahmu?;;10144;pengalamen tekhindah ku ialah lajang khut imbang -imbang ku
+286138;Ceritakan pengalaman terindahmu?;;10132;ketike mengenal cite khasen ne indah bage ni sukhge kukap pe gat
 286139;Ceritakan pengalaman terburukmu?;;10149;lijik icing manuk pas laus sekolah imbang kebaunen mele aku
 286139;Ceritakan pengalaman terburukmu?;;10148;bocor ban gat dukhung wayang dauh ne tapi khami sebab khut khut imbang kekhine
 286139;Ceritakan pengalaman terburukmu?;;10137;menjadi orang jahat, di ejek, di caci, dihina
@@ -452,9 +469,12 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286140;Mengapa terkadang kamu mengatakan hal yang tidak kamu ketahui?;;10169;te malet ukhok  edi makanse tayak jeme si ukhok e
 286140;Mengapa terkadang kamu mengatakan hal yang tidak kamu ketahui?;;10177;KAKHENE AKU BOSAN DAN MALES AKU MEGE BUE CEKHITE LAWAN MECEKHOK
 286140;Mengapa terkadang kamu mengatakan hal yang tidak kamu ketahui?;;10161;te malot taboh me tayak Ken me kalk si toh e
+286142;Apa efek utama dari Perang Dingin?;;15478;kae efek utame dakhi perang dingin?
 286144;Mengapa seseorang membutuhkan liburan?;;10187;Kase dak papelin nikhumah plin ulah laus lah lajang
 286144;Mengapa seseorang membutuhkan liburan?;;10176;untuk tenang ken dikhi ne kase press otk ne
+286144;Mengapa seseorang membutuhkan liburan?;;10178;kee kae jeme membutuhkan sebuah libukhen
 286146;Kenapa orang tersenyum?;;10194;mege Ken cekhok si lucu dan mungkin Kane kalak e mencekhiteken tentang pengalamen ne si lucu
+286146;Kenapa orang tersenyum?;;2896;Kakhene lucu
 286147;Bagaimana cara untuk bisa sampai ke pusat kota?;;10214;mbah honda balap kase gekhe soh me kas tujuen
 286147;Bagaimana cara untuk bisa sampai ke pusat kota?;;2958;ketekhe cakhe untuk nemu soh ke pusat kota
 286147;Bagaimana cara untuk bisa sampai ke pusat kota?;;10208;jinto Honda gakhami dalan si malet bue jemene atau si Ndak macet
@@ -473,12 +493,12 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286152;Mengapa kamu menyukai seseorang?;;10273;ganteng jeme ne, mekhayak sen ne, jeme ne sekolah datas tule
 286152;Mengapa kamu menyukai seseorang?;;3021;lucu 
 286152;Mengapa kamu menyukai seseorang?;;10263;kakhene iye mejile dan jile pekhasat bayak tule
+286152;Mengapa kamu menyukai seseorang?;;10272;kaghene iye bacag,ganteng,mejile peghasat,
 286153;Mengapa kamu tidak menyukai seseorang?;;10271;karene ie monol su malen nangat aku ehut iye
 286153;Mengapa kamu tidak menyukai seseorang?;;10276;kakhene malet sopan santunne, macik khupene
 286153;Mengapa kamu tidak menyukai seseorang?;;10268;macik yu ye mlot pot su aku ngidah se kae loko su
 286153;Mengapa kamu tidak menyukai seseorang?;;3917;malot mende tingkah lakune kae ai geti senakhenahen mahan mesui ate
 286154;Bagaimana kamu agar tetap fokus sepanjang hari?;;10289;MALET AKU TOH DA KAKHENE BUE PENGAKHUH KAS2 KAE SI KITE TANDOK I KHUT IMBANG2
-286154;Bagaimana kamu agar tetap fokus sepanjang hari?;;10295;khajin olahraga , khajin mangan ,khajin mekhidi
 286155;Bagaimana cara kamu menyelesaikan tugas?;;3726;bahani plin ulang ngeluh selesaiken tuga begedime selesaiken tugas kane selesai ulang metele-tele
 286156;Kenapa seseorang bergadang?;;10305;kakhene nonton drakor, chattan khut khamah ne
 286156;Kenapa seseorang bergadang?;;10303;KAKHENE HOBI NEMU KANE KAKHENE PIKIKHEN KLUARGE BAHANEN KASE NEMU MANGAN SETIAP WAKHI DLL
@@ -489,12 +509,17 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286159;Menurut kamu bagaimana suatu peperangan dimulai?;;3118;pancing be 
 286160;Menurut kamu kenapa pasangan bercerai/pisah?;;4205;malot nae cocok antakhe keduene edi mahanse gat cekhe khalak di
 286160;Menurut kamu kenapa pasangan bercerai/pisah?;;10336;KAKHENE SELINGKUH NEMU KANE KAKHENE SEN PE
+286161;Bagaimana cara membuat remaja peduli dengan kebudayaan?;;10339;ikuti atuh di bahas kute kase kompak lah kenin Adi ulang papelin khubah
 286164;Bagaimana cara Indonesia untuk menjadi negara maju?;;10351;khut cakhe memeprmosiken tentang kebudayaen te go sosmed
 286164;Bagaimana cara Indonesia untuk menjadi negara maju?;;10353;dengan menjadi ken anak muda berpikir jernih dan menjadi anak yang baik
+286165;Menurutmu bagaimana cara Indonesia untuk memenangkan piala dunia?;;3201;menukhut mu ketekhe cakhe indonesia untuk memangken piala dunia
+286166;Hewan apa yang paling kamu sukai? Mengapa?;;10358;hewan kucing kakhene kucing lucu,gemes ,khut hewan kesukaan nabi
 286167;Bagaimana kabar keluarga kamu?;;13297;hahjnsvysunsvgsujssvysjjsvsybdvsujsnjsghsjnshsudkdbusjsngsusjnsbhs jsjshuusnbs jsjsngsujsb hshsbhsknsh
+286167;Bagaimana kabar keluarga kamu?;;2991;baik plin
 286168;Kenapa kamu ingin/tidak ingin mempunyai anak?;;4194;bekhat kidah tapi kite harus lot anak kane lot generasi
 286168;Kenapa kamu ingin/tidak ingin mempunyai anak?;;13301;hannagujjsvsgjsjs udhbshshjsngu shjsgusjjs hsjjshsus jsijshsi jshhsidkuu
 286169;Kenapa kamu ingin/tidak ingin menikah?;;5689;malot mekhase kaepe malot mekhase kaepe malot mekhase kaepe malot mekhase kaepe
+286169;Kenapa kamu ingin/tidak ingin menikah?;;13302;hahbsgsyusjbsgsujsv shsjnshsi shjshhs sjjjs shjks
 286170;Bagaimana rasanya hamil/sunat/operasi?;;13308;bbajajj susjh sssdfrsd ssdesdd sdfesdss sfdadfds dsddadd
 286171;Apa hewan yang kamu takuti dan kenapa kamu takut pada hewan tersebut?;;3266;nipe.. matukne mesui kalihen
 286171;Apa hewan yang kamu takuti dan kenapa kamu takut pada hewan tersebut?;;13339;binatang harimau kakhene iye pet ngakhat jeme
@@ -505,21 +530,31 @@ Prompt ID;Prompt;Hint;Response ID;Response
 286180;Menurutmu bagaimana pendapat ibumu terhadap kamu?;;10420;kate amek ku, aku baik budi, penurut,disiplin dan penyayang
 286184;Bagaimana cara kamu memaafkan?;;5659;martangiang ma hita tu jahowa torus martangiang ma hita
 286185;Kenapa kamu tidak suka/tidak suka kopi?;;3125;kene kae kau malet get/malet get kopi
+286185;Kenapa kamu tidak suka/tidak suka kopi?;;10471;mlot taboh pagit su mlot mis v citok su gule ne klk bue bhn kase taboh mie lot kahase ne ulang hangat minum nhn lecup
+286189;Ceritakan tentang pekerjaan kamu hari ini.;;16629;cekhiteken tentang bahanen mu wakhi nde
 286190;Bagaimana perasaan kamu tentang layanan aplikasi kami?;;4775;Please leave the package by the door. Thanks! Address: Street, Apt, City, Country/Region, Province, Postal code
+286210;Apa pembelian kamu yang kamu rasa paling penting dan mengapa hal itu penting penting?;;4239;kite harus nabung kane lot gelemen kite ni mase depan me gedi kenim idah saudakheku
+286230;Apa yang kamu ketahui tentang aplikasi ikata?;;15821;kae si kotoh tentang aplikasi ikata?
+286232;Mengapa kamu tertarik dengan sesuatu?;;15823;kae gat tertarik kau khut sesuatu ee?
 286237;Bagaimana pendapatmu tentang kualitas demokrasi Indonesia saat ini?;;4277;bue kidah sendah bertentangen khut udang2 pemehintah si dak jelas
+286239;Menurutmu, mengapa gagasan khilafah menuai kontroversi di Indonesia?;;10737;kakhene manusie nde saling menyalahken satu sama lain
 286242;Menurutmu, apa saja hal yang perlu diperbaiki di Indonesia?;;4275;sitem pemekhintahen si kharus kite perbaiki kane selamat
 286245;Menurutmu, hal apa saja yang dapat memecah Indonesia?;;10753;kaum-kamu si anti demokrasi dan oknum pemecah belahne
 286245;Menurutmu, hal apa saja yang dapat memecah Indonesia?;;10769;mebuene jeme penangko khut pembunuhan ni kute kute
 286247;Menurutmu, apakah Bahasa Indonesia dicintai oleh masyarakatnya?;;1416;uwe
 286247;Menurutmu, apakah Bahasa Indonesia dicintai oleh masyarakatnya?;;4284;uweme da me khayak khalak guneken bahasa indo e
+286247;Menurutmu, apakah Bahasa Indonesia dicintai oleh masyarakatnya?;;10764;hampekh kekhine masyarakat cinte tebeken bahasa Indonesia
 286249;Menurutmu, apakah Bahasa Indonesia bisa menjadi  salah satu bahasa internasional?;;10773;Nemu pelin de memang di setujui dunie nde
 286249;Menurutmu, apakah Bahasa Indonesia bisa menjadi  salah satu bahasa internasional?;;3989;nemulah kane bahasa indonesia e bahasa mantap khakhus jadiken bahasa dunie
+286252;Kenapa biasanya kamu bisa sangat senang?;;15838;kune gat biase ne kau senang keloken?
 286254;Menurutmu bagaimana kamu memeroleh tinggi badan kamu saat ini?;;4089;diel gati aku joging ku jage kesehaten gati aku hidi lawe alas edi mahanse aku gedang gat
 286254;Menurutmu bagaimana kamu memeroleh tinggi badan kamu saat ini?;;3502;menukhutmu, kune kau ndapetken gedhang badanmu sendah ?
+286254;Menurutmu bagaimana kamu memeroleh tinggi badan kamu saat ini?;;10790;cakhene mangan yang cukup, khajin olahkhage dan gati khidi Lawe alas
 286256;Siapa orang yang paling kamu favoritkan di dunia? Mengapa orang tersebut?;;10798;presiden Habibie kakhene beliau bacakh dan taat agamene
 286256;Siapa orang yang paling kamu favoritkan di dunia? Mengapa orang tersebut?;;10801;ise jeme si Kao egeti ni dunie kae mahanse nemu terkhjadi
 286256;Siapa orang yang paling kamu favoritkan di dunia? Mengapa orang tersebut?;;10816;uwak khut amekku,kakhene side mbahan ate ku senang
 286257;Bagaimana jika kamu mati besok?;;10870;De sengkikhene aku mate, mungket surge nateku
+286257;Bagaimana jika kamu mati besok?;;10808;pebue  ibadah wakhi nde, kakhene sikse akikhat e tuhu
 286258;Ceritakan tentang masa kecilmu.;;10956;"mase dang anak² kale edi sebuah kenangen si Ndak telupe Ken seluruh Kalak pasti lot Mase cut ne
 sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khut Ndak nituntut untuk belajakh"
 286258;Ceritakan tentang masa kecilmu.;;3354;mase cutku pelin. main kelekheng kadang main yoyo,  main saaak,  main pukul lele makan lembu ngarik dukut mengali,  dukut rih. dukut gajah,  balang tegu
@@ -535,6 +570,7 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286265;Jelaskan tentang hewan kesukaanmu.;;10869;aku get me kucing mbekhong, monyet pe get ate ku
 286265;Jelaskan tentang hewan kesukaanmu.;;4016;ikan mas mantap kidah nemu gorengpe nemu panganpe
 286266;Jelaskan tentang benda kesukaanmu.;;11037;Bakhang si get ateku adalah hp nde, sebab hp nde imbangku de aku kesepien
+286269;Mengapa ada mata pelajaran/materi yang kamu tidak sukai?;;10981;sebab pelajakhen di Mahan suwi takal, gukhu ne ndak menguasai matekhi, edi me bahan aku Ndak suke
 286270;Bagaimana seseorang bisa menjadi teman baikmu?;;10961;imbang sii mekheken motivasi sekhing ajakhi kite Bagas hal kae v
 286270;Bagaimana seseorang bisa menjadi teman baikmu?;;10920;kakhene iye dak wayang baik ne,taboh imbang mecekhok pe
 286271;Apa yang menjadikan suatu hari menjadi hari terbaik yang pernah ada?;;10939;membekhangkatken kedue khang tue umroh dan haji
@@ -551,6 +587,7 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286274;Apa saja hal yang membuatmu benar-benar bahagia?;;10955;ketika sedang khut khang tue Nemu megukho khut tawe
 286274;Apa saja hal yang membuatmu benar-benar bahagia?;;10983;hal si benakh-benakh Mahan aku bahagie let kedue khang tue si ndampingi kite
 286274;Apa saja hal yang membuatmu benar-benar bahagia?;;10982;maen game, ngopi, ngekhokok, cekhite khut imbang
+286274;Apa saja hal yang membuatmu benar-benar bahagia?;;2925;hate,  tahte,  nakhu dan ibadah lancakh
 286277;Ceritakan tentang mata pelajaran yang paling tidak kamu sukai di sekolah.;;10998;pelajakhen mm kakhene aku kukhang Bagas hal menghitung
 286277;Ceritakan tentang mata pelajaran yang paling tidak kamu sukai di sekolah.;;11019;kimia si paling Ndak ku sukai kakhene buwe khumus ne
 286277;Ceritakan tentang mata pelajaran yang paling tidak kamu sukai di sekolah.;;11027;PPKN mate pelajakhhen si Ndak ku get ti kakhene membahas tentang pasal- pasal sehingge susah untuk ku pahami
@@ -562,7 +599,6 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286280;Menurutmu mengapa minat membaca di Indonesia sangat rendah?;;11128;karene kurang ne perhatien guru khut murid Edi me kurang minat murid membace sebab Edi me murid kurang membace
 286281;Menurutmu bagaimana cara melestarikan kebudayaan daerah?;;11090;dengan menjage cikhi khas daekhah ne,dan kebudayaen ne
 286281;Menurutmu bagaimana cara melestarikan kebudayaan daerah?;;11095;ulang tading Ken adat khut budaye alas te
-286281;Menurutmu bagaimana cara melestarikan kebudayaan daerah?;;11088;menjage keberksihen ulang capek Ken sampah sembarangen
 286281;Menurutmu bagaimana cara melestarikan kebudayaan daerah?;;11117;khut kite kekhine melestariken budaya khase malet Bene iye kite jage si nggo ni bahani nek u te
 286281;Menurutmu bagaimana cara melestarikan kebudayaan daerah?;;11104;dengan mengadakan Takhi tradisional daekhah supaya kebudayaan nge tetap lestakhi
 286282;Menurutmu bagaimana cara melestarikan bahasa daerah?;;11127;kite arus Bue bue cekhok alas Kase kite endak lupe
@@ -570,6 +606,7 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286282;Menurutmu bagaimana cara melestarikan bahasa daerah?;;11107;untuk melestakhiken bahase daekhah, bagas sekolah hakhus kita ajakhken me anak anak didik te bagas pelajakhen seni budaya
 286283;Menurutmu bagaimana hewan dapat memahami kita?;;11639;bintang paling get ate ku kucing karene Mende iye
 286283;Menurutmu bagaimana hewan dapat memahami kita?;;11141;dengan cara melihat kebiasaan dan efek dari interaksi antara manusia dengan hewan dan menjadi pengalaman bagi hewan tersebut
+286283;Menurutmu bagaimana hewan dapat memahami kita?;;11116;kakhe binatang tersebut gati khut kite jadi ne ie paham khut kae bahasa kite te me misal ne
 286284;Bagaimana kamu menghabiskan akhir pekan kamu?;;11144;dalani plin sambil ikuti alukh ne pate iye berakhekh kune semestine
 286284;Bagaimana kamu menghabiskan akhir pekan kamu?;;11152;laus khut imbang pelin dapah pot kami laus soh bongi
 286284;Bagaimana kamu menghabiskan akhir pekan kamu?;;11242;aku mengeriken waktu libur q lajang -lajanh de let sen
@@ -588,6 +625,7 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286289;Bagaimana kamu bisa menjadi versi diri yang lebih baik?;;11234;tergantung cakhe kite plin kune kite paham gedi bahan
 286290;Apa saja hal yang paling kamu syukuri?;;11296;kene khe umukh dekah  Mukhah khejeki kene khe kesehaten
 286290;Apa saja hal yang paling kamu syukuri?;;11312;mesukhuh kakhene tong let okhang tue ku,tong keadaen sehat,tong ni khe kesehatan ,tong nie khe geluh keadaen sehat
+286290;Apa saja hal yang paling kamu syukuri?;;11238;bersyukur kalihen aku ni bekheken khang tue si Sayang kalihen bangku
 286291;Jelaskan tentang dirimu.;;11336;gelakh ku cut ,aku kuliah ni STIKIP-US Kutacane,dan sendah tandok ni semester 6
 286291;Jelaskan tentang dirimu.;;11318;aku anak ke waluh dakhi waluh be sedakhe
 286291;Jelaskan tentang dirimu.;;11373;Gelakh ku rahmad dani, alamat ku lawe sumur, umukhku 19 tahun
@@ -605,6 +643,8 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286297;Menurutmu mengapa keluargamu luar biasa?;;11414;sebhab keluakhge ku mengjakhken aku akhti dakhipade penting ne menjaga pekhsaudakhaen
 286297;Menurutmu mengapa keluargamu luar biasa?;;11374;sangat mendukung kae pe si ni bahani dan ni ku cte cite ken
 286298;Apa saja hal yang ada dalam pikiranmu saat ini?;;3386;Kae pelin si let ni bagas pikekhenmu sendah nde ?
+286298;Apa saja hal yang ada dalam pikiranmu saat ini?;;11391;aku mepikhek,ate ku Amek ku khut uwok ku umroh segekhe
+286298;Apa saja hal yang ada dalam pikiranmu saat ini?;;11402;sendah ne ni pikekhen ku mangan penanggan
 286299;Ceritakan bagaimana tempat terbaik yang pernah kamu kunjungi?;;11430;ni khumah Ninik kekhene ni Hadi kumpul selukhuh keluakhge si Nemu cekhite sambil tawe
 286300;Ceritakan bagaimana tempat terbaik untuk kamu tempati?;;11446;ni Ketambe kakhene Hadi wisata ne sangat indah
 286300;Ceritakan bagaimana tempat terbaik untuk kamu tempati?;;11496;khuang si mbogoh ataupe pemandangan si luas mate memandang
@@ -612,6 +652,7 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286301;Ceritakan tentang konten kreator favorit kamu.;;11449;cakhe ne mebahan ken se mudah plin hamin kune taboh kite plin
 286301;Ceritakan tentang konten kreator favorit kamu.;;3301;cekhite tentang konten kreator pavorit kau
 286302;Dapatkah kamu menceritakan bagaimana kamu sebagai seorang anak?;;11453;sebage anak dak wayang baik ne sopan santun ne
+286302;Dapatkah kamu menceritakan bagaimana kamu sebagai seorang anak?;;4345;si ku sukai ketike aku mekhase ken senang bagas ngeluh nde te me gedi ge kedah kehine kharus pas dan tetah 
 286303;Jelaskan pacar ideal kamu.;;11501;jelaskhen khamah tipe mu
 286303;Jelaskan pacar ideal kamu.;;11595;gedang,bekhong manis,baik,perhatien,setie,tetuhu sayang, ganteng, nemu Mahan nyaman,peduli bangku
 286303;Jelaskan pacar ideal kamu.;;11477;gedang belin khut berong manis let tule bahanen menetap ne
@@ -620,7 +661,11 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286305;Bagaimana cara kamu mengalihkan diri dari patah hati?;;11530;kune cakhe mu mengakhlihken dikhie dakhie putok ate
 286305;Bagaimana cara kamu mengalihkan diri dari patah hati?;;11491;dengan cakhe ikhtiar sembahyang,main hp dan membace alquran
 286305;Bagaimana cara kamu mengalihkan diri dari patah hati?;;11612;Te masing masing kalak nde bede bede let kalah petep ate laus lajang lajang sike  juah ate ne let kalak senagien melelo iye khut imbang ne cekhite melelo khut khahami peganti ne te aku pettan aku sesade jangke male supaye malet nange inget kalah si petep kan ate ku
+286305;Bagaimana cara kamu mengalihkan diri dari patah hati?;;11502;nempukhi okhang tue menahan pus jagung khut nuan page
 286306;Bagaimana cara kamu agar tetap fokus?;;11521;malet me pedulikan sekitar kase aku fokus mebahan
+286306;Bagaimana cara kamu agar tetap fokus?;;11574;care q supaye fokus Edi tetap percaya diri Edi make fokus
+286306;Bagaimana cara kamu agar tetap fokus?;;11514;cakhene selengi jeme su aku sukeii kase aku pokus
+286307;Hal apa saja yang dapat mengalihkan fokusmu?;;15845;kae pelin si nemu ngalihken sekhiusmu
 286309;Jelaskan hari terburuk kamu.;;11541;jelaskhen wakhi sial kao
 286309;Jelaskan hari terburuk kamu.;;4559;jumpe khut doktekh gile celake tutuh layr edime si terburuk pengalaman
 286309;Jelaskan hari terburuk kamu.;;3597;tekhengken wakhi si malet mende mu
@@ -649,6 +694,8 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286317;Hal apa saja yang ingin kamu lakukan di masa depan?;;11665;menjadi Kalak sukses dan ulang penah sombong
 286318;Jelaskan hari yang sempurna untuk kamu.;;11727;Wakhi Minggu ni khumah gukhu bekajakh kune Kase va
 286318;Jelaskan hari yang sempurna untuk kamu.;;11675;hari si sempukhne adalah hari jike segale ukhusen kite lancar dan dapet khezeki si halal
+286318;Jelaskan hari yang sempurna untuk kamu.;;1381;jelasken wakhi si sempurna me kandu
+286319;Jelaskan hari yang terburuk untuk kamu.;;11697;hal si paling sial nabuh aku khut kene kejar Kalak
 286321;Hal apa sajakah yang kamu sesali lakukan dalam hidup?;;11714;mahan kalak mesui ate dan malet tebahan beribadah
 286321;Hal apa sajakah yang kamu sesali lakukan dalam hidup?;;11723;untuk sendah nde,malet hal kae pe si ku sesali kekhine medalan sesuai inginku
 286322;Ceritakan lawakan bagus yang kamu tahu.;;11859;bengkale,bengkale kae si makgan Galuh?
@@ -657,6 +704,7 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286322;Ceritakan lawakan bagus yang kamu tahu.;;11746;ikan tongkol dabuh me semen ipen mu nongol silaumen
 286322;Ceritakan lawakan bagus yang kamu tahu.;;11787;let ninik dang nyapu halamen kemudien ninik tersebut sui awak me gat mesendekh lah ye me sapu ge kae nange gat putok hamin sapu ge tambah sui awak ninik ge
 286322;Ceritakan lawakan bagus yang kamu tahu.;;11793;pantun alas si menceriteken tentang Kalak Pitung nangkih niwokh khut Kalak tungkik ngitung pige si nggo ndabhuh
+286322;Ceritakan lawakan bagus yang kamu tahu.;;11790;let imbang ku get su ate ku khud iye ekase aku sayang su khut iye kalak ne cikhem ne manis lucu manis su kalak ne
 286323;Apa saja hal terpenting dalam hidupmu?;;11783;sabu khut lem khambing khut ganje mabok mabok khut naku
 286323;Apa saja hal terpenting dalam hidupmu?;;11763;membahagieken khang tue, keluakhge sekhte agame
 286323;Apa saja hal terpenting dalam hidupmu?;;11773;si tekhpenting bagas geluh ku, khangtue ku, saudakhe-saudakheku, anak-anakku, khut mekhamal be tuhan
@@ -671,9 +719,13 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286327;Apa saja karakter yang paling menyebalkan bagimu?;;11884;imbang ku si paling pekak malot toh ne kae v
 286327;Apa saja karakter yang paling menyebalkan bagimu?;;11848;karaktekh si menyebalken bagiku kalak si kuat pebuall
 286327;Apa saja karakter yang paling menyebalkan bagimu?;;11850;kalak putut khut kalak kisat kut kalak bue su chehok ne
+286329;Menurutmu apa saja tantangan hidup di masa lampau?;;11872;nggeluh tanpa let ne khang tue ni dunie ndw
 286331;Bagaimana pendapatmu tentang kehidupan di masa lampau? ;;2244;sedih lua biase
+286331;Bagaimana pendapatmu tentang kehidupan di masa lampau? ;;12050;biase pelin,de Nemu akhus jujurk dan maso cekhork Ken si Ndak pantas
 286332;Bagaimana pendapatmu tentang yang akan terjadi di masa depan?;;11919;kune cakhe pendapat mu tentang si  bakal terjakhdi nie mase depan
 286332;Bagaimana pendapatmu tentang yang akan terjadi di masa depan?;;11923;tekhime pelin kae si akan tekhjadi ni mase depan
+286332;Bagaimana pendapatmu tentang yang akan terjadi di masa depan?;;11927;mudahen andakhi mbedih aku mu mendapet gelakh s3
+286334;Menurut kamu, apa saja yang kamu butuhkan saat ingin membangun usaha?;;11970;sen untuk modal ,niat te si polu ne usahe te
 286335;Apa saja kualitas seorang pengurus rumah tangga yang hebat?;;11935;kae plin kualitas jeme pengurus khumah tangge si hebat
 286335;Apa saja kualitas seorang pengurus rumah tangga yang hebat?;;4571;nemu bahani bahanen khumah senankhen semangat
 286335;Apa saja kualitas seorang pengurus rumah tangga yang hebat?;;11965;menjage anak memasak mengukhusi khumah kase get kalak khumah
@@ -696,6 +748,7 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286340;Jelaskan kamu ingin menjadi orang yang seperti apa.;;12044;de aku nate ngu jadi jeme bayak si dermawan nemu bantu jeme tekhem
 286340;Jelaskan kamu ingin menjadi orang yang seperti apa.;;12043;njadi jeme si Mende pekhasat , njadi kalak sukses
 286340;Jelaskan kamu ingin menjadi orang yang seperti apa.;;2907;aku nanggat jadi khalak megune
+286340;Jelaskan kamu ingin menjadi orang yang seperti apa.;;12030;bage muller pemain sepak bola kase bue sen
 286341;Menurutmu bagaimana rasanya kehilangan seseorang yang penting dalam hidupmu?;;12062;was ate bage malet pot khase ne gelukh v
 286341;Menurutmu bagaimana rasanya kehilangan seseorang yang penting dalam hidupmu?;;12046;sedih,hancukh Mak tecekhiteken sedih ne khase ne malet nae gune ne ngeluh ni dunie nde v
 286341;Menurutmu bagaimana rasanya kehilangan seseorang yang penting dalam hidupmu?;;12042;pepelin mepike khut malet nange Pot su ngeluh
@@ -703,6 +756,7 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286343;Menurut kamu apa hal paling tidak dewasa yang pernah dilakukan olehmu?;;12081;nakhen pepelin pekhak kadang melawan me khang tue
 286343;Menurut kamu apa hal paling tidak dewasa yang pernah dilakukan olehmu?;;2159;ngati ngechat anak khalak lewat wa khut fb
 286343;Menurut kamu apa hal paling tidak dewasa yang pernah dilakukan olehmu?;;4469;hal si paling malet dewasa si pekhnah kulakuken melelo nggati khut anak-anak 
+286343;Menurut kamu apa hal paling tidak dewasa yang pernah dilakukan olehmu?;;12089;melakhang aku mekhamah khu kau malet side setuju
 286345;Sampaikan apa saja bagian budaya kamu yang paling kamu banggakan.;;12114;baju mesikhat,Bulang bulu,pemamanen,pelebat,nakhi belo mesusun
 286345;Sampaikan apa saja bagian budaya kamu yang paling kamu banggakan.;;12095;Bagas adat alas budaye paling ku bangge Ken khut aku senangi Edi me pemamanen khut antat takhuh
 286345;Sampaikan apa saja bagian budaya kamu yang paling kamu banggakan.;;12106;budaye si paling ku banggeken iyalah budaye pemamanan jinto ku de si nilakukan ni adat alas nde sebab khami ne jeme si jinto kude
@@ -739,21 +793,26 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 286356;Ceritakan lebih banyak tentang hobi/kebiasaanmu yang tidak dilakukan oleh kebanyakan orang.;;12283;melolo khut imbang malet peduli kepada en kae pe tetap melelo
 286358;Hal-hal apa yang telah kamu lakukan yang memberi kamu banyak kepuasan?;;5696;malot mekhase kaepe malot mekhase kaepe malot mekhase kaepe malot mekhase kaepe malot mekhase kaepe malot mekhase kaepe
 286358;Hal-hal apa yang telah kamu lakukan yang memberi kamu banyak kepuasan?;;12308;pul nukokh belanje nukokh baju , selep,kekhine lah nukokh kae si get ate ku pokokne
+286358;Hal-hal apa yang telah kamu lakukan yang memberi kamu banyak kepuasan?;;12267;su cicém cicém muda beniet yang telah menjadi u to invite to invite
 286361;Mengenai hal apa sajakah rasa ingin tahu kamu?;;3576;khayak si nangat kumetohkhi khase inginku khase tahuku tentang dunie,  tentang dikhimu
 286361;Mengenai hal apa sajakah rasa ingin tahu kamu?;;12339;tentang dunie pekerjaan ni kutecane nde khutkhut kehidupan ande
 286362;Ceritakan tentang cara menarik untuk bertemu orang baru.;;12428;tentang kae si nmu ukhuk kite ato awene
 286362;Ceritakan tentang cara menarik untuk bertemu orang baru.;;12376;sape jeme Babai mecekho tanyak kae hobi ne
+286362;Ceritakan tentang cara menarik untuk bertemu orang baru.;;12613;Babai mecekho tentang kae hobi ne tanyak
 286363;Hal-hal apa saja yang kamu sukai dari dirimu sendiri?;;12349;aku malet sombkhong aku nde malet gat mejile mejile te bue kalak get ate kidah cikhem ku aku pe ma pecaye gat da kalah sebut aku bacahk te menukhut ku malet gedi
+286363;Hal-hal apa saja yang kamu sukai dari dirimu sendiri?;;2839;makai pe
 286364;Menurut kamu, apa saja sifat terburuk yang bisa dimiliki seseorang?;;12359;penangko,nyabu Kalak melawan me khang tue ne
 286364;Menurut kamu, apa saja sifat terburuk yang bisa dimiliki seseorang?;;3005;malot mende pekhasat,  ngati bual,  peculas,  pekakhuk
 286364;Menurut kamu, apa saja sifat terburuk yang bisa dimiliki seseorang?;;12366;sifat si Ndak Mende dakhi Kalak sifat ikhi dengki khut kalak
 286364;Menurut kamu, apa saja sifat terburuk yang bisa dimiliki seseorang?;;5722;menukhut ku sifat si paling khandah si nemu tebheken jeme, kekhine sifat si bhe hewan nemu tebheken jeme apebile ie ndak kuat iman ne
 286364;Menurut kamu, apa saja sifat terburuk yang bisa dimiliki seseorang?;;12365;pebual penangko khut kalak pebual penyabu khut kalak pebual pekangking tule pe nipu
 286365;Menurut kamu, apa saja hal aneh yang ada pada dirimu?;;3351;kadang pepelin mengas kidah aku kadang malot,  edime entah kaesu aku nde mungkin kadangpe antakhe aku malet me khesen senakhen sulit khut sempit
+286365;Menurut kamu, apa saja hal aneh yang ada pada dirimu?;;12373;nangat mejile tapi males khidi khut pekhawaten
 286366;Apa pertimbangan kamu saat memilih tempat makan?;;12391;taboh atau Ndak makanan side, te me sedap hadi amin
 286366;Apa pertimbangan kamu saat memilih tempat makan?;;12395;si taboh kas ne khut taboh imbang nakan ne si beskhik khut khame kale ne kase taboh kumpul
 286366;Apa pertimbangan kamu saat memilih tempat makan?;;12375;makanen ne akhus sedap khut menimati tempat ne
 286366;Apa pertimbangan kamu saat memilih tempat makan?;;2842;sedap khasene
+286367;Tempat makan seperti apa yang kamu sukai?;;12389;Ndak kepe Tuhu niet mu die khut aku mekhumah tangge
 286368;;di;1513;ni
 286373;;itu;1782;die
 286374;;nya;1410;we
@@ -862,53 +921,70 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 287534;Ceritakan momen yang tak terlupakan atau bermakna dari masa kecil Anda.;;12416;melolo Sampek lupe waktu Kene mengasi be
 287535;Ceritakan pengalaman paling menakutkan atau mengharukan yang pernah Anda alami.;;12412;sedih khut gari ni sakati khut ji keceweken
 287535;Ceritakan pengalaman paling menakutkan atau mengharukan yang pernah Anda alami.;;7338;bagas detail bue mungkin,jelasken situasi,si sulit atope tantang si let ngadepi khut ketekhe ngatasi se
+287535;Ceritakan pengalaman paling menakutkan atau mengharukan yang pernah Anda alami.;;12432;hal paling aku takut Ken saat dalan jauh tapi nyasar ke kas lain
 287536;Ceritakan pengalaman paling menyenangkan yang pernah Anda alami dalam hidup Anda.;;7339;sedang cut mase khami melelo khut imbang
 287537;Ceritakan pengalaman yang berkesan atau bermakna dalam hidup anda?;;12460;terkese kakhene nangat metoh Edi v kadang
 287537;Ceritakan pengalaman yang berkesan atau bermakna dalam hidup anda?;;12427;ketike kau khut keluargaku mangan mangan ketkhut
 287537;Ceritakan pengalaman yang berkesan atau bermakna dalam hidup anda?;;12441;"Syahril ato p pidato telu alak jeme laus me kecamaten "" kalak untuk Mido khut tanding pesanekhen akhi"
 287538;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat berinteraksi dengan seseorang dari budaya atau latar belakang yang berbeda.;;12449;interaksi si ku alami ngato budaye Kalak di ndak bede jauh khut budaye ku
+287538;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat berinteraksi dengan seseorang dari budaya atau latar belakang yang berbeda.;;12434;lalit,ndai nari e sungkun mu pebsjsjdjbdndjakkaks
 287539;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat berpartisipasi dalam suatu acara kebudayaan atau perayaan.;;12446;Gati melelo Khut imbang Sampek lupe waktu
 287540;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat berpartisipasi dalam suatu acara pertemuan komunitas.;;7396;canggung khut kagum sekhte bersemangat untuk ingin tau
 287541;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat berpartisipasi dalam suatu acara upacara agama atau spiritual.;;12463;bahagia metohise khut pengalmen mangan mangan khut
+287541;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat berpartisipasi dalam suatu acara upacara agama atau spiritual.;;7397;senang jumpe khut imbang bakhu dan budaya bakhu
+287541;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat berpartisipasi dalam suatu acara upacara agama atau spiritual.;;12465;saya pernah jalan ke kota orang dan saya mendapat kan pengetahuan yg baru dalam islam
 287542;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat mempelajari sesuatu hal yang baru.;;12479;ngko saja si ndarami na teh
 287542;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat mempelajari sesuatu hal yang baru.;;12477;tanding untuk babe gelakh pesantkhen ku akhi laus me camat Kalak ngemis untuk ni babe tanding
+287542;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat mempelajari sesuatu hal yang baru.;;12481;dapet pengalamen mbakhu untuk nggeluh Mase depan
 287543;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat menghabiskan waktu bersama keluarga atau orang yang dicintai.;;12487;mangan cimpe khut mek ku tambah tule khami khami uh edi me si paling get ate ku
 287543;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat menghabiskan waktu bersama keluarga atau orang yang dicintai.;;12472;sanget senang khut bahagie kitike kite kumpul khut okhang tur
+287543;Ceritakan pengalaman yang berkesan atau bermakna yang Anda miliki saat menghabiskan waktu bersama keluarga atau orang yang dicintai.;;12496;pengalaman ne suke cekhite tentang mase kecil khut amek ku kale suke bang kak ikan khut imbang ku ni sengai
 287544;Ceritakan sebuah anekdot atau kejadian lucu yang pernah terjadi dalam hidup anda?;;6981;cerita alas
 287547;Ceritakan tentang orang yang memiliki dampak signifikan dalam hidup Anda?;;7403;sejak bangsa Indonesia malet memperhatiken Aceh, setelah Edi Aceh mulai melakukan aksi perlawanen melalui sebuah pergerakan
 287547;Ceritakan tentang orang yang memiliki dampak signifikan dalam hidup Anda?;;12515;mame ku si bantu aku masuk ke kampus Edi me soh bende cekhite ku
 287547;Ceritakan tentang orang yang memiliki dampak signifikan dalam hidup Anda?;;12505;iye si mempekhatiken kite tentang kite ni bagas ngeluh te
+287547;Ceritakan tentang orang yang memiliki dampak signifikan dalam hidup Anda?;;12500;iye sini mempekhakhtiken aku sayanggine aku
 287548;Ceritakan tentang sebuah momen yang sangat memalukan yang pernah Anda alami.;;7062;iklim tropis
 287549;Ceritakan tentang seseorang yang pernah memberikan pengaruh besar dalam hidup Anda dan mengapa.;;12514;mame ku khut mae   awok ku khu mame ku
 287549;Ceritakan tentang seseorang yang pernah memberikan pengaruh besar dalam hidup Anda dan mengapa.;;7072;Wilayahnya sangat mengerikan karena masih hutan rimbun dan binatang buas sangat bayak
 287550;Ceritakan tentang situasi yang sulit atau menantang yang Anda hadapi dan bagaimana Anda mengatasinya?;;12519;abakh dan tabah jalan ken kehidupen kite ni dunie
 287550;Ceritakan tentang situasi yang sulit atau menantang yang Anda hadapi dan bagaimana Anda mengatasinya?;;7075;manfaatnya sangat banyak
 287550;Ceritakan tentang situasi yang sulit atau menantang yang Anda hadapi dan bagaimana Anda mengatasinya?;;12517;ketike aku dang sekhik mlt ise pe pot bantu se aku
+287550;Ceritakan tentang situasi yang sulit atau menantang yang Anda hadapi dan bagaimana Anda mengatasinya?;;12516;Ndak kepe Tuhu niet mu dieee khut akhu merumah tangge
 287557;Apa saja yang dapat kita pelajari dari sejarah yang dapat membantu kita memahami permasalahan dan tantangan saat ini?;;7095;berjuang keras demi mendapatkan kemerdekaan walaupun nyawa taruhannya
 287560;Ceritakan apa yang terjadi ketika Belanda menjajah daerah Anda?;;7123;kami dakhi suku alas mebue ragam suku dan budaye
 287562;Ceritakan bagaimana Islam memasuki daerah Anda?;;12554;Ende tule aboyyyy payah ne ku AKAP jawab SE
 287563;Ceritakan bagaimana dampak imigrasi dan migrasi pada sejarah daerah atau negara Anda?;;12557;nggo Edi balik side aku nda nggo Maghrib pe
 287564;Ceritakan bagaimana dampak kebijakan pemerintah dan sistem politik pada sejarah daerah atau negara Anda?;;12564;kiteh me assalamualaikum ku ucapkan bamu
+287564;Ceritakan bagaimana dampak kebijakan pemerintah dan sistem politik pada sejarah daerah atau negara Anda?;;12576;let kalah khukum cambuk khut  taangn maket tentu tyhu
 287567;Ceritakan bagaimana dampak pertukaran budaya dan globalisasi pada sejarah daerah atau negara Anda?;;12572;Nemu Mahan anak bangse nde me pikekh lebih luas
 287587;Ceritakan tentang kehidupan atau karier seorang tokoh bersejarah, termasuk kontribusi dan dampaknya pada sejarah?;;7182;sangat penting karena mereka membuat foto dan vidio untuk di bagikan lewat media baik itu televisi dan lainya
 287587;Ceritakan tentang kehidupan atau karier seorang tokoh bersejarah, termasuk kontribusi dan dampaknya pada sejarah?;;12626;uwe tekhe oe sah dalani to ngo laus gat beidh
 287591;Apa saja hal yang paling menarik bagi Anda ketika mengunjungi tempat wisata terntentu?;;7190;keluarga dalam budaya sangat penting
 287601;Ceritakan gambaran bentuk perumahan atau arsitektur tradisional yang digunakan dalam budaya atau daerah Anda?;;7217;melagam tradisi seni yang di buat di saat pesta sunatan
+287603;Ceritakan gambaran makanan atau hidangan tradisional yang dihidangkan dan dinikmati dalam budaya Anda?;;15939;magan bagas talam
+287604;Ceritakan hal -hal yang dinikmati wisatawan asing di daerah Anda?;;7225;dan setelah berusia 120 hari bisa di panen dan setelah itu dijemur sampi kering lalu di jual dengan harga pasaran
 287605;Ceritakan hal -hal yang dinikmati wisatawan lokal di daerah Anda?;;7229;kelapa sawit tanaman jangka panjang yang berusia puluhan tahun
+287605;Ceritakan hal -hal yang dinikmati wisatawan lokal di daerah Anda?;;15941;let nage
 287606;Ceritakan kerajinan atau dagangan tradisional yang ada di daerah Anda?;;7597;cakhe Mahan SIM,pekhtama laus be kantur Samsat kemudian jumpai petugas ni bagian loket untuk Mahan SIM,pul Edi serajken KTP asli,isi lot kotas kheken petugas,tekhakhir nahan foto
+287606;Ceritakan kerajinan atau dagangan tradisional yang ada di daerah Anda?;;12655;mbayu sumpit khut Amak batang Kuang akhi
 287607;Ceritakan mengenai bentuk obat tradisional atau perawatan kesehatan yang digunakan dalam budaya atau daerah Anda?;;12657;daun delembu untuk sui tuke, daun putok, daun bimbakhen
+287607;Ceritakan mengenai bentuk obat tradisional atau perawatan kesehatan yang digunakan dalam budaya atau daerah Anda?;;7600;ngampeken,meradat,Mido pudun,nikah mekhaleng atau nakhuh
 287608;Ceritakan mengenai festival budaya atau perayaan yang pernah Anda ketahui atau hadiri?;;7242;jarak antakhe khumahku me kota, malet nae kune su ndauhne
 287610;Ceritakan mengenai kesenian tradisional di daerah Anda?;;7607;laus belanje,pilih bahan si kite masak,bekhsihken,bakhu masak
 287610;Ceritakan mengenai kesenian tradisional di daerah Anda?;;12660;Tangis dilo, nakhi, pelebat, mesekat nge
+287611;Ceritakan mengenai makanan tradisional di daerah Anda?;;12662;"manukh laba, cimpe, bahrum, bua khum"", gelame"
 287613;Ceritakan mengenai pengalaman perjalanan yang unik atau berkesan yang Anda miliki?;;7968;kheken aku pkhintah langkah Kase langkah cakhe tuk nulokh tigoh
 287614;Ceritakan mengenai pentingnya keluarga dan komunitas dalam budaya Anda?;;8114;we si aman di pokoknya kaonkelhine welah
 287615;Ceritakan mengenai peran mendongeng, cerita rakyat, atau tradisi lisan dalam budaya Anda?;;8118;cekhite si layakh khut bekhu dinem amin edipe kukhang aku meroh
 287620;Ceritakan peran alam dan lingkungan dalam budaya Anda, termasuk tradisi atau praktik unik?;;8126;ceritakan peran alam di lingkungan termasuk tradisi batik
-287620;Ceritakan peran alam dan lingkungan dalam budaya Anda, termasuk tradisi atau praktik unik?;;8427;cekhiteken tentang alam dan lingkungen bagas budaye kendin,sibage tradisi atope praktek unik
+287622;Ceritakan peran musik dan seni dalam budaya Anda, termasuk tradisi atau praktik unik?;;8575;musik ni alas de tangis dilo seni di tanoh alas de cinto kude ataupe mehaleng
+287625;Ceritakan perbedaan dan persamaan antara budaya di daerah Anda sendiri dengan budaya daerah sekitarnya?;;8134;budaya ne bue perbedaan ne bue citok su poin nenmalas kamu bahas se
 287626;Ceritakan tentang budaya atau kebiasaan unik dari negara atau daerah Anda.;;8136;Ahas SE gedang gedang
 287626;Ceritakan tentang budaya atau kebiasaan unik dari negara atau daerah Anda.;;8135;citok su poin ne males kami
 287627;Ceritakan tentang festival atau acara budaya yang pernah Anda hadiri atau ingin hadiri di masa yang akan datang.;;8141;te kami ande dang sebelum khaye ngadaken lamle gelkakhne
 287628;Ceritakan tentang makanan atau minuman khas yang hanya dapat Anda temukan di daerah atau negara Anda.;;8629;Manuk labakh sebuah panganen khang alas, sedangken cendol minumen ne  khang alas
+287628;Ceritakan tentang makanan atau minuman khas yang hanya dapat Anda temukan di daerah atau negara Anda.;;8648;letpe penangan khang alas ,contoh ne ,cimpe,bahan bahan ne, tepung bekhas,gule kakho,gule pasekh secukup ne,Bulung tempat,ningo,monumen ne Lawe ningo campukh gule pasekh khut susu secukup ne
 287629;Ceritakan tentang suatu adat atau kebiasaan unik dari budaya daerah atau negara Anda.;;8143;ceritakan tentang sesuatu adat atau kebiasaan unik dari budaya daerah atau negara Anda
 287629;Ceritakan tentang suatu adat atau kebiasaan unik dari budaya daerah atau negara Anda.;;8496;kebiaseen adat alas pemamanen biasene ni bahani waktu kalak kawin
 287629;Ceritakan tentang suatu adat atau kebiasaan unik dari budaya daerah atau negara Anda.;;8462;pelin begahan ulah orang alas nde mlt pe ,me sen harus lot Ken ,te khang alas nde
@@ -916,12 +992,12 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 287630;Ceritakan tentang tempat yang pernah Anda kunjungi yang memiliki nilai sejarah atau tradisi budaya yang kaya?;;8519;kas si lot aku kunjungi kayu uwingen khut Bekhu dinem
 287631;Apa prosedur yang biasa Anda lakukan ketika ingin melakukan perawatan rutin pada kendaraan Anda?;;8145;apa prosedur yang biasa anda lakukan ketika ingin melakukan perawatan rutin pada kendaraan anda
 287631;Apa prosedur yang biasa Anda lakukan ketika ingin melakukan perawatan rutin pada kendaraan Anda?;;8476;milasi Hondar meijilekan mesine ganti selender
+287631;Apa prosedur yang biasa Anda lakukan ketika ingin melakukan perawatan rutin pada kendaraan Anda?;;8473;ganti seleter Honda ,servis Honda ,cuci Honda ,lap Honda
 287632;Apa prosedur yang biasa Anda lakukan ketika ingin melakukan presentasi atau diskusi dengan tim atau kelompok kerja?;;8507;cakhe untuk kerja kelompok
 287632;Apa prosedur yang biasa Anda lakukan ketika ingin melakukan presentasi atau diskusi dengan tim atau kelompok kerja?;;8472;kae si kandu buet nde dang pot kerje kelompok
 287633;Apa prosedur yang biasa Anda lakukan ketika ingin mempersiapkan presentasi atau pidato di depan umum?;;8545;Siap Ken Dikhi khut lebih mejile
 287633;Apa prosedur yang biasa Anda lakukan ketika ingin mempersiapkan presentasi atau pidato di depan umum?;;8486;kae prosedur si biase kandu bahani ketika nangat mempersiapken presentasi ato pidato ni muke umum
 287633;Apa prosedur yang biasa Anda lakukan ketika ingin mempersiapkan presentasi atau pidato di depan umum?;;8563;Siapken dikhi siapken materi pidato siskel ni tampilken
-287633;Apa prosedur yang biasa Anda lakukan ketika ingin mempersiapkan presentasi atau pidato di depan umum?;;8483;petame bace bismillah selawat ke jujungen nabi Muhammad saw
 287633;Apa prosedur yang biasa Anda lakukan ketika ingin mempersiapkan presentasi atau pidato di depan umum?;;8485;siap Ken bahan ,terus tulis,terus Abal ,mental pe harus siap Ken
 287633;Apa prosedur yang biasa Anda lakukan ketika ingin mempersiapkan presentasi atau pidato di depan umum?;;8482;petame bace bismillah selawat ke jujungen nabi Muhammad Saw
 287634;Apa saja biasanya yang anda lakukan ketika anda harus melakukan presentasi di depan umum?;;8495;siap ke mental ulang gemetar harus berani
@@ -954,7 +1030,6 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 287640;Bagaimana Anda biasanya membersihkan rumah atau tempat tidur Anda?;;8632;sapu khumah cabengken sampah si lot ne bosihi kamakh p sapu kamakh bosihi
 287641;Bagaimana Anda biasanya membuat daftar belanjaan sebelum berbelanja?;;8592;tulis lebe di buku atau pe ni kertas
 287641;Bagaimana Anda biasanya membuat daftar belanjaan sebelum berbelanja?;;8609;cakhe aku belanje ku catat Lebe bakhu aku laus me pekan untuk belanje
-287641;Bagaimana Anda biasanya membuat daftar belanjaan sebelum berbelanja?;;8615;kune kao biasene bahan daftar perjalanen sebelum belanje
 287641;Bagaimana Anda biasanya membuat daftar belanjaan sebelum berbelanja?;;8619;cakhe aku belanje ku catat lebe, bakhu aku laus me pekan untuk belanje nuko kae si sekel aku tuko
 287641;Bagaimana Anda biasanya membuat daftar belanjaan sebelum berbelanja?;;8588;biasene kami catat ni buku de dak kami iget-iget sepanjangdalan
 287641;Bagaimana Anda biasanya membuat daftar belanjaan sebelum berbelanja?;;8600;catet kae si perlu untuk ni tukokh, kane jelas laus ne sen, ulang belanje si ndap penting
@@ -999,11 +1074,14 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 287652;Bagaimana yang anda lakukan ketika ingin mempersiapkan sebuah rapat atau pertemuan?;;8943;jumpe i jemesi khut khapet e pul edi mulai khapet khut khut
 287653;Berikan instruksi langkah demi langkah cara mempersiapkan diri untuk beribadah di tempat ibadah Anda?;;8952;cehe ne bersihken dikhi
 287653;Berikan instruksi langkah demi langkah cara mempersiapkan diri untuk beribadah di tempat ibadah Anda?;;8858;harus mulai Rut niat terutama jage kebersihen Rut kerapien
+287653;Berikan instruksi langkah demi langkah cara mempersiapkan diri untuk beribadah di tempat ibadah Anda?;;8843;Khidi be sampe bosih pul edi buet Lawe sembahyang gat kembangken sajadah
 287654;Berikan instruksi langkah demi langkah cara menuju ke kota terdekat di daerah Anda?;;8916;khidi Ndak khidi v malet kae, petame siap Ken sen mekhayak, siapken KTP, SIM, sukhat Honda lengkap siapken Honda, buetken tas gat laus medecheng
 287654;Berikan instruksi langkah demi langkah cara menuju ke kota terdekat di daerah Anda?;;8842;sekel lause daerah lain harus siapken keperluen kite
+287654;Berikan instruksi langkah demi langkah cara menuju ke kota terdekat di daerah Anda?;;8921;menyiapken sen, menentuken transportasi untuk pekhjalanen menuju kota tekhsebut, pul edi berkemas bakhang
 287655;Berikan instruksi langkah demi langkah cara untuk membeli makanan?;;8877;yoh gakhami sen ne, ngo let sen taboh nukokh kae pe nemu, tading pilih pelin ape pot tading tunjuk
 287655;Berikan instruksi langkah demi langkah cara untuk membeli makanan?;;8853;nukooo tading sebut gedi pelin te ni hande luakh jeme ne gatt
 287655;Berikan instruksi langkah demi langkah cara untuk membeli makanan?;;9045;babe sen ne khe Ken me tukang kede pilih menu makanen ne
+287655;Berikan instruksi langkah demi langkah cara untuk membeli makanan?;;8169;malet kadepe si penting dunie amin kekhine
 287656;Berikan instruksi langkah demi langkah cara untuk menanam dan memanen beras?;;8928;tanem padi e ni bagas lumpukh e,timai be telu bulanen,te nggo da,panen gat,masukkan iye bagas mesin padi skhe jadi beras
 287656;Berikan instruksi langkah demi langkah cara untuk menanam dan memanen beras?;;8888;siap Ken seme ne ,bersih ken kas ne ,baru kite nanam ,baru Kho pelin harin
 287656;Berikan instruksi langkah demi langkah cara untuk menanam dan memanen beras?;;8922;palingen sukhuh kalak ngalo upahen tuk nuan se ato v manen se
@@ -1017,15 +1095,14 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 287658;Berikan instruksi langkah demi langkah cara untuk menanam dan memanen kacang?;;8924;kutip be pul kutip batu kite jemur nie hangat wari
 287659;Berikan instruksi langkah demi langkah cara untuk menanam dan memanen kelapa sawit?;;8286;ajukan nggak cair cair Ajukan nggak cair cairAjukan nggak cair cair
 287659;Berikan instruksi langkah demi langkah cara untuk menanam dan memanen kelapa sawit?;;8957;khe ken instruksi langkah demi langkah cakhe untuk nuan khut panem sawit
-287659;Berikan instruksi langkah demi langkah cara untuk menanam dan memanen kelapa sawit?;;8947;metahun tahun be kite suan baru kite dapetken hasilne
 287659;Berikan instruksi langkah demi langkah cara untuk menanam dan memanen kelapa sawit?;;8942;siap ken lahan ne truscsepetot ,terus suwan NGO metue panen
 287660;Berikan instruksi langkah demi langkah cara untuk mendapatkan SIM?;;8287;Ajukan nggak cair cairAjukan nggak cair cairAjukan nggak cair cair
 287660;Berikan instruksi langkah demi langkah cara untuk mendapatkan SIM?;;8944;lebih kase bayaren mu luakh sim mu
 287660;Berikan instruksi langkah demi langkah cara untuk mendapatkan SIM?;;8981;tamat be sekolah  bakhu  nemu bahan sim edi pe di bagas umukh pito  belas
 287660;Berikan instruksi langkah demi langkah cara untuk mendapatkan SIM?;;8962;laus kantor polisi terus bah syarat ne terus suruh bahanni posisi SIM te
 287660;Berikan instruksi langkah demi langkah cara untuk mendapatkan SIM?;;8963;cakhe untuk mendapetken sim, petame hakhus let ktp
+287660;Berikan instruksi langkah demi langkah cara untuk mendapatkan SIM?;;8959;siapken berkas si ni perluken, laus me lantas, bakhu pul edi ikuti langkah2 ne
 287661;Berikan instruksi langkah demi langkah cara untuk mengganti ban mobil?;;8291;Ajukan nggak cair cairAjukan nggak cair cairAjukan nggak cair cair
-287661;Berikan instruksi langkah demi langkah cara untuk mengganti ban mobil?;;12673;petame tame lekahi ban motor ngo pul edi luarken ban ne ganti khut bakhu
 287662;Berikan instruksi langkah demi langkah prosesi pernikahan dalam budaya Anda?;;8292;Ajukan nggak cair cairAjukan nggak cair cairAjukan nggak cair cair
 287662;Berikan instruksi langkah demi langkah prosesi pernikahan dalam budaya Anda?;;8966;ngampeken be baru meradat NGO pul meradat timai b
 287662;Berikan instruksi langkah demi langkah prosesi pernikahan dalam budaya Anda?;;8972;petame ne ngampeken setelah edi bakhu mekhadat bakhu siap ken tanggal ne
@@ -1039,6 +1116,7 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 287664;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin melakukan perawatan pada tanaman atau kebun.;;9014;semprot ye nakhen khut gromoxon mau lot senuan te khut ndak tetap semprot ye khut gromoxon e kalak sehat senuan te
 287664;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin melakukan perawatan pada tanaman atau kebun.;;9042;si ku bahan ni selame nde    nde aku mekhawat tanamen ku pekhtame
 287664;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin melakukan perawatan pada tanaman atau kebun.;;9018;terus Tanama terus jual'
+287664;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin melakukan perawatan pada tanaman atau kebun.;;9010;harus kite semprot be dukutne baru kite tanem senuane
 287665;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin melakukan perbaikan pada perangkat elektronik Anda.;;8297;Ajukan nggak cair cairAjukan nggak cair cairAjukan nggak cair cair
 287665;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin melakukan perbaikan pada perangkat elektronik Anda.;;9030;babe me konter te nemu timai timai, de ndak nahan dahi
 287665;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin melakukan perbaikan pada perangkat elektronik Anda.;;9048;sidung pelin tukang milasi se kae payah ne
@@ -1047,6 +1125,7 @@ sipaling aku inget dang mase cut kale ketike mange toh soal keuangen,sui ate,khu
 287666;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin memasak suatu hidangan tertentu.;;8300;Ajukan nggak cair cairAjukan nggak cair cairAjukan nggak cair cair
 287666;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin memasak suatu hidangan tertentu.;;9107;siap Ken sayukhen khut ikan setelah Edi bosihi sayukh khut ikan si sikel kite tasak i ngo Edi siap Ken awas habis Edi tasak i gt
 287666;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin memasak suatu hidangan tertentu.;;9058;tukokh lebe alat ne makanen kae si kite bahanni siap edi te enggo let bahannene bakhu aduk
+287666;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin memasak suatu hidangan tertentu.;;9071;Tuko sayukh ne gat bosihken tasak i pul edi gat hidangkan ase te go tasak
 287667;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin merancang sebuah program atau kegiatan.;;8302;Ajukan nggak cair cairAjukan nggak cair cair
 287667;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin merancang sebuah program atau kegiatan.;;9074;harus teliti kite pahami ka e si kite bahani
 287667;Ceritakan langkah-langkah yang biasa Anda lakukan ketika ingin merancang sebuah program atau kegiatan.;;9080;mangan be bakhu siapken bahan-bahan ne Kane ulang nahan pas kau mebahan gat melohe tuke mu
